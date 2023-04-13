@@ -641,29 +641,7 @@ Incomplete"
 º•÷ï€ı¨ "	ø2º.`U ÕôOÜğôò	Ó
 ¼•÷ïö¾!	"¸ "	Â4à3\Q ¶ó-Ûğôò	½
 º•÷ïò˜° "	‚6ö6D9 šäoÚğôò	ë
-Ç "	ì6Ş=Ÿx
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitude"
-B"
-No"
-Other"
-Normal"	
-10 m3/h"	
-9868254"	
-Gakenke"
-
-Readable"
-
-Velocity"
-	KIRAKAWM1"
-	Nyagatare"
-DMA out flow"
-50 (1 1/2 '')"
-Not Available"
-Mechanical Meter"
-Bulk meter (for reservoir)"	ÉïÉ÷R&˜@" —`" Î" İ5* 	
- 	
-"	à#š§x
+Ç "	ì6Ş=§x
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_type	Content_1Altitude"
 Yes"
@@ -876,4 +854,26 @@ KIRAKAJU29"
 "	Ê#”' !		
 "	Ü#–'  	 	
 "	.–' 	 	
-"	š. 
+"	š. x
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitude"
+B"
+No"
+Other"
+Normal"	
+10 m3/h"	
+9868254"	
+Gakenke"
+
+Readable"
+
+Velocity"
+	KIRAKAWM1"
+	Nyagatare"
+DMA out flow"
+50 (1 1/2 '')"
+Not Available"
+Mechanical Meter"
+Bulk meter (for reservoir)"	ÉïÉ÷R&˜@" —`" Î" İ5* 	
+ 	
+"	à#š

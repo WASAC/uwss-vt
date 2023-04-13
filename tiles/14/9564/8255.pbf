@@ -762,40 +762,7 @@ Unreadable"
 
 Ì»¾èïž Ž"	œ;˜@^S æÑ¤³î¹Î	°!
 Ì»¾èí… ‰"	¶;¤@\Q ØÐ3¥³î³Î	‰
-¸»¾èîþ ‰"	Î<Ü@åx
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameMeter_Manufacturer
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitudeSerial_NumberYear_of_Manufacture"
-B"
-200"
-DMA"
-Yes"
-Humure"
-Normal"
-Sensus"	
-60 m3/h"	
-Nyakiga"
-
-250 m3/h"
-
-Readable"
-
-Velocity"
-	120041722"
-	90 (3 '')"
-	Nyagatare"
-
-KARNYAWMW1"
-
-KARNYAWMW2"
-DMA out flow"
-Not Available"
-Not available"
-Mechanical Meter"4
-2Water Over Meter Causing Not To Read Info About It"	ï)Y¬¼—@"	¹êãT7d—@" ¤Z" Åý" Ü" ç" ë3(  	
-
-"	²ò5*  		
-
-"	ÔÔ»x
+¸»¾èîþ ‰"	Î<Ü@»x
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_type	Content_1	Content_2Altitude	Content_3Provide_comment_if_necessary"
 No"
@@ -1517,4 +1484,37 @@ KARNYAVA24"
 @ZO<"	 ‚-' ]  ?E	D
 @ZX<"	äü5' l8/0=?E	D
 @ZH<"	æ1Þ' m:2;=BE	A
-@ZK<"	‚7š! n;:=EZQ<"	Š7˜
+@ZK<"	‚7š! n;:=EZQ<"	Š7˜äx
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameMeter_Manufacturer
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitudeSerial_NumberYear_of_Manufacture"
+B"
+200"
+DMA"
+Yes"
+Humure"
+Normal"
+Sensus"	
+60 m3/h"	
+Nyakiga"
+
+250 m3/h"
+
+Readable"
+
+Velocity"
+	120041722"
+	90 (3 '')"
+	Nyagatare"
+
+KARNYAWMW1"
+
+KARNYAWMW2"
+DMA out flow"
+Not Available"
+Not available"
+Mechanical Meter"4
+2Water Over Meter Causing Not To Read Info About It"	ï)Y¬¼—@"	¹êãT7d—@" ¤Z" Åý" Ü" ç" ë3(  	
+
+"	²ò5*  		
+
+"	ÔÔ

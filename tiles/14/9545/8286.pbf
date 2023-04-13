@@ -8241,64 +8241,16 @@ nsÏJüÔ:×•K		&	=â:Œ#•K$% ˆF!	"#"	˜AŠ/TI 
 ÁsÏJüÔ:×ç:		&	&ï:Œ#«I$A%$ °;!	"#"	Ø@Š7H= àH‡7Éí'@ê:İ,	Äs™J&&Œ!	"#"	Ä@¨7cX ÕG0í'@ê:Ï,<	²
 ósÏJüÔ:Õ:ç:		&	&¿;Œ	 ;!	"#"	Ê@²7dY ¤Jñ7€í'@ê:Ï,	ô
 ¨s¾JüÔ:Õ:;	,	&&¿;Œ	 Ÿ<!	"#"	ä@¤7cX ó@¢0‘ë'@ê:Ï,	Ñ
-Œ,s™JüïÕ:è:		&	&àFŒ	 ËH!	"#"	€A€6ZO CŠ0£ì'@ê:İ,<	!sÙüÔ:Õ:ã:		&	&õEŒ	!	"#"	˜AØ6f[ ´J0ÜØ$@ë:Ï,<	!sÉGÔ:Õ:;		&	&ì:Œ#•K$% ‰M!	"#"	šA€:`U „MŸ0€Ò$@è:Ï,	úsæHüÔ:Õ:ç:		&	&™GŒ	 ËH!	"#"	¨@ê:dY óC€0ƒ‰%@è:İ,	±sÈIüå×	&&õEŒ#ñ<$A%$ ˆF!	"#"	î@ş>[P èIı/ƒˆ%@è:İ,Ù	Ãs¬IüŞÕ:		&&·=Œ	!	"#"	¨@–Aí
-x
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitudeProvide_comments_if_necessary
-Owner_TypeInstallation_TypePresence_of_MeterInlet_DiameterOutlet_DiameterProvide_comment_if_necessary"
-B"
-No"
-DMA"
-Yes"
-DN80"
-DN125"
-DN150"
-Gsharu"
-Normal"
-Public"
-Sensus"	
-10 m3/h"	
-40 m3/h"	
-Blocked"	
+Œ,s™JüïÕ:è:		&	&àFŒ	 ËH!	"#"	€A€6ZO CŠ0£ì'@ê:İ,<	!sÙüÔ:Õ:ã:		&	&õEŒ	!	"#"	˜AØ6f[ ´J0ÜØ$@ë:Ï,<	!sÉGÔ:Õ:;		&	&ì:Œ#•K$% ‰M!	"#"	šA€:`U „MŸ0€Ò$@è:Ï,	úsæHüÔ:Õ:ç:		&	&™GŒ	 ËH!	"#"	¨@ê:dY óC€0ƒ‰%@è:İ,	±sÈIüå×	&&õEŒ#ñ<$A%$ ˆF!	"#"	î@ş>[P èIı/ƒˆ%@è:İ,Ù	Ãs¬IüŞÕ:		&&·=Œ	!	"#"	¨@–A½x
+fire_hydrant(€ idID_CodeBranch_Name
+Owner_TypeInstallation_TypePresence_of_MeterInlet_DiameterOutlet_DiameterProvide_comment_if_necessaryAltitude"
+No"
+Public"	
 Muhanga"	
-Surface"
-
-100 m3/h"
-
-150 m3/h"
-
-Readable"
-
-Ruvumera"
-
-Velocity"
-	01 306295"
-	090025532"
-	120041899"
+Surface"
 	63 (2 '')"
-	NYAGAHFH1"
-	NYAGAHWM2"
-	NYAGAHWM3"
-	NYAGITWM3"
-	NYAREMWM1"
-
-Rwansamira"
-DMA in flow"
-DMA Ruvumera"
-E06XJ8555814"
-Not Readable"
-Not Available"
-Gahogo Rutenga"
-DN50 (1 1/2 '')"
-Bulk meter (for reservoir)"#
-!Hose_Coupling_Standard Is Unknown"	BSg…|@"	6™…>Õœ@"	„LÙªà¶@"	ˆáßu@"	gi‹N€@" " …Ö" †" Œ÷" —S" Á" Ñ" Ö" Ù" Ü" ó" õ" ö3( /
-6 	
-&1#*"	òÂ!3( 8
-5 	
-2#)"	¬6‚85* 9!
-4 	
-0 "+"	Î>ş63( 7$#3 	
-.%#("	Ğ>Ğ9 -	',"	?¤:Âx
+	NYAGAHFH1"#
+!Hose_Coupling_Standard Is Unknown"	gi‹N€@"   	"	?¤:Âx
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_type	Content_1	Content_2Altitude	Content_3"
 No"
@@ -12318,10 +12270,10 @@ _%	€2
 &"	ˆA!
  Ú	-+Á	
 &"	´@ş"
-3$ Ù
-E1 
+3$ íE1 
 	"	Ğ@®"
-*$ íE1 
+*$ Ù
+E1 
 	"	Ğ@®"
 *& ¹	-+Á	
 &"	ş@"	>
@@ -12896,7 +12848,55 @@ Steel Pipe"
 *ã°£"	Â=ˆ:2' î”.
 ‚©«	¦
 ¨âÔ£"	Ğ>Ğ91& H¡¤‚©«	¦
-*ãÄ£"	ä@˜Õx
+*ãÄ£"	ä@˜÷x
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitudeProvide_comments_if_necessary"
+B"
+No"
+DMA"
+Yes"
+DN80"
+DN125"
+DN150"
+Gsharu"
+Normal"
+Sensus"	
+10 m3/h"	
+40 m3/h"	
+Blocked"	
+Muhanga"
+
+100 m3/h"
+
+150 m3/h"
+
+Readable"
+
+Ruvumera"
+
+Velocity"
+	01 306295"
+	090025532"
+	120041899"
+	NYAGAHWM2"
+	NYAGAHWM3"
+	NYAGITWM3"
+	NYAREMWM1"
+
+Rwansamira"
+DMA in flow"
+DMA Ruvumera"
+E06XJ8555814"
+Not Readable"
+Not Available"
+Gahogo Rutenga"
+DN50 (1 1/2 '')"
+Bulk meter (for reservoir)"	BSg…|@"	6™…>Õœ@"	„LÙªà¶@"	ˆáßu@" …Ö" †" Œ÷" —S" Á" Ñ" Ö" Ù" Ü" ó" õ" ö3( (	/ 	
+"*%"	òÂ!3( 1	. 	
++$"	¬6‚85* 2	- 	
+)&"	Î>ş63( 0 , 	
+
+'!#"	Ğ>Ğ9Õx
 water_source(€ idID_CodeDischarge_m3_hLocation_NameBranch_NameWater_source_typeAltitudeProvide_comments_if_necessary"
 Spring"	
 Muhanga"

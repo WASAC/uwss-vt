@@ -23690,30 +23690,7 @@ $Poc 204717281 Original Muri Upi 1011",
 Ý"	°@Ä<ZO ßŒíZ±õMÛøm«<ÏT+	ú,­
 ¢„Û<Îm
 eÐeÎ0	!n
-Ý"	Ð@€<x
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
- "
-B"
-300"
-Yes"
-Ntora"
-Normal"
-Sensus"	
-Kacyiru"
-
-600 m3/h"
-
-KAKIRWM5"
-
-Readable"
-
-Velocity"
-DMA in flow"
-E08XN103546Z"
-Bulk meter (for reservoir)"	¸¹YëK˜@" ƒø" Ç" Ø5* 		
-
-  "	¸8œØx
+Ý"	Ð@€<Øx
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_typeProvide_comment_if_necessaryAltitude"
  "
@@ -30411,4 +30388,27 @@ nfp˜@"	@P.M˜@"	I9ínD—@"	J‹(h¢•@"	O¸3_6ƒ•@"	TÖKúžq•@"	VÃ¯y–˜@"	X¾Z»H
 ˜Ú ²’"	¾4†21& áŠ}|	$›¡	
 %Ú Î’"	’=¼31& …‹~	›¡	–
 %Ú È’"	ê:ì<1& ùDijY•F›¡	
-%Ú Ã’"	þº@
+%Ú Ã’"	þº@€x
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
+ "
+B"
+300"
+Yes"
+Ntora"
+Normal"
+Sensus"	
+Kacyiru"
+
+600 m3/h"
+
+KAKIRWM5"
+
+Readable"
+
+Velocity"
+DMA in flow"
+E08XN103546Z"
+Bulk meter (for reservoir)"	¸¹YëK˜@" ƒø" Ç" Ø5* 		
+
+  "	¸8œ

@@ -1147,28 +1147,7 @@ Nyarurenzi"
 "	ü7šAVK ¯éëğ¯‰Š	¬	²ã		
 
 '&ú#
-"	„@ˆúx
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_Manufacturer
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_Index_StatusInlet_Pipe_Connection_DiameterAltitude"
-A"
-No"
-100"
-N/A"
-Mata"	
-60 m3/h"	
-Blocked"	
-Damaged"
-
-Readable"
-	110503WM1"
-
-Multi-Jets"
-
-Nyamirambo"
-Not Available"
-Bulk meter (for reservoir)"	D[%î°•@" +  	
- 	
-"	ú:ª1Áx
+"	„@ˆÁx
 manhole(€ idID_CodeBranch_Name	MaterialsCoveredAltitude"
 Yes"
 Stones"	
@@ -1474,11 +1453,11 @@ M%% Û"8c¦"	Ò2à! “. q8c[-¤
  h8["	ú4¤	"!Uw.#Å& —"8c-¦7"	¾0¾	
 ,& ‰"8c-¦7"	Ğ1ˆ	
 =' ˜"8c-¦X"		º/ú
-¦O& ƒ"8cZ-¤C"	˜1Ş
-
-! —"8-B"	˜1Ş
+¦O —"8-B"	˜1Ş
 
 ! †"8-C"	˜1Ş
+
+!& ƒ"8cZ-¤C"	˜1Ş
 
 !& »"8c-¦
 7"	¼2Â
@@ -1704,7 +1683,28 @@ Nyamirambo"
 "	Ö°5
  -"	Ö°5
  ."	Ö°5
- /"	Ö°5 0"	Ö°5 1"	Ğ0 7 	'"	°(ğ 9 ""	Š,– *	'"	ö#Ä5 (	' "	Š+ì> 3	'&"	Â9š%–x
+ /"	Ö°5 0"	Ö°5 1"	Ğ0 7 	'"	°(ğ 9 ""	Š,– *	'"	ö#Ä5 (	' "	Š+ì> 3	'&"	Â9š%ùx
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_Manufacturer
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_Index_StatusInlet_Pipe_Connection_DiameterAltitude"
+A"
+No"
+100"
+N/A"
+Mata"	
+60 m3/h"	
+Blocked"	
+Damaged"
+
+Readable"
+	110503WM1"
+
+Multi-Jets"
+
+Nyamirambo"
+Not Available"
+Bulk meter (for reservoir)"	D[%î°•@" +  	
+ 	
+"	ú:ª1–x
 water_source(€ idLocation_NameBranch_NameWater_source_typeAltitude"
 Mata"
 Spring"

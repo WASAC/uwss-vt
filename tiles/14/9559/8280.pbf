@@ -32861,100 +32861,7 @@ $Stolen Meter Bk 963148 Du 12Nov 2019"1
 2	"	î@¸@i^ Ì§¬xÄ6ÚhÙ;‹˜Ö;Ñs¥	Â
 Ø™³è—ïO	¨	„
 ¨‚
-2#™³!—"ü—	"	‚Aè@ëx
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_Manufacturer
-Meter_TypeMeter_ClassMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitudeYear_of_ManufactureNominal_FlowType_writer_Reading"
- "
-B"
-C"
-50"
-63"
-80"
-No"
-250"
-300"
-400"
-500"
-DMA"
-Yes"
-Other"
-Socam"
-Gitega"
-Muhima"
-Normal"
-Sensus"	
-10 m3/h"	
-40 m3/h"	
-Blocked"	
-Damaged"
-
-250 m3/h"
-
-400 m3/h"
-
-600 m3/h"
-
-95338464"
-
-95338509"
-
-A0994114"
-
-Readable"
-
-Velocity"
-	090025518"
-	90 (3 '')"
-	W95338508"
-
-Kimisagara"
-
-MUHN11WM50"
-
-Nyarugenge"
-
-Ultrasonic"
-
-Unreadable"
-460F7291000"
-460F7391000"
-DMA in flow"
-Single-Jets"
-Centre_Ville"
-DMA out flow"
-E01XM1346330"
-E01XN1346386"
-KIM&GITO11WM1"
-KIM&GITO11WM5"
-KIM&GITP11WM4"
-Kizanye_Mpazi"
-NOT_AVAILABLE"
-Not_Available"
-Kizanye_-Mpazi"
-Electromagnetic"
-KIM&GITO11WM201"
-KIM&GITO11WM202"
-KIM&GITO11WM203"
-KIM&GITO11WM204"
-KIM&GITO11WM205"
-KIM&GITO11WM206"
-KIM&GITO11WM207"
-For Fire Hydrant"
-Mechanical Meter"
-Bulk meter (for reservoir)"	/“¹•–@"	"K\â×î–@"	*EĞÂs>–@"	C¡ˆ§—@"	xÈ‡„Zm—@"	ˆiŒƒ$>–@"	®-hâÒ˜@"	ÂOú?˜@"	ÌHutÔ-—@"	ğDş”£–@"	ı3ßÌà–@"	şH$ã–@"  " " " l" m" …" ˆ" ‰" Š" ‹" Œ" Œ³" " " " ”˜" œ" ¶ğ$" Æ" Ë" Ì" Ñ" Ù" Üˆ" à­Â" ñõ	1& Y="$'46 	
-)X
-  K"	Êº1& W<"$c6 	
-)  L"	ÒÂ5* V9"$.4b	
-,^  B"	ˆ 5* S:"$-4b@	
-)f  D"	˜Ú!1& R;"$(4% @	
-)e	  I"	²È"1& Z7$3 	
-)a  F"	‚*€/$ [8$34 	
-&)  C"	‚*€5* ]#$4`>	
-)M  E"	?Ê-" U$!`*>?	
-O G"	Ğ=¬!3( T/+$34 	
-&) d  H"	Ş=®!5* P12$_	
-)\  A"	´2¬>5* Q05$4`>	
- N  J"	î2œ>¨x
+2#™³!—"ü—	"	‚Aè@¨x
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_typeProvide_comment_if_necessaryAltitude"
  "
@@ -42778,7 +42685,100 @@ Nyarugenge"
 4• …z"	ì„A2' ¤±ª«X¢	—
  •¡Éz"	Ô>Ü@/$ ÔXš¢	—
 4• ×z"	 Aü& ÁX<™œ	Ÿ
-4ûz"	¾@Ä ÷x
+4ûz"	¾@Ä êx
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_Manufacturer
+Meter_TypeMeter_ClassMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitudeYear_of_ManufactureNominal_FlowType_writer_Reading"
+ "
+B"
+C"
+50"
+63"
+80"
+No"
+250"
+300"
+400"
+500"
+DMA"
+Yes"
+Other"
+Socam"
+Gitega"
+Muhima"
+Normal"
+Sensus"	
+10 m3/h"	
+40 m3/h"	
+Blocked"	
+Damaged"
+
+250 m3/h"
+
+400 m3/h"
+
+600 m3/h"
+
+95338464"
+
+95338509"
+
+A0994114"
+
+Readable"
+
+Velocity"
+	090025518"
+	90 (3 '')"
+	W95338508"
+
+Kimisagara"
+
+MUHN11WM50"
+
+Nyarugenge"
+
+Ultrasonic"
+
+Unreadable"
+460F7291000"
+460F7391000"
+DMA in flow"
+Single-Jets"
+Centre_Ville"
+DMA out flow"
+E01XM1346330"
+E01XN1346386"
+KIM&GITO11WM1"
+KIM&GITO11WM5"
+KIM&GITP11WM4"
+Kizanye_Mpazi"
+NOT_AVAILABLE"
+Not_Available"
+Kizanye_-Mpazi"
+Electromagnetic"
+KIM&GITO11WM201"
+KIM&GITO11WM202"
+KIM&GITO11WM203"
+KIM&GITO11WM204"
+KIM&GITO11WM205"
+KIM&GITO11WM206"
+KIM&GITO11WM207"
+For Fire Hydrant"
+Mechanical Meter"
+Bulk meter (for reservoir)"	/“¹•–@"	"K\â×î–@"	*EĞÂs>–@"	C¡ˆ§—@"	xÈ‡„Zm—@"	ˆiŒƒ$>–@"	®-hâÒ˜@"	ÂOú?˜@"	ÌHutÔ-—@"	ğDş”£–@"	ı3ßÌà–@"	şH$ã–@"  " " " l" m" …" ˆ" ‰" Š" ‹" Œ" Œ³" " " " ”˜" œ" ¶ğ$" Æ" Ë" Ì" Ñ" Ù" Üˆ" à­Â" ñõ	1& Y="$'46 	
+)X
+  K"	Êº1& W<"$c6 	
+)  L"	ÒÂ5* V9"$.4b	
+,^  B"	ˆ 5* S:"$-4b@	
+)f  D"	˜Ú!1& R;"$(4% @	
+)e	  I"	²È"1& Z7$3 	
+)a  F"	‚*€/$ [8$34 	
+&)  C"	‚*€5* ]#$4`>	
+)M  E"	?Ê-" U$!`*>?	
+O G"	Ğ=¬!3( T/+$34 	
+&) d  H"	Ş=®!5* P12$_	
+)\  A"	´2¬>5* Q05$4`>	
+ N  J"	î2œ>÷x
 water_source(€ idID_CodeDischarge_m3_hLocation_NameBranch_NameWater_source_typeProvide_comments_if_necessaryAltitude"
  "
 Spring"

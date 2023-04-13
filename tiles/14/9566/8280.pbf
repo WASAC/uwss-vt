@@ -1783,31 +1783,7 @@ incomplete"
 "	ö–@OD Ï	ùé◊Î ﬁ	˚	Ì
 ¿
 ÕÂ
-"	˛¿@‰x
-fire_hydrant(Ä idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_Manufacturer
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
- "
-B"
-150"
-DMA"
-Yes"
-Other"
-Normal"	
-Kanombe"
-
-150 m3/h"
-
-Readable"
-
-Velocity"
-	NDERJ7WM1"
-
-Cyaruzinge"
-DMA out flow"
-NOT_AVAILABLE"
-Not available"	†q&zFçó@" {" º3( 
-	
-	 "	í¶4Ò^x
+"	˛¿@Ò^x
 pipeline(Ä idBranch_NameDiameterConnected_toPipeline_CategoryPipeline_MaterialNominal_PressureAction_on_pipelineYear_of_LayingThickness_mmStreet_NumberCompany_that_layed_the_pipeFrom_name_To_nameProvide_comment_if_necessary	Roughness"
  "
  "
@@ -2368,4 +2344,28 @@ NDERJ7JU11"
 % #"	é¢4) )	
 % ""	é§4) +	
 % "	ê¢4) (	
-% !"	ê§4
+% !"	ê§4„x
+water_meter(Ä idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_Manufacturer
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
+ "
+B"
+150"
+DMA"
+Yes"
+Other"
+Normal"	
+Kanombe"
+
+150 m3/h"
+
+Readable"
+
+Velocity"
+	NDERJ7WM1"
+
+Cyaruzinge"
+DMA out flow"
+NOT_AVAILABLE"
+Not available"	†q&zFçó@" {" º3( 
+	
+	 "	í¶4

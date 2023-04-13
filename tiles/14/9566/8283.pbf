@@ -3820,70 +3820,7 @@ Z›ûü/b/`."	ìª@.# Ë³FŠí®	
 Z›ûü/b/`."	æA,! â£ù’FŠí®	€."	ÖØ@,! Ú™ù’FŠí®	€."	„ş@UJ ¶ğãïFŠí®	Ö
 ZÙûû	3	e3c’."	Ò8’@F; ¤´£îFŠí®	™
 
-Zú/b/`."	º9˜@œ
-x
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
- "
-B"
-C"
-50"
-63"
-90"
-No"
-100"
-300"
-DMA"
-Yes"
-Cyimo"
-Itron"
-6 m3/h"
-KANWM1"
-KANWM2"
-KANWM5"
-Masaka"
-Normal"
-Sensus"	
-10 m3/h"	
-40 m3/h"	
-60 m3/h"	
-Blocked"	
-Damaged"	
-Kanombe"
-
-600 m3/h"
-
-MASO7WM1"
-
-MASP8WM2"
-
-MASP8WM3"
-
-Readable"
-
-Velocity"
-	01-306220"
-	070045309"
-	090025582"
-	090025941"
-	10C011109"
-
-Unreadable"
-DMA in flow"
-D10SD800253P"
-DMA out flow"
-Completely Damaged"
-Ku_Kiriziya_Masaka"	zv¬Klù—@"	ª$íĞ³Z—@"	¸$Êø—@"	Î²¯çÍ˜@"	ÚAO¨Å	˜@"	æ´LÂCü—@" " " " " " " ‰â" ‘{" ºx" Ñ" Ù" Ú" áØ" ıÄ5* 6";	
-	
-&7  ,"	ğ¦5* 5$;	
-	
-&=  ."	¸;¢5* 4*!;	
-	
-&9  /"	¾<â5* 1 :	
-	 (8  0"	”<ú5* 3'<	
-	
-(>  +"	°>Ø1& 2*#	
-	%& )-"	´>è‘x
+Zú/b/`."	º9˜@‘x
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_typeProvide_comment_if_necessaryAltitude"
  "
@@ -5342,4 +5279,67 @@ s¤ –m"	ò:â!,! ±:;5pEw	t
 s¤ m"	˜8Œ*,! ©=9gnuw	q
 j¤ ”m"	‚87,! ¦AhiCuw	q
 s¤ ›m"	Ö8â?,! ¾f]`Cuw	v
-s¤y‹m"	’@
+s¤y‹m"	’@›
+x
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
+ "
+B"
+C"
+50"
+63"
+90"
+No"
+100"
+300"
+DMA"
+Yes"
+Cyimo"
+Itron"
+6 m3/h"
+KANWM1"
+KANWM2"
+KANWM5"
+Masaka"
+Normal"
+Sensus"	
+10 m3/h"	
+40 m3/h"	
+60 m3/h"	
+Blocked"	
+Damaged"	
+Kanombe"
+
+600 m3/h"
+
+MASO7WM1"
+
+MASP8WM2"
+
+MASP8WM3"
+
+Readable"
+
+Velocity"
+	01-306220"
+	070045309"
+	090025582"
+	090025941"
+	10C011109"
+
+Unreadable"
+DMA in flow"
+D10SD800253P"
+DMA out flow"
+Completely Damaged"
+Ku_Kiriziya_Masaka"	zv¬Klù—@"	ª$íĞ³Z—@"	¸$Êø—@"	Î²¯çÍ˜@"	ÚAO¨Å	˜@"	æ´LÂCü—@" " " " " " " ‰â" ‘{" ºx" Ñ" Ù" Ú" áØ" ıÄ5* 6";	
+	
+&7  ,"	ğ¦5* 5$;	
+	
+&=  ."	¸;¢5* 4*!;	
+	
+&9  /"	¾<â5* 1 :	
+	 (8  0"	”<ú5* 3'<	
+	
+(>  +"	°>Ø1& 2*#	
+	%& )-"	´>è

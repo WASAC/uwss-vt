@@ -1080,35 +1080,7 @@ Unreadable"
 	èô
 ìä‹Û!à®$‚  "€#"	Ô4šAG< ‘·²ÁØß†­
 	ß
-ì$ !"	ì@†	Äx
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterAltitude"
-B"
-DMA"
-Yes"
-DN150"
-Normal"
-Sensus"	
-10 m3/h"
-
-150 m3/h"
-
-25379664"
-
-Readable"
-
-Velocity"
-	MUYMURWM3"
-	MUYMURWM5"
-	Rwamagana"
-DMA in flow"
-E05YK799507"
-Doctrina Vitae"
-DN50 (1 1/2 '')"	;Äÿ›+ž˜@"	‹Îº#ž˜@" Ÿ"  " ½"" Õ" ä1& 
- 	
-	"	â6¢1& 
- 	
-	"	â6¢Šx
+ì$ !"	ì@†	Šx
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_type	Content_1	Content_2Altitude"
 Yes"
@@ -1598,4 +1570,32 @@ Steel Pipe"
 +%"	ƒŒ2# /"+$"	¨þ6# ."+'"	 „7# 0"+("	ºÒ6' 3  "	!
 +*"	à6¤' ,	 "	!
 +#"	â6¢' 2 "	
-+&"	¼3¦ 
++&"	¼3¦ Ãx
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterAltitude"
+B"
+DMA"
+Yes"
+DN150"
+Normal"
+Sensus"	
+10 m3/h"
+
+150 m3/h"
+
+25379664"
+
+Readable"
+
+Velocity"
+	MUYMURWM3"
+	MUYMURWM5"
+	Rwamagana"
+DMA in flow"
+E05YK799507"
+Doctrina Vitae"
+DN50 (1 1/2 '')"	;Äÿ›+ž˜@"	‹Îº#ž˜@" Ÿ"  " ½"" Õ" ä1& 
+ 	
+	"	â6¢1& 
+ 	
+	"	â6¢

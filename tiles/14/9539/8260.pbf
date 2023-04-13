@@ -7262,44 +7262,7 @@ l©7Àºì+õ+'BvBŞ,s'“ “#µ,!"	Aâ1bW º8±$´
 l¸7Àºì+ô+'BvBœ,s'“ “#¾,!"	ú@Ğ4D9 Ó7ğ(’Yú+ î &	
 lâ7BvBs'!"	ä@æ4bW û:°$„°Yú+ î &	ã
 l©7Àºì+ö+'BvB²,s'“ “#Ò,!"	 A’43( …5²(¬	›Yú+ î &	“
-â7º "	‚AÌ8úx
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterAltitude"
-B"
-160"
-200"
-DMA"
-Yes"
-Susa"
-Itron"
-Normal"
-Sensus"	
-Musanze"	
-Rurembo"
-
-150 m3/h"
-
-2.5 m3/h"
-
-250 m3/h"
-
-Readable"
-
-Velocity"
-	090025911"
-	32 (1 '')"
-	KIMKIVWM1"
-	KIMKIVWM2"
-	MUHRUHWM1"
-D12CB007928"
-DMA in flow"
-E01XK1346226"
-Mechanical Meter"	xz Ÿs@"	ZòİŠör@"	ñ¦H]ÿœ@" Æ" Ç" Ç‘" È" Ù" Ü" İ" Ş9" ò¶°3( 
-	" 	
-"	È€$3( 
-	  	
-$"	Ä†$3( 	! 	
-#"	–.ü$”x
+â7º "	‚AÌ8”x
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_type	Content_1	Content_2	Content_3Altitude"
 Yes"
@@ -7597,17 +7560,17 @@ jE  ş6×"
 "	ÜØ
 	 	
 	
-jş1 Ğ74	
-"	ˆ¼
-	/:
-('	„
-Z[( Ù7	á
-
-"	„¼¨€1 ì74	
+jş1 ì74	
 "	ˆ¼
 	/:
 ('	„
 Z[( ú7	á
+
+"	„¼¨€1 Ğ74	
+"	ˆ¼
+	/:
+('	„
+Z[( Ù7	á
 
 "	„¼¨€3 ² š"	Â¨
 8	ªn#†	:t ›6á"	Øö
@@ -7860,9 +7823,9 @@ _Í â6"	À
  "	Ğ+
  ç
 "	æì+
-( í74	á
+( ß74	á
 "
-	Ü²+"( ß74	á
+	Ü²+"( í74	á
 "
 	Ü²+" á6"	ôˆ*
 C
@@ -7967,12 +7930,12 @@ X7	gB
 * Õ*…"	Š®)
 5	:
  	
-3 ¤7	
+3 ‡7	
 
 "	êú)
 	.¦
 +	* 
-3 ‡7	
+3 ¤7	
 
 "	êú)
 	.¦
@@ -9568,4 +9531,41 @@ ZÒœ@"	Ì;‰æ;s@"	èØ
 ^‚uY"	Î4ö,) „H<=_ac	\
 ^‚xY"	†5¬-) I>?_ac	\
 ^‚wY"	Ğ5Ò.) —LCX[_c	b
-^‚}Y"	¢;à 
+^‚}Y"	¢;à ùx
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterAltitude"
+B"
+160"
+200"
+DMA"
+Yes"
+Susa"
+Itron"
+Normal"
+Sensus"	
+Musanze"	
+Rurembo"
+
+150 m3/h"
+
+2.5 m3/h"
+
+250 m3/h"
+
+Readable"
+
+Velocity"
+	090025911"
+	32 (1 '')"
+	KIMKIVWM1"
+	KIMKIVWM2"
+	MUHRUHWM1"
+D12CB007928"
+DMA in flow"
+E01XK1346226"
+Mechanical Meter"	xz Ÿs@"	ZòİŠör@"	ñ¦H]ÿœ@" Æ" Ç" Ç‘" È" Ù" Ü" İ" Ş9" ò¶°3( 
+	" 	
+"	È€$3( 
+	  	
+$"	Ä†$3( 	! 	
+#"	–.ü$

@@ -9664,38 +9664,7 @@ T"	¸Ê@2' ·@©6ç·(_ú7Ç½)ó	ÆD	
 T"	úÎ@3( Â@Õ7ö£(_ú7Ç½)ú|	ÜD¢
 T"	®Î@WL ı?È-™ì$_ú7Ç½)ğ{	µC	áİ7	!	GŸGÆ9 
 T"	Ü Ğ@4) ½FŸ7Ïß(_ø7Ç½)ü|	ÜD½
-â7"	”@ˆ¤x
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
- "
-B"
-C"
-63"
-Yes"
-Normal"
-Sensus"	
-60 m3/h"	
-Kanombe"
-
-2.5 m3/h"
-
-Readable"
-
-Velocity"
-	120041861"
-
-NYARUM5WM2"
-
-NYARUM5WM3"
-DMA in flow"
-E09XI064166Q"
-Military Camp Inside"
-Military_Camp_Inside"
-Bulk meter (for reservoir)"	¸ÃÓ·–@"	Deÿx·–@" -" ." ¤¬" Ù" Ü" İÑ5* 		
-
-  "	¶<°5* 	
-
-  "	È<¸­x
+â7"	”@ˆ­x
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_typeProvide_comment_if_necessaryAltitude"
  "
@@ -12046,8 +12015,8 @@ B"	ª"°
  ûEJ "	ì!®
  ÏEJ "	î!¨
 		 ‰EJ "	è!Â
-& »CEJ"	Ô!ˆ
-W ‘CEJ"	Ô!ˆ
+& ‘CEJ"	Ô!ˆ
+W »CEJ"	Ô!ˆ
 W ÛEQJ "	â!â
 3f àCCJ	 
 	"	²#–
@@ -12706,4 +12675,35 @@ c† u_"	À"ò%+  Œ.)*8eg	f
 c† l_"	º&ø(+  ‹/)+8eg	f
 c† y_"	À&ş(+  ˆ0QR8eg	b
 c† |_"	¢&î*+  £645`eg	b
-c† {_"	€(œ,
+c† {_"	€(œ,£x
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
+ "
+B"
+C"
+63"
+Yes"
+Normal"
+Sensus"	
+60 m3/h"	
+Kanombe"
+
+2.5 m3/h"
+
+Readable"
+
+Velocity"
+	120041861"
+
+NYARUM5WM2"
+
+NYARUM5WM3"
+DMA in flow"
+E09XI064166Q"
+Military Camp Inside"
+Military_Camp_Inside"
+Bulk meter (for reservoir)"	¸ÃÓ·–@"	Deÿx·–@" -" ." ¤¬" Ù" Ü" İÑ5* 		
+
+  "	¶<°5* 	
+
+  "	È<¸

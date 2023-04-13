@@ -2175,41 +2175,7 @@ aÊ§	„¥ø		#n#‹l ∞"	Ñ+∏;\Q Ö¯	ª◊N
 `Ω§	„¥¿		#	n#©l	"ù#P$ ”"	‡.ò@XM Ëœº≈NΩöº	%	^
 `å§	„¥		#n#Ál Ÿ"	≤/‹@RG ˜Ó √NΩ—º	á	 
 `á§	„¥			#õ#l"	‡/˙@[P ¿Œ ƒNΩöº		J
-`À§	„¥√		#	n#ßl ˚"	≤/ñA˜x
-fire_hydrant(Ä idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitude"
-B"
-No"
-DMA"
-Yes"
-DN150"
-Normal"
-Sensus"	
-Gicumbi"
-
-150 m3/h"
-
-Readable"
-
-Velocity"
-	090025841"
-	KAGNYAWM1"
-	KAGNYAWM2"
-	KAGNYAWM3"
-DMA in flow"
-DN90 (3 '')"
-Kageyo(Sos)"
-DMA out flow"
-E04XK5763383"
-E08XK103652C"
-Not available"
-Bulk meter (for reservoir)"	U†‚C‚x°@"	j‚∆0Yv°@"	ñÈg w°@" Ç" É" ã" å" ç" ö∑	" ‘" ÿ" Ÿ3( "
- 	
-	"	¥∞3(  
- 	
-	"	æ∫3( !
- 	
-	"	¥∆óx
+`À§	„¥√		#	n#ßl ˚"	≤/ñAóx
 manhole(Ä idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_type	Content_1	Content_2AltitudeProvide_comment_if_necessary"
 No"
@@ -3187,4 +3153,38 @@ KAGNYAVA15"
 5HE1"	ú»*' K79	6
 5HB1"	¨Ê*' J 78	6
 5H@1"	Ëÿ.' I279	6
-5HF1"	∂ˆ5
+5HF1"	∂ˆ5ˆx
+water_meter(Ä idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitude"
+B"
+No"
+DMA"
+Yes"
+DN150"
+Normal"
+Sensus"	
+Gicumbi"
+
+150 m3/h"
+
+Readable"
+
+Velocity"
+	090025841"
+	KAGNYAWM1"
+	KAGNYAWM2"
+	KAGNYAWM3"
+DMA in flow"
+DN90 (3 '')"
+Kageyo(Sos)"
+DMA out flow"
+E04XK5763383"
+E08XK103652C"
+Not available"
+Bulk meter (for reservoir)"	U†‚C‚x°@"	j‚∆0Yv°@"	ñÈg w°@" Ç" É" ã" å" ç" ö∑	" ‘" ÿ" Ÿ3( "
+ 	
+	"	¥∞3(  
+ 	
+	"	æ∫3( !
+ 	
+	"	¥∆

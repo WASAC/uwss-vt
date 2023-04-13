@@ -871,32 +871,7 @@ $ÜıÍ®≠'ò%!""	ÜAËYN ¶ﬁ_ø€
 ¢ıÍ®'œ%#™"	Œ@†YN áÿH∏€≥¸	ˆ
 õıÍ®±'µ%"	ûA†YN ìÙoÕ€≥‰¸	ç
 †ıß®∞'Ö%"	∂@¨`U ÓıR”€≤‰¸	‡ ë
-¥ıß‚¥'ä%!""	à@ºÔx
-fire_hydrant(Ä idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_Manufacturer
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitude"
-B"
-160"
-DMA"
-Yes"
-Normal"
-Sensus"
-
-150 m3/h"
-
-25364117"
-
-Velocity"
-	Nyagatare"
-
-NYANYAGWM6"
-
-Unreadable"
-DMA out flow"
-Nyagatare Ii"
-Not available"
-Mechanical Meter"	mœ6ï@" êô" Û3( 
-	 	
-"	î7Ï¥x
+¥ıß‚¥'ä%!""	à@º¥x
 manhole(Ä idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_type	Content_1	Content_2Altitude"
 No"
@@ -1391,4 +1366,29 @@ D_^("	Ã6é$' o	4
 D_M("	¸Ê@! p
 	AI_U("	˛‚@' m )*EI	H
 D_[("	º@' g&>@EI	B
-D_T("	ÑAÃ
+D_T("	ÑAÃÓx
+water_meter(Ä idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_Manufacturer
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitude"
+B"
+160"
+DMA"
+Yes"
+Normal"
+Sensus"
+
+150 m3/h"
+
+25364117"
+
+Velocity"
+	Nyagatare"
+
+NYANYAGWM6"
+
+Unreadable"
+DMA out flow"
+Nyagatare Ii"
+Not available"
+Mechanical Meter"	mœ6ï@" êô" Û3( 
+	 	
+"	î7Ï

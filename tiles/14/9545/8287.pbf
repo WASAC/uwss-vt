@@ -6069,54 +6069,7 @@ _¿-¾–ô#ú#		y‘,u	 Ã%!	"	¦8ì@^S ‡*ËéŞ
 _ -¾–ô#û#		yŸ/u	 ·$!	"	9ú@^S ˆ+Ì¬Ú5û#Šˆ	Ü
 _®-¾–ô#ú#		y¥'u	 ÷%!	"	Î9æ@_T ñ*ÍŸ×5û#–ˆ	®
 _“-¾–ô#ü#		yë%“	 +!	"	¼:è@9. ˜%ÒÊÖ5û#Šˆ	¾	–ô#	"	¶;ü@_T ã-ÓšÕ5û#–ˆ	¨
-_“-¾–ô#ú#		yŒ%“	 ¶$!	"	Ö;€@—	x
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitudeProvide_comments_if_necessary"
-B"
-DMA"
-Yes"
-DN80"
-DN150"
-DN250"
-Other"
-Gihuma"
-Normal"
-Sensus"	
-40 m3/h"	
-60 m3/h"	
-Damaged"	
-Muhanga"
-
-400 m3/h"
-
-Readable"
-
-Velocity"
-	090025639"
-	090025925"
-	090025939"
-	NYAGAHWM4"
-	NYAGAHWM5"
-	NYAGAHWM6"
-
-K309D01900"
-
-NYAGAHWM10"
-
-NYAGAHWM11"
-DMA in flow"
-K309D3190000"
-Not Available"
-Electromagnetic"
-Bulk meter (for reservoir)"
-Ibara Amazi Ajya Mu Gakiriro"	(LQä6@"	<[]ªÔH@"	JÁ‘{;@"	NpÖüĞO@"	²v:À‡P@" w" ’t" •‹," ®›" Ù" à" á" â" ã" ä" êê3( -	) 	
-( "	š(È-5* .	) 	
-
-%""	Ì(²-1& , 	
-&!"	„)ü-1& *	
-'#"	º)€.3( +	) 	
-
-/$"	À)€.àx
+_“-¾–ô#ú#		yŒ%“	 ¶$!	"	Ö;€@àx
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered	Content_1	Content_2Altitude	Content_3
 Cover_type"
 No"
@@ -8070,7 +8023,54 @@ Steel Pipe"
 °Ü"	„;¬:/$ ½Ns‹^éìá!	º
 ·Ü"	Ş@¨).# ¼Or^éìá!	º
 ´Ü"	è@Æ)2' Ù%Ş^éìáã	¹
-µÜ"	Š@¢-³x
+µÜ"	Š@¢-–	x
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitudeProvide_comments_if_necessary"
+B"
+DMA"
+Yes"
+DN80"
+DN150"
+DN250"
+Other"
+Gihuma"
+Normal"
+Sensus"	
+40 m3/h"	
+60 m3/h"	
+Damaged"	
+Muhanga"
+
+400 m3/h"
+
+Readable"
+
+Velocity"
+	090025639"
+	090025925"
+	090025939"
+	NYAGAHWM4"
+	NYAGAHWM5"
+	NYAGAHWM6"
+
+K309D01900"
+
+NYAGAHWM10"
+
+NYAGAHWM11"
+DMA in flow"
+K309D3190000"
+Not Available"
+Electromagnetic"
+Bulk meter (for reservoir)"
+Ibara Amazi Ajya Mu Gakiriro"	(LQä6@"	<[]ªÔH@"	JÁ‘{;@"	NpÖüĞO@"	²v:À‡P@" w" ’t" •‹," ®›" Ù" à" á" â" ã" ä" êê3( -	) 	
+( "	š(È-5* .	) 	
+
+%""	Ì(²-1& , 	
+&!"	„)ü-1& *	
+'#"	º)€.3( +	) 	
+
+/$"	À)€.³x
 water_treatment_plant(€ idID_CodeLocation_NameBranch_NameTreatment_Plant_NameRaw_Water_NatureLocation_Name_of_Raw_WaterYear_of_ConstructionAltitude"
 River"
 Gihuma"	

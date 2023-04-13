@@ -31419,52 +31419,7 @@ $Remplacement Etalonnage Faulty Meter"'
 ø
 T	–"	Ü@Æ;0 ä¤ô…Ü¹i˜Ä‹ùJıjO	™8á¦µK   –"	@Î8- À‘®…³»i˜Ä‹«6ıj	ÅAÑ§    –"	ú@¾9. í…Ò…j˜Ä‹ùJıj	êAÑ§µK   –"	ˆA†8- ç‘£…¬Åi˜Ä‹«6ıj	×AÑ§    –"	 A€8- í¡­…±³i˜Ä‹«6ıj	ÇAÑ§    –"	‚@dY ‹±ò†”ºi˜Ä‹ùJıjš	ÿj
 Ô	á¦¯µKúŠ#P—Ñ
-—§6PÇ‹–"	ø@‚áx
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_Manufacturer
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitudeYear_of_Manufacture"
- "
-B"
-C"
-No"
-125"
-250"
-DMA"
-Yes"
-Itron"
-Normal"
-Remera"
-Sensus"	
-40 m3/h"	
-Kanombe"
-
-250 m3/h"
-
-400 m3/h"
-
-KIMS5WM1"
-
-KIMS5WM2"
-
-NDES6WM1"
-
-Readable"
-
-Velocity"
-	090025654"
-	120041716"
-	A14032959"
-
-Kibagabaga"
-DMA in flow"
-Masoro_Kuri_12"
-Electromagnetic"
-Meter Index Is Not Available"4
-2The Year Of Manufacture Is Not Mentionned On The *"	ªİ£†ûê–@"	úk)7<ê–@"	üê\o>k–@" n" " ‘" Ñ×" Ş" ïe3( #
-	
-		& "	ØÜ3( "
-	
-		$ "	Øâ3( !%	
-	   "	´,¸<„x
+—§6PÇ‹–"	ø@‚„x
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_typeProvide_comment_if_necessaryAltitude"
  "
@@ -40880,4 +40835,49 @@ NYARUJ2VA4"
 ‘Ç ¡Œ"	æ,Â=4) â‰ƒ‚”–	•
 ‘Ç ¶Œ"	À-Ô=1& ë312
 ”–	•
-‘Ç Œ"	°4*
+‘Ç Œ"	°4*àx
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_Manufacturer
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitudeYear_of_Manufacture"
+ "
+B"
+C"
+No"
+125"
+250"
+DMA"
+Yes"
+Itron"
+Normal"
+Remera"
+Sensus"	
+40 m3/h"	
+Kanombe"
+
+250 m3/h"
+
+400 m3/h"
+
+KIMS5WM1"
+
+KIMS5WM2"
+
+NDES6WM1"
+
+Readable"
+
+Velocity"
+	090025654"
+	120041716"
+	A14032959"
+
+Kibagabaga"
+DMA in flow"
+Masoro_Kuri_12"
+Electromagnetic"
+Meter Index Is Not Available"4
+2The Year Of Manufacture Is Not Mentionned On The *"	ªİ£†ûê–@"	úk)7<ê–@"	üê\o>k–@" n" " ‘" Ñ×" Ş" ïe3( #
+	
+		& "	ØÜ3( "
+	
+		$ "	Øâ3( !%	
+	   "	´,¸<

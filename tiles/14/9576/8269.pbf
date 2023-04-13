@@ -763,30 +763,7 @@ $Ô'& "	ú8Š-' òô·ÈÌ÷Ç	Ô"	Æ9/'
 %ÈÎËõû'&‰ "	´;Ü.' ïô»ÊÌ÷Ç	Ô"	Ò;ä1\Q Þ»i©Ì÷Çè	–
 $ÆÎËõû'“&– "	°<œ0\Q ¸Ã~ÍÌ÷Çè	¡
 %ÈÎËõù'ÿ&‰ "	š?´5\Q ù´qÉÌ÷Çè	
-$ÆÎËõú'…&– "	è?‚8èx
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitude"
-B"
-DMA"
-Yes"
-Other"
-Normal"	
-60 m3/h"
-
-06019079"
-
-Velocity"
-	Nyagatare"
-	RUGKANWM1"
-
-110 (4 '')"
-
-Kanyangese"
-DMA out flow"
-Not Available"
-Mechanical Meter"	”Í·Êp—@" ¥" Õ" ê3( 	 	
-
-"	ˆ#æ2˜x
+$ÆÎËõú'…&– "	è?‚8˜x
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_type	Content_1Altitude	Content_2"
 Yes"
@@ -1118,7 +1095,30 @@ RUGKANVA18"
 6KC1"	´#Þ2' V/()5:	9
 6LD1"	Ö;Ú/' R! 7:	9
 6K@1"	¾?Ú6' Q0*7:	4
-6KF1"	Ä?Þ6Ôx
+6KF1"	Ä?Þ6çx
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitude"
+B"
+DMA"
+Yes"
+Other"
+Normal"	
+60 m3/h"
+
+06019079"
+
+Velocity"
+	Nyagatare"
+	RUGKANWM1"
+
+110 (4 '')"
+
+Kanyangese"
+DMA out flow"
+Not Available"
+Mechanical Meter"	”Í·Êp—@" ¥" Õ" ê3( 	 	
+
+"	ˆ#æ2Ôx
 water_source(€ idID_CodeDischarge_m3_hLocation_NameBranch_NameWater_source_typeAltitude"
 	Nyagatare"
 	RUGMATWS1"

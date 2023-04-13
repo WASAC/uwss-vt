@@ -1193,43 +1193,7 @@ $"	î:‚C8 êäYÉİ ©		ı
 †
 "	¤@¢C8 Êñgıİ ©		Š
 ‰
-"	Ò@¸€x
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitude"
-B"
-Rdb"
-Yes"
-Normal"
-Sensus"	
-40 m3/h"	
-60 m3/h"
-
-Bugesera"
-
-Readable"
-
-Velocity"
-	090025556"
-	090025809"
-	90 (3 '')"
-	NYAKANWM1"
-	NYAKANWM2"
-	NYAKANWM3"
-	NYAKANWM5"
-
-110 (4 '')"
-DMA in flow"
-E06XH9082751"
-E09X1064165P"
-Gitwe_Gahembe"
-Not available"
-Mechanical Meter"
-Bulk meter (for reservoir)"	^–cşš—@"	r¤¡:˜@"	€UH±²š—@"	££Ï×3˜@" 5" ­" ®ğ" ·" Ä" Å" È" É" Ö" Ù5* #&	 	
-"	âğ5* $&	 	
- "	Ò5* !
-&	 	
-"	¶+Ä#5* "%	 	
-"	Ú+´#áx
+"	Ò@¸áx
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_type	Content_1	Content_2	Content_3Altitude"
 Yes"
@@ -1776,4 +1740,40 @@ CY H@"	ê+˜#) b8)*?DF	E
 CY Q@"	ä+¢#) a9,+?DF	E
 CY R@"	ä+¨#) c:.-DF	E
 CY G@"	,#) j=A?DF	E
-CY T@"	Ô@È
+CY T@"	Ô@Èÿx
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitude"
+B"
+Rdb"
+Yes"
+Normal"
+Sensus"	
+40 m3/h"	
+60 m3/h"
+
+Bugesera"
+
+Readable"
+
+Velocity"
+	090025556"
+	090025809"
+	90 (3 '')"
+	NYAKANWM1"
+	NYAKANWM2"
+	NYAKANWM3"
+	NYAKANWM5"
+
+110 (4 '')"
+DMA in flow"
+E06XH9082751"
+E09X1064165P"
+Gitwe_Gahembe"
+Not available"
+Mechanical Meter"
+Bulk meter (for reservoir)"	^–cşš—@"	r¤¡:˜@"	€UH±²š—@"	££Ï×3˜@" 5" ­" ®ğ" ·" Ä" Å" È" É" Ö" Ù5* #&	 	
+"	âğ5* $&	 	
+ "	Ò5* !
+&	 	
+"	¶+Ä#5* "%	 	
+"	Ú+´#

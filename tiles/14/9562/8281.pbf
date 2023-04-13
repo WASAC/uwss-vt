@@ -40744,55 +40744,7 @@ $Replacement Of Faulty Cfr Bct Report"'
 У╔С0Б┐ ╪!А┐
 └"	░<╬@;0 Д╦║й┴=Й}╬┐ктZ═Б+	ГZ
 ╪с╧яC└"	Ь@Т@;0 │╦╝й└=Й}╬┐ктZ═Б+	ДZ
-╪с╧Ё=└"	Ь@Т@╕x
-fire_hydrant(А idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
- "
-B"
-C"
-63"
-No"
-100"
-200"
-DMA"
-Yes"
-Itron"
-Normal"
-Remera"	
-Gikondo"	
-Kanombe"
-
-2.5 m3/h"
-
-250 m3/h"
-
-Giporoso"
-
-KANK1WM3"
-
-RET4WM13"
-
-Readable"
-
-Velocity"
-	A14033364"
-	A14083373"
-	NIBV15WM2"
-	W95339474"
-DMA in flow"
-Not_Available"
-Sonatube_Gate"
-Electromagnetic"
-Giporoso_Feux_Rouge"	░есA■Ц@"	7╜╠zЧ@"	r>┬T|<Ч@" " L" Z" \" Аx" М╓	" ╦" ▐5* "'	
- 
-
-!   "	Ф°&3( $	(
-
- 
-%  "	р3╠5* #	(	
-
-
-&  "	╓2╥фx
+╪с╧Ё=└"	Ь@Т@фx
 manhole(А idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_typeProvide_comment_if_necessaryAltitude"
  "
@@ -45090,9 +45042,9 @@ M+* Я! ТР	"	╬
 а)
 W ж! Р	"	Ар)
 -%" Г! ТР	"
-	кц(/! ╣(!  РўЁЖс*
+	кц(/! ╩'!  РўЁЖс*
 Н"	т·'
-/! ╩'!  РўЁЖс*
+/! ╣(!  РўЁЖс*
 Н"	т·'
 * ш!  РўЭ+"
 	от(" Ў! ТР	"
@@ -52566,4 +52518,52 @@ hйM╡Ц@"	к╗┘cЧ@"	к╛)9е╠Х@"	л_d2^Ч@"	лsЯ+░]Ч@"	о╧|╧Ч@"	▓√┴@е╗Ц@"	╢ГуV_
 хъщт└ С█"	В<о-5* э▓╦╠$Ф	
 хъщт└ Т█"	╝?└.2' ь_]^$▌	
 хъщт└ ж█"	Р9Ф:5* Ёоий$Ф	
-хъщт└ ў█"	▄@А.
+хъщт└ ў█"	▄@А.╖x
+water_meter(А idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
+ "
+B"
+C"
+63"
+No"
+100"
+200"
+DMA"
+Yes"
+Itron"
+Normal"
+Remera"	
+Gikondo"	
+Kanombe"
+
+2.5 m3/h"
+
+250 m3/h"
+
+Giporoso"
+
+KANK1WM3"
+
+RET4WM13"
+
+Readable"
+
+Velocity"
+	A14033364"
+	A14083373"
+	NIBV15WM2"
+	W95339474"
+DMA in flow"
+Not_Available"
+Sonatube_Gate"
+Electromagnetic"
+Giporoso_Feux_Rouge"	░есA■Ц@"	7╜╠zЧ@"	r>┬T|<Ч@" " L" Z" \" Аx" М╓	" ╦" ▐5* "'	
+ 
+
+!   "	Ф°&3( $	(
+
+ 
+%  "	р3╠5* #	(	
+
+
+&  "	╓2╥

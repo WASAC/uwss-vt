@@ -14332,42 +14332,7 @@ $¥95#š8 1"	Î:¤@TI Ä;è-ó“'ù‘8ø€+	²
 
 
 
-NM 1"	â<”A+  ’?1ýï(ù‘8ø€+	âîC 1"	”?‚@Õx
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
- "
-B"
-100"
-150"
-200"
-DMA"
-Yes"
-Other"
-Normal"
-Sensus"	
-H000182"	
-Ruyenzi"
-
-150 m3/h"
-
-250 m3/h"
-
-Readable"
-
-Velocity"
-	090025870"
-	090025904"
-	RUNDP6WM1"
-	RUNDP6WM2"
-	RUNDP6WM3"
-
-Nyarugenge"
-DMA in flow"	|÷²€—@"	Ê€/cñ–@"	Þè
-UIï–@" [" ]" ^" Â§" Ù" à¦" ýÕ5* 		
-   "	ä+²5* 	 	
-  "	¶,¸1& 
- 
-  "	²,ð«	x
+NM 1"	â<”A+  ’?1ýï(ù‘8ø€+	âîC 1"	”?‚@«	x
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_typeProvide_comment_if_necessaryAltitude"
  "
@@ -18648,4 +18613,39 @@ HŒ Š`"	–6Ð1,! ŽFBCJIei	b
 HŒ ˆ`"	ö7Ž=+  •G]^JIei	b
 HŒ {`"	°?þ2+  ”Jei	b
 HŒ u`"	˜@¶3& “JIdg	h
-HŒ‰`"	Ê@Æ3
+HŒ‰`"	Ê@Æ3Ôx
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
+ "
+B"
+100"
+150"
+200"
+DMA"
+Yes"
+Other"
+Normal"
+Sensus"	
+H000182"	
+Ruyenzi"
+
+150 m3/h"
+
+250 m3/h"
+
+Readable"
+
+Velocity"
+	090025870"
+	090025904"
+	RUNDP6WM1"
+	RUNDP6WM2"
+	RUNDP6WM3"
+
+Nyarugenge"
+DMA in flow"	|÷²€—@"	Ê€/cñ–@"	Þè
+UIï–@" [" ]" ^" Â§" Ù" à¦" ýÕ5* 		
+   "	ä+²5* 	 	
+  "	¶,¸1& 
+ 
+  "	²,ð

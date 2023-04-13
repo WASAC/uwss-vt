@@ -2478,37 +2478,7 @@ Unreadable"
 "	¸@¬&TI ¯§ıõ	Š¥		
 ø”ï	ı	
 öó
-"	€A†*ÿx
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitude"
-B"
-No"
-160"
-Yes"
-Normal"
-Sensus"	
-Gisanze"	
-Karongi"
-
-09002584"
-
-150 m3/h"
-
-Readable"
-
-Velocity"
-	090025887"
-	Nyamagana"
-	RUBGISWM1"
-	RUBGISWM2"
-DMA out flow"
-Mechanical Meter"
-Bulk meter (for reservoir)"	~.ùª™@"	¤‚ˆ˜ª™@" „%" œ" " Õ
-" Ù5*  		
-
-"	ìì=5*  		
-
-"	èğ=üx
+"	€A†*üx
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_type	Content_1	Content_2Altitude"
 Yes"
@@ -3182,8 +3152,8 @@ BB š	
 "	Ú3ô>
  ÿ	£
 "	˜3ª?
->$ ¾	#+¬	"	š3ö?
-H$ ò	#+¬	"	š3ö?
+>$ ò	#+¬	"	š3ö?
+H$ ¾	#+¬	"	š3ö?
 H ô	£
 "	Æ4¢=
 _ ù	¥
@@ -3395,4 +3365,34 @@ RUBGISVA10"
 *;0'"	¾,¦=' C"+-.	(
 *;2'"	À,¦=' A+-.	(
 *;4'"	¾,¨=' @ +).	(
-*;8'"	¾,ª=
+*;8'"	¾,ª=şx
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitude"
+B"
+No"
+160"
+Yes"
+Normal"
+Sensus"	
+Gisanze"	
+Karongi"
+
+09002584"
+
+150 m3/h"
+
+Readable"
+
+Velocity"
+	090025887"
+	Nyamagana"
+	RUBGISWM1"
+	RUBGISWM2"
+DMA out flow"
+Mechanical Meter"
+Bulk meter (for reservoir)"	~.ùª™@"	¤‚ˆ˜ª™@" „%" œ" " Õ
+" Ù5*  		
+
+"	ìì=5*  		
+
+"	èğ=

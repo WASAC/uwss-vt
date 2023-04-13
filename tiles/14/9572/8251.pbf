@@ -4916,52 +4916,17 @@ S‘“Ô
 ì,X,"	Ú<¨'ZO Åêà¿”Í
 Ö+	 	
 S‘“Ô
-Š•,=\=ÔX,"	Î:Ò)åx
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude
-Owner_TypeInstallation_TypeHose_Coupling_StandardPresence_of_MeterInlet_DiameterOutlet_DiameterMeter_Current_Index_Reading"
-B"
-80"
+Š•,=\=ÔX,"	Î:Ò)¡x
+fire_hydrant(€ idID_CodeBranch_Name
+Owner_TypeInstallation_TypeHose_Coupling_StandardPresence_of_MeterInlet_DiameterOutlet_DiameterAltitude"
 UK"
-200"
-DMA"
-Yes"
-Zener"
-096227"
-Normal"	
-9231817"	
-Blocked"	
-Damaged"	
+Yes"	
 Private"	
-Surface"
-
-100 m3/h"
-
-250 m3/h"
-
-Kinihira"
-
-Readable"
-
-Velocity"
-	NYABARWM1"
+Surface"
 	Nyagatare"
 
-NYANYAGFH7"
-
-NYANYAGWM4"
-
-Unreadable"
-DMA out flow"
-40 (1 1/4 '')"
-Not Available"
-Not available"
-Mechanical Meter"
-St.Leonard, Nyagatare Ii"%
-#Current Index Reading Not Available"	>ðNÍ´˜•@"	FF½7¶§–@"	lBUXv•@" 1" ¦‡" È" Ù" ò" ô5* '% 	
-
-"	¦˜ "!"	Æô5* &	$ 	
-# "	¨8‚Ûx
+NYANYAGFH7"
+40 (1 1/4 '')"	lBUXv•@" 1  	"	ÆôÛx
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_type	Content_1	Content_2Altitude	Content_3"
 No"
@@ -7641,4 +7606,42 @@ Steel Pipe"
 ”˜—	‘
 °¥ÿ"	Â=Æ32' ±³®¯#
 ˜—	‘
-°øÿ"	â=È3
+°øÿ"	â=È3Žx
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitudeMeter_Current_Index_Reading"
+B"
+80"
+200"
+DMA"
+Yes"
+Zener"
+096227"
+Normal"	
+9231817"	
+Blocked"	
+Damaged"
+
+100 m3/h"
+
+250 m3/h"
+
+Kinihira"
+
+Readable"
+
+Velocity"
+	NYABARWM1"
+	Nyagatare"
+
+NYANYAGWM4"
+
+Unreadable"
+DMA out flow"
+Not Available"
+Not available"
+Mechanical Meter"
+St.Leonard, Nyagatare Ii"%
+#Current Index Reading Not Available"	>ðNÍ´˜•@"	FF½7¶§–@" ¦‡" È" Ù" ò" ô5*   	
+
+	"	¦˜5*  	
+"	¨8‚

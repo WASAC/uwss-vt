@@ -667,33 +667,7 @@ Volumetric"
 	ú
 ÂòÎ…Œ¥Ô Ô!"	éAº& ˝«1ı—Ê	‡Ú"	ê@»1C8 ç¬-É—Ê€
 	‹
-Ú!"	§Æ@‰x
-fire_hydrant(Ä idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterAltitude"
-B"
-DMA"
-Yes"
-Itron"
-Maya 2"
-Normal"
-Rukiko"	
-10 m3/h"	
-Musanze"
-
-Readable"
-
-Velocity"
-	63 (2 '')"
-	KINGAFWM1"
-	RUGKARWM1"
-DMA in flow"
-D  10SE011134  D"
-D  10SE011137  G"
-Mechanical Meter"	0˜û@"	—*=Ôfü@" à∏'" ◊" ⁄" ‚" Æ3( 
- 	
-	"	Íˆ$3( 
- 	
-	"	¥0∂„x
+Ú!"	§Æ@„x
 manhole(Ä idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_type	Content_1	Content_2Altitude"
 Yes"
@@ -1253,4 +1227,30 @@ hçâd"	>Ç* ©/.ebk	f
 hçÉd"	∫!Ï<) ´-,ebjm	f
 hçvd"	®-¯5) ¨@89ijm	f
 hç~d"	¯/“4) ú+*bk	f
-hçsd"	æ5ﬁ 
+hçsd"	æ5ﬁ „x
+water_meter(Ä idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterAltitude"
+B"
+DMA"
+Yes"
+Itron"
+Maya 2"
+Normal"
+Rukiko"	
+10 m3/h"	
+Musanze"
+
+Readable"
+
+Velocity"
+	63 (2 '')"
+	KINGAFWM1"
+	RUGKARWM1"
+DMA in flow"
+D  10SE011134  D"
+D  10SE011137  G"
+Mechanical Meter"	0˜û@"	—*=Ôfü@" à∏'" ◊" ⁄" ‚" Æ3( 
+ 	
+	"	Íˆ$3( 
+ 	
+	"	¥0∂

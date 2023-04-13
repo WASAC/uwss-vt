@@ -2670,90 +2670,7 @@ Volumetric"
 ’€ô		¢
 %™ˆŽ˜(úõÓ "	È3¶@\Q îÊšž	
 ’€ô		½
-%†™ˆŽ•(›'½ "	þ4Ú@¢x
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitudeProvide_comments_if_necessary"
-B"
-No"
-150"
-200"
-250"
-300"
-DMA"
-Yes"
-Huye"
-Mpare"
-Other"
-Normal"
-Sensus"	
-Actaris"
-
-11132294"
-
-11132297"
-
-150 m3/h"
-
-250 m3/h"
-
-400 m3/h"
-
-Kdahokwa"
-
-Readable"
-
-Velocity"
-	05XWK0262"
-	090025878"
-	090025933"
-	120041713"
-	120041726"
-	Kadahokwa"
-	TUMMPAWM1"
-	TUMMPAWM2"
-	TUMMPAWM3"
-	TUMMPAWM4"
-	TUMMPAWM5"
-	TUMMPAWM6"
-	TUMMPAWM7"
-	TUMMPAWM8"
-	TUMMPAWM9"
-
-05XF026266"
-
-05XKX02262"
-
-05XWK02620"
-
-110 (4 '')"
-
-TUMMPAWM10"
-DMA in flow"
-DMA out flow"
-Not Available"
-Electromagnetic"
-Kadahokwa Mpare"
-Kadahokwa Lavage"
-Mechanical Meter"
-Kadahokwa Treated Water"
-Kadahokwa Recycling Tank"
-Bulk meter (for reservoir)"
-Ibara Amazi Yogezwe Mu Bigega"+
-)Ibara Amazi Ataragera Muri Tank Ya M3 600"	BcÝ@ š@"	S!Êê™@"	[3xÁOš@"	o[Á3§I›@"	rÿÞÇ\š@"	ŠÉ˜éœÿ™@"	’&aéáú™@"	Ç÷'€ñ™@"	æ>Èaë™@"	ì
-6/Jû™@" " " " 	" 
-" " " " " " ‹ƒ®"  §" °Ð¥" µ‘" Ñ" Õ" Ù" Û" Ûí" Ü" áî" å¼" íÛ" î5* H!S- 	
-0*M,?"	Ðâ5* G P- 	
-0*K,<"	Òæ7, F$1P 	
-30+U,5="	ôü7, A)2
-Q 	
-0+N(,4>"	êò7, @2
-Q 	
-0+W(,47"	èö5* D".O 	
-0+J(,:"	°¼5* E%O- 	
-30+V(,6"	²¼5* C#/&O 	
-0*T,;"	’Ú5* B'O 	
-0+L(,8"	¼Ú5* I	S- 	
-30+R,9"	À"¼Àx
+%†™ˆŽ•(›'½ "	þ4Ú@Àx
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_type	Content_1	Content_2Altitude"
 No"
@@ -4588,7 +4505,90 @@ TUMMPAWM10"
 ³ùÃ¯"	ˆ-¸/$ ²)>s	¶¹	¸
 ³ùÙ¯"	þ8Þ/$ €'<t 	¶¹	¸
 ³ù½¯"	¸%ª%0% ü(=r°	¶¹	±
-³ùÓ¯"	œ8Ð6¬x
+³ùÓ¯"	œ8Ð6¡x
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitudeProvide_comments_if_necessary"
+B"
+No"
+150"
+200"
+250"
+300"
+DMA"
+Yes"
+Huye"
+Mpare"
+Other"
+Normal"
+Sensus"	
+Actaris"
+
+11132294"
+
+11132297"
+
+150 m3/h"
+
+250 m3/h"
+
+400 m3/h"
+
+Kdahokwa"
+
+Readable"
+
+Velocity"
+	05XWK0262"
+	090025878"
+	090025933"
+	120041713"
+	120041726"
+	Kadahokwa"
+	TUMMPAWM1"
+	TUMMPAWM2"
+	TUMMPAWM3"
+	TUMMPAWM4"
+	TUMMPAWM5"
+	TUMMPAWM6"
+	TUMMPAWM7"
+	TUMMPAWM8"
+	TUMMPAWM9"
+
+05XF026266"
+
+05XKX02262"
+
+05XWK02620"
+
+110 (4 '')"
+
+TUMMPAWM10"
+DMA in flow"
+DMA out flow"
+Not Available"
+Electromagnetic"
+Kadahokwa Mpare"
+Kadahokwa Lavage"
+Mechanical Meter"
+Kadahokwa Treated Water"
+Kadahokwa Recycling Tank"
+Bulk meter (for reservoir)"
+Ibara Amazi Yogezwe Mu Bigega"+
+)Ibara Amazi Ataragera Muri Tank Ya M3 600"	BcÝ@ š@"	S!Êê™@"	[3xÁOš@"	o[Á3§I›@"	rÿÞÇ\š@"	ŠÉ˜éœÿ™@"	’&aéáú™@"	Ç÷'€ñ™@"	æ>Èaë™@"	ì
+6/Jû™@" " " " 	" 
+" " " " " " ‹ƒ®"  §" °Ð¥" µ‘" Ñ" Õ" Ù" Û" Ûí" Ü" áî" å¼" íÛ" î5* H!S- 	
+0*M,?"	Ðâ5* G P- 	
+0*K,<"	Òæ7, F$1P 	
+30+U,5="	ôü7, A)2
+Q 	
+0+N(,4>"	êò7, @2
+Q 	
+0+W(,47"	èö5* D".O 	
+0+J(,:"	°¼5* E%O- 	
+30+V(,6"	²¼5* C#/&O 	
+0*T,;"	’Ú5* B'O 	
+0+L(,8"	¼Ú5* I	S- 	
+30+R,9"	À"¼¬x
 water_source(€ idID_CodeDischarge_m3_hLocation_NameBranch_NameWater_source_typeSource_capacityAltitude"
 Huye"
 Spring"

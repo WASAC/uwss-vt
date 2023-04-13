@@ -3922,39 +3922,7 @@ Volumetric"
 7”‚	µ¦¹		 	@‚>!‚"	–@Ş:YN ©ğ¥©'¸ªŞ	­	
 7²‚	µ¦º		 	@Ş>"	æ@:SH ËçÛİ'¸ªŞ	»
 
-9ë:	¶¸				@´>"	ø@†;x
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
-B"
-80"
-No"
-250"
-DMA"
-Yes"
-<Null>"
-Normal"
-Sensus"	
-40 m3/h"	
-Ruhango"
-
-400 m3/h"
-
-Kimanama"
-
-Readable"
-
-Velocity"
-	090025682"
-	090025928"
-	Gatengesi"
-	RUHNYAWM1"
-	RUHNYAWM3"
-DMA in flow"
-Not Available"	2»6u2Àš@"	Ş	#gp}š@" ‚¹]" ¶" ¸" Éá" Ù5* 
- 		
-"	€ü5* 
- 	
-"	ö3ì¾x
+9ë:	¶¸				@´>"	ø@†;¾x
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered	Content_1	Content_2	Content_3Provide_comment_if_necessaryAltitude"
 No"
 Meter"
@@ -4075,9 +4043,9 @@ WASAC.Lltd"
 p# ÷$$:3O-ç	"	ü
 p# ¹$$:3O-ç	"	ü
 p# ê$$:3O-ç	"	ü
-p ã$$3	
+p ¢$$3	
 "	È+
-< ¢$$3	
+< ã$$3	
 "	È+
 < Ş$:3İ
 ."		Ü	!"" Ä$$3á	
@@ -5870,7 +5838,39 @@ RUHRWOJU18"
 ?XH;"	à6è) b76>F	E
 ?X^;"	Ê7ú# \
 9DYN;"	ö>ğ) [32BD	@
-?XW;"	¼?ˆ4’x
+?XW;"	¼?ˆ4Œx
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
+B"
+80"
+No"
+250"
+DMA"
+Yes"
+<Null>"
+Normal"
+Sensus"	
+40 m3/h"	
+Ruhango"
+
+400 m3/h"
+
+Kimanama"
+
+Readable"
+
+Velocity"
+	090025682"
+	090025928"
+	Gatengesi"
+	RUHNYAWM1"
+	RUHNYAWM3"
+DMA in flow"
+Not Available"	2»6u2Àš@"	Ş	#gp}š@" ‚¹]" ¶" ¸" Éá" Ù5* 
+ 		
+"	€ü5* 
+ 	
+"	ö3ì’x
 water_source(€ idID_CodeDischarge_m3_hLocation_NameBranch_NameWater_source_typeProvide_comments_if_necessaryAltitude"
 Spring"	
 Ruhango"

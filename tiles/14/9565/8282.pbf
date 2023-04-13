@@ -7423,48 +7423,7 @@ M»5	Ã¯,		,x,–É,'"	È@ì?F; ®5Â)Ïô=À,«
 Mø5				(	v(t'"	”AØ>UJ ü,Ö'Øä=À,“ê!	€
 Mê4	Ã¯,		,x,wË,'"	–A¶?VK È0×'çñ=À,“ê!)	§
 Mÿ4	Ã¯,		,x,w% %'"	Ì@Ú@6+ ‘3Ù)Óï=À,«ê!	¦
-f»5¤Ã'"	†@’A¯x
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
- "
-B"
-C"
-90"
-250"
-DMA"
-Yes"
-Itron"
-KANWM4"
-Normal"
-Sensus"	
-40 m3/h"	
-Kanombe"
-
-400 m3/h"
-
-MASN6WM1"
-
-MASN6WM2"
-
-Readable"
-
-Velocity"
-	070045297"
-	090025659"
-	A15034095"
-
-Kamashashi"
-DMA in flow"
-DMA out flow"
-Electromagnetic"
-Inyange Industry_Inside"
-Inyange_Industry_Inside"	í°èG1•@"	ù¤.ú~õ”@" "" &" (" †" ‘Å˜" µƒ&" ¼
-" ×" Ù" ß5* &	
-		!  "	Æ'¦5* 
-%	
-		   #"	à9è5* 
-$	
-		"  "	¨:æØx
+f»5¤Ã'"	†@’AØx
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_typeProvide_comment_if_necessaryAltitude"
  "
@@ -7740,10 +7699,10 @@ $	7(
 
  a0"	ŠáÞ‘Š Ë0"	ŠáÞ‘Š ù*+0"	Ê„
 	- ˆ*+0"	Ê„
-	-% ¨	*0"	Ž„
+	-% ¦*0"	Ž„
 	BD
 9;	h
-"+% ¦*0"	Ž„
+"+% ¨	*0"	Ž„
 	BD
 9;	h
 "+ ÷*0"	ÀÞ
@@ -8718,9 +8677,9 @@ O	ò
  	*0"	¢¢
  X+60	"	œ¨
 Ii å	+60	"
-	‚æ	 
+	‚æ	 š**0"
+	Œâ 
 **0"
-	Œâ š**0"
 	Œâ ¹**0"	ò‚
 $$ ‰**0"	ò‚
 $$! Ä**0"	‚ˆ
@@ -9766,9 +9725,9 @@ S1 Ç**0"	ø=œ
 # Î*,0"	²>ò
 
 S
- €	**0"	Ž>Š
-
  ù**0"	Ž>Š
+
+ €	**0"	Ž>Š
 
  ž,*0"	°=ô
 D Õ**0"	Æ>Ô	
@@ -10231,4 +10190,45 @@ a‡ m\"	Ä1¦,! ‹(#$6g[	_
 aˆ •\"	ä8º,! œ'!"ch	f
 aˆ ƒ\"	¨:”+  ›& g[	f
 aˆ n\"	ü9Œ+  ™)%8`h	f
-aˆ w\"	Ô;Ä
+aˆ w\"	Ô;Ä®x
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
+ "
+B"
+C"
+90"
+250"
+DMA"
+Yes"
+Itron"
+KANWM4"
+Normal"
+Sensus"	
+40 m3/h"	
+Kanombe"
+
+400 m3/h"
+
+MASN6WM1"
+
+MASN6WM2"
+
+Readable"
+
+Velocity"
+	070045297"
+	090025659"
+	A15034095"
+
+Kamashashi"
+DMA in flow"
+DMA out flow"
+Electromagnetic"
+Inyange Industry_Inside"
+Inyange_Industry_Inside"	í°èG1•@"	ù¤.ú~õ”@" "" &" (" †" ‘Å˜" µƒ&" ¼
+" ×" Ù" ß5* &	
+		!  "	Æ'¦5* 
+%	
+		   #"	à9è5* 
+$	
+		"  "	¨:æ

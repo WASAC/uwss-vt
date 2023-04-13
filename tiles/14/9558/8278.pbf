@@ -1285,56 +1285,7 @@ incomplete"
 #±	Ş·Å%$Ê$"	œ@†0B7 ­	¿HÒ¼Ì­û	·Ä
 &"	ò@Ô0+  îÉ¡Õ¼Ì­û	°ª	"	œA¾3+  	Ë¥É¼Ì­û	¥ª	"	¼@ˆ4+  ¡Ë§Ê¼Ì­û	¤ª	"	Ş@¤4J? Ä‘ŒÇ¼Ì­û	€
 "³	 ú%$"	’A¼8J? ¬ÿô¼Ì­û	ç
-"±	 ú%$"	ğ@â;+  ÿìèõ¼Ì»û	Û±	"	’A°;Çx
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_Manufacturer
-Meter_TypeMeter_ClassMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitudeYear_of_ManufactureNominal_Flow"
- "
-B"
-80"
-No"
-100"
-125"
-160"
-DMA"
-Other"
-Normal"	
-Blocked"	
-Damaged"	
-H109355"	
-NYARWM1"
-
-100 m3/h"
-
-250 m3/h"
-
-Bugarama"
-
-JALI9WM1"
-
-JALI9WM2"
-
-JALI9WM3"
-
-Kibizoza"
-
-Readable"
-
-Velocity"
-
-Nyarugenge"
-DMA in flow"
-Shlumberger"
-83 CKP 50364"
-DMA out flow"
-Jali_Bugarama"
-NOT_AVAILABLE"
-Not_Available"3
-1Water Meter Ntabwo Igaragara,Nta Kintu Kigaragara"	CH²oÃ—@"	†cî	ğ™@"	™½^¼i­—@"	Ûhİ%¨—@" " «»" ´á$" ¿" É" Í" Î" Ï" İ" ÷1& +  		
-	&  #"	ü1ê5* *'		
-	%  ""	ğ1ö1& )  	
-
--  "	ş1º5* (, 		
-	$  !"	”:Š4Óx
+"±	 ú%$"	ğ@â;+  ÿìèõ¼Ì»û	Û±	"	’A°;Óx
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_typeProvide_comment_if_necessaryAltitude"
  "
@@ -1776,8 +1727,8 @@ IHv ù''®	
  "	 Aœ
  ¿
  "	’A
- "	†Aà
- €"	†Aà
+ €"	†Aà
+ "	†Aà
 6 ü''®	
   "	’A
 	
@@ -2011,7 +1962,56 @@ Nyarugenge"
  3 0$"	ü1Ê) 4 !')	(
 3 *$"	Ø6¾) <!')	%
 3 1$"	Š:Š4) ;!')	%
-3 ,$"	:Œ4Êx
+3 ,$"	:Œ4Æx
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_Manufacturer
+Meter_TypeMeter_ClassMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitudeYear_of_ManufactureNominal_Flow"
+ "
+B"
+80"
+No"
+100"
+125"
+160"
+DMA"
+Other"
+Normal"	
+Blocked"	
+Damaged"	
+H109355"	
+NYARWM1"
+
+100 m3/h"
+
+250 m3/h"
+
+Bugarama"
+
+JALI9WM1"
+
+JALI9WM2"
+
+JALI9WM3"
+
+Kibizoza"
+
+Readable"
+
+Velocity"
+
+Nyarugenge"
+DMA in flow"
+Shlumberger"
+83 CKP 50364"
+DMA out flow"
+Jali_Bugarama"
+NOT_AVAILABLE"
+Not_Available"3
+1Water Meter Ntabwo Igaragara,Nta Kintu Kigaragara"	CH²oÃ—@"	†cî	ğ™@"	™½^¼i­—@"	Ûhİ%¨—@" " «»" ´á$" ¿" É" Í" Î" Ï" İ" ÷1& +  		
+	&  #"	ü1ê5* *'		
+	%  ""	ğ1ö1& )  	
+
+-  "	ş1º5* (, 		
+	$  !"	”:Š4Êx
 water_source(€ idID_CodeLocation_NameBranch_NameWater_source_typeProvide_comments_if_necessaryAltitude"
 Spring"
 

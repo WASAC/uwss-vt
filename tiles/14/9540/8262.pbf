@@ -1735,21 +1735,7 @@ Volumetric"
 !…(&""	Ì@¸5_T ¶
 ¼¿æ	÷ª	Û
 !ığ‚İ	â	(
-&‰ ‰""	AÎ7„x
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_Name
-Meter_TypeType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_Index_StatusMeter_Current_Index_ReadingAltitude"
-Yes"
-Normal"	
-Musanze"
-
-Readable"
-
-Velocity"
-	MUKCYIWM1"
-Mechanical Meter"
-Rwanda Peace Academy"	©8æ÷×™@" ²" û·# 	 	
-
-"	Æ6¬cx
+&‰ ‰""	AÎ7cx
 pipeline(€ idFrom_name_To_nameBranch_NameDiameterPipeline_MaterialPipeline_CategoryNominal_PressureAction_on_pipelineYear_of_LayingCompany_that_layed_the_pipeStreet_NumberConnected_toDepth"
  "
 PVC"
@@ -1977,8 +1963,8 @@ I	ì 
 	”7„1
 1 oã
 "	8ö
-#K2 ë%"ü		"	4ú(		&& Ã%"ü		"	¢4¤
-	 Öã
+#K& Ã%"ü		"	¢4¤
+	2 ë%"ü		"	4ú(		& Öã
 "	Â4„	
 ! Ôá
 "	ğ5ˆ	G¹6 ¡ã
@@ -2402,4 +2388,18 @@ MUKCYIVA19"
 -<1("	 8Œ/' C$ ./0	+
 -<4("	à7Ò3' B# ./0	+
 -<6("	è7è3' A' ./0	+
--<2("	ª6ö=
+-<2("	ª6ö=ƒx
+water_meter(€ idID_CodeMeter_Location_NameBranch_Name
+Meter_TypeType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_Index_StatusMeter_Current_Index_ReadingAltitude"
+Yes"
+Normal"	
+Musanze"
+
+Readable"
+
+Velocity"
+	MUKCYIWM1"
+Mechanical Meter"
+Rwanda Peace Academy"	©8æ÷×™@" ²" û·# 	 	
+
+"	Æ6¬

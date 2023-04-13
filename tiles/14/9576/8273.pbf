@@ -609,29 +609,7 @@ Incomplete"
 ™€ûÿ	Ÿ	"	œ@äD9 µÜhƒ”ýýý	Û½	"	ž@¦D9 Ìák¬”ýýý	é¿	"	ê¼@\Q Ð©B«”ýýý	¶¶
 ™€û†	§	 ³"	ØŠ@\Q É¨)’”ýýý	«¶
 ™€ûÎ	œ	 ›"	ðÌ@YN À§1“”ýýý	³¶
-™€û†	¥	"	Æ A›x
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitude"
-B"
-No"
-Other"
-Normal"
-Rubona"	
-10 m3/h"	
-9870584"
-
-Readable"
-
-Velocity"
-	63 (2 '')"
-	KIZRUBWM4"
-	Nyagatare"
-DMA out flow"
-Not Available"
-Mechanical Meter"
-Bulk meter (for reservoir)"	Ÿûd6\™@" £™" Î" á5* 
- 	
-	"	¨;è†x
+™€û†	¥	"	Æ A†x
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered	Content_1	Content_2Altitude
 Cover_type"
 No"
@@ -1035,4 +1013,26 @@ KIZRUBVA12"
 	
 &!"	–;Ö' ( 	
 &$"	¨;ä' ' 	
-&#"	¦;æ
+&#"	¦;æšx
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitude"
+B"
+No"
+Other"
+Normal"
+Rubona"	
+10 m3/h"	
+9870584"
+
+Readable"
+
+Velocity"
+	63 (2 '')"
+	KIZRUBWM4"
+	Nyagatare"
+DMA out flow"
+Not Available"
+Mechanical Meter"
+Bulk meter (for reservoir)"	Ÿûd6\™@" £™" Î" á5* 
+ 	
+	"	¨;è

@@ -12694,75 +12694,7 @@ jˆ7Â
 jÇ6Â
 Ïÿ*‰+
 
-<‹<Õ:ˆÒ+ "	ê@¶)Ùx
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitudeProvide_comments_if_necessary"
-B"
-C"
-No"
-100"
-125"
-200"
-250"
-DMA"
-Yes"
-Huye"
-Ngoma"
-Tonga"
-6 m3/h"
-Normal"
-Sensus"	
-10 m3/h"	
-60 m3/h"	
-8914459"
-
-100 m3/h"
-
-600 m3/h"
-
-Readable"
-
-Velocity"
-	070045339"
-	NGOMATWM1"
-	NGOMATWM2"
-	NGONGOWM1"
-	NGONGOWM2"
-	NGONGOWM3"
-	NGONGOWM4"
-	NGONGOWM5"
-	NGONGOWM6"
-	W95337704"
-
-110 (4 '')"
-
-Unreadable"
-DMA in flow"
-DMA out flow"
-E04XI5763369"
-E04XI5763370"
-E06XJ8555847"
-E06XL8540817"
-NOT AVAILABLE"
-Not Available"
-Electromagnetic"
-Mechanical Meter"
-Bulk meter (for reservoir)" 
-Compteur Ya Kera Irafunze Hose"	›Âñ²›@"	+ZYMƒÓ›@"	]¿²›@"	`y,—®Â›@"	n™/M½›@"	Žpˆß.¦›@"	­R-¾›@"	¶ a$ZÖ›@" " " " " " " " " é2" ¨¨0" ±Ë" ·" Å" Ç°" Ë" Ô" Ö" ×" á£ " áå/" þÕ15* <	%E* 	
-,+"> )/"	¦ ð5* =	$E* 	
-,+#? )5"	´ è5* ;
-	()A	
-,+!")-1"	¼0º5* :
-	B	
-,+#@)4"	¸0Ú5* 9
-	)D	
-,+#C)2"	´0Ü5* 7
-	G* 	
-+#H)3"	®1¼5* 8
-	'F 	
-+#J)."	Ô2°5* 6
-	&F 	
-+#I)0"	²3Ð¥x
+<‹<Õ:ˆÒ+ "	ê@¶)¥x
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered	Content_1	Content_2Altitude
 Cover_type	Content_3"
 No"
@@ -15634,9 +15566,9 @@ c3 Ð
 >=	I`	  ÿ
 $20²
 "
-	ô*ÆR3 ñ
+	ô*ÆR3 ’
 $$0"	‚)Ü
-/( ’
+/( ñ
 $$0"	‚)Ü
 /(+ Š
 $20Ú
@@ -17325,9 +17257,9 @@ O ã
 ( µ
 $20¦	
 ."	¶: '
-! Í
+! ô
 $$0¦	"	®:ž'
-"& ô
+"& Í
 $$0¦	"	®:ž'
 "&  á
 $20Ú
@@ -17586,10 +17518,10 @@ RS ã
 + ð
 $0Y	"	†0È6
 
-!  “
+!  Ð	
+$;0"	Ô1¸7‡\14+N  “
 $;0"	Ô1¸7‡\14+NO æ	
-;3Y(®		"3	ô)ä4âÂ®<.	û	Lø$	àÔ2ž¼Êèx¾Œ¶0.~  Ð	
-$;0"	Ô1¸7‡\14+N ¸
+;3Y(®		"3	ô)ä4âÂ®<.	û	Lø$	àÔ2ž¼Êèx¾Œ¶0.~ ¸
 $$0¶	"		¤0†8
 D ó	
 $$0"	Œ0Ø8
@@ -17610,10 +17542,10 @@ q) Ê
 $0®	"	¨6º;
  ‹
 $0®	"	¨6º;
-! ê
+! Ð
 $0"	Ô6ê;
  	$
-!! Ð
+!! ê
 $0"	Ô6ê;
  	$
 ! 
@@ -17724,9 +17656,9 @@ V	½
 	æ@Ú.( €
 $0ò
 ."	 A”
- ÷
+ –
 $$0"
-	â@˜2; –
+	â@˜2; ÷
 $$0"
 	â@˜2;  ç
 $0”	
@@ -18240,4 +18172,72 @@ NGONGOVA57"
 ÀŠàº"	²@ø#1& —’·d	ÃÇ	Æ
 ÀŠåº"	¦@Ð*1& •“d¶ 	ÃÇ	Æ
 ÀŠæº"	ª@Ò*1& ”¡Xµ 	¿Ç	Æ
-ÀŠÔº"	¦@è*
+ÀŠÔº"	¦@è*Øx
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitudeProvide_comments_if_necessary"
+B"
+C"
+No"
+100"
+125"
+200"
+250"
+DMA"
+Yes"
+Huye"
+Ngoma"
+Tonga"
+6 m3/h"
+Normal"
+Sensus"	
+10 m3/h"	
+60 m3/h"	
+8914459"
+
+100 m3/h"
+
+600 m3/h"
+
+Readable"
+
+Velocity"
+	070045339"
+	NGOMATWM1"
+	NGOMATWM2"
+	NGONGOWM1"
+	NGONGOWM2"
+	NGONGOWM3"
+	NGONGOWM4"
+	NGONGOWM5"
+	NGONGOWM6"
+	W95337704"
+
+110 (4 '')"
+
+Unreadable"
+DMA in flow"
+DMA out flow"
+E04XI5763369"
+E04XI5763370"
+E06XJ8555847"
+E06XL8540817"
+NOT AVAILABLE"
+Not Available"
+Electromagnetic"
+Mechanical Meter"
+Bulk meter (for reservoir)" 
+Compteur Ya Kera Irafunze Hose"	›Âñ²›@"	+ZYMƒÓ›@"	]¿²›@"	`y,—®Â›@"	n™/M½›@"	Žpˆß.¦›@"	­R-¾›@"	¶ a$ZÖ›@" " " " " " " " " é2" ¨¨0" ±Ë" ·" Å" Ç°" Ë" Ô" Ö" ×" á£ " áå/" þÕ15* <	%E* 	
+,+"> )/"	¦ ð5* =	$E* 	
+,+#? )5"	´ è5* ;
+	()A	
+,+!")-1"	¼0º5* :
+	B	
+,+#@)4"	¸0Ú5* 9
+	)D	
+,+#C)2"	´0Ü5* 7
+	G* 	
++#H)3"	®1¼5* 8
+	'F 	
++#J)."	Ô2°5* 6
+	&F 	
++#I)0"	²3Ð

@@ -1094,27 +1094,7 @@ Unreadable"
 
 ñ•²½ðï"	ò1ž6G< –ó¥ëº’Ú˜	
 
-ñ•²¹"	È<à2°x
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameMeter_Manufacturer
-Meter_TypeMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
-No"
-DMA"
-Mugera"	
-Blocked"	
-Damaged"
-
-Velocity"
-	90 (3 '')"
-	GTSMUGWM1"
-	Nyagatare"
-
-Unreadable"
-DMA in flow"
-Not Available"
-Totaly Ddamaged"
-Mechanical Meter"	öp`ùRœ—@" Ž-" 	 
-	
-"	ÈºæNx
+ñ•²¹"	È<à2æNx
 pipeline(€ idFrom_name_To_nameBranch_NameDiameterPipeline_MaterialPipeline_CategoryNominal_Pressure	RoughnessThickness_mmAction_on_pipelineYear_of_LayingCompany_that_layed_the_pipeStreet_NumberConnected_toProvide_comment_if_necessary"
 200"
 ARC"
@@ -1885,4 +1865,24 @@ Steel Pipe"
 "	ö
 ‚	# 	
 "	¸„$# 	
-"	Ì5–=
+"	Ì5–=¯x
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameMeter_Manufacturer
+Meter_TypeMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
+No"
+DMA"
+Mugera"	
+Blocked"	
+Damaged"
+
+Velocity"
+	90 (3 '')"
+	GTSMUGWM1"
+	Nyagatare"
+
+Unreadable"
+DMA in flow"
+Not Available"
+Totaly Ddamaged"
+Mechanical Meter"	öp`ùRœ—@" Ž-" 	 
+	
+"	Èº

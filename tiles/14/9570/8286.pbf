@@ -3437,52 +3437,7 @@ ZR97327969"
 	ô
 5ãÏÿ²º>ù; !="	Ô@†:\Q ‘ˆêœó¼öƒ
 	‚
-5ãÏÿ²º>£; !="	†A¤;œx
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterAltitude"
-B"
-DMA"
-Yes"
-DN100"
-DN300"
-Normal"
-Sensus"	
-40 m3/h"	
-60 m3/h"
-
-600 m3/h"
-
-Feri Sp3"
-
-Readable"
-
-Velocity"
-	090025781"
-	KARNYAWM1"
-	KARNYAWM2"
-	KARNYAWM3"
-	KARNYAWM4"
-	KARNYAWM5"
-	Rwamagana"
-
-07WH080877"
-DMA in flow"
-DN90 (3 '')"
-DMA out flow"
-E06WH9151319"
-E06XN8540485"
-E06XN8540553"	
-œm -˜@"	6ôö8~&˜@"	‚™¨¾Ù"˜@"	’Ú`¿&˜@"	æGc«&˜@" €" " ‚" ƒ" ƒô" …„=" ²" ·Ê" Ö" ×" Ù" ß¦." ÿ1& #
-( 		
-%"	ä+ğ(1& ,
-( 		
-'"	¶+¬)1&  
-) 	
-&"	æ+Š)1& !
-) 	
-+"	ê+†)1& "
-* 	
-$"	Ğ,„)±x
+5ãÏÿ²º>£; !="	†A¤;±x
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_type	Content_1	Content_2Altitude"
 Yes"
@@ -5438,4 +5393,49 @@ Z}:eS˜@"	ŞÃ–7˜@"	“1x4%˜@"	÷™C˜@"	4U@]˜@"	’ö"˜@"	,l¥2!N˜@"	1Yø
 ²óá¬"	‚2ä,0% ­
 ­z³·	¯
 ²óê¬"	´3¨.-" €Z.®­zµ	¶óŞ¬"	Ì8ş7-" ô[-®­zµ	¶óÎ¬"	Â:ê;-" ©\,®­zµ	¶óÔ¬"	’<À>-" ¥]+®­zµ	¶ó¾¬"	=â?1& ¤_“’z±µ	¶
-²óÍ¬"	Ô=¦@-" £^*®­zµ	¶óì¬"	¼>”A
+²óÍ¬"	Ô=¦@-" £^*®­zµ	¶óì¬"	¼>”A›x
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterAltitude"
+B"
+DMA"
+Yes"
+DN100"
+DN300"
+Normal"
+Sensus"	
+40 m3/h"	
+60 m3/h"
+
+600 m3/h"
+
+Feri Sp3"
+
+Readable"
+
+Velocity"
+	090025781"
+	KARNYAWM1"
+	KARNYAWM2"
+	KARNYAWM3"
+	KARNYAWM4"
+	KARNYAWM5"
+	Rwamagana"
+
+07WH080877"
+DMA in flow"
+DN90 (3 '')"
+DMA out flow"
+E06WH9151319"
+E06XN8540485"
+E06XN8540553"	
+œm -˜@"	6ôö8~&˜@"	‚™¨¾Ù"˜@"	’Ú`¿&˜@"	æGc«&˜@" €" " ‚" ƒ" ƒô" …„=" ²" ·Ê" Ö" ×" Ù" ß¦." ÿ1& #
+( 		
+%"	ä+ğ(1& ,
+( 		
+'"	¶+¬)1&  
+) 	
+&"	æ+Š)1& !
+) 	
++"	ê+†)1& "
+* 	
+$"	Ğ,„)

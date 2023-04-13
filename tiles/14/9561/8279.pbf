@@ -20377,61 +20377,7 @@ h\R Îxøb∫àRÑ∏l¢=ñU#	·+
 ¥µÄ
 Õ=ïl¢˘¢Ù&(ÅÑ	Ó&"	åA‡@[P Õp›_¶! Túæl¢=ñU#	Ö,
 ¥êÉ
-Õ=ïl¢	˘¢Ù&(ùp	Ó&"	äA˛@Àx
-fire_hydrant(Ä idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterAltitudeNominal_FlowDMA_CodeProvide_comments_if_necessary"
- "
-B"
-C"
-80"
-200"
-225"
-300"
-DMA"
-Yes"
-Itron"
-Normal"
-Remera"
-Sensus"	
-60 m3/h"	
-Actaris"	
-Kacyiru"	
-REQ3WM1"
-
-3.5 m3/h"
-
-Gacuriro"
-
-KAKIRWM2"
-
-KAKIRWM4"
-
-Readable"
-
-Velocity"
-	090025910"
-	121001WM1"
-	A14033276"
-	Mu_Kabuga"
-D03WH013342"
-DMA in flow"
-Shlumberger"
-Single-Jets"
-Vision City"
-D03WL0133871"
-Electromagnetic"
-Nominal Flow: 360 M3/H"	˜#‚èñ@"	"^/hBïñ@"	JB˚`Èó@"	ÿªàUˇñ@" â¯d" éÊ" íú$" æS" ¿" ¬" √" ƒ" ”" Ÿ" ﬁ/$ ,0	
-
-
-*#"	¢ƒ)5* -/	
-
-
-)  %"	Ù"ÿ%5* . /	
-
- '  &"	–&Ç#3( +	1!	
-
-
-( "$"	Œ3Æ-¶.x
+Õ=ïl¢	˘¢Ù&(ùp	Ó&"	äA˛@¶.x
 manhole(Ä idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_typeProvide_comment_if_necessaryAltitude	Content_1	Content_2	Content_3	Content_4	Content_5"
  "
@@ -21652,10 +21598,10 @@ A! ïÖ¢	 "
 	W$
 > ˇÖ¢	 "	¨Ó
 E £	Ö¢	 "	Œ¶
-9" ò"ÈÖÖ¢Å"	“Ë
- º
+9 º
 ÈÖÖ¢"	“Ë
  ∂ÈÖÖ¢"	“Ë
+" ò"ÈÖÖ¢Å"	“Ë
 %  ªÖÖé¢Å"	¸‡
 " ËªÖÖé¢"	¸‡
 " œªÖÖé¢"	¸‡
@@ -26012,7 +25958,8 @@ u% ûÖç¢Å	"
 	®0Ï-" µÎÖÖ¢Å"	™1»
 
 #  ·!Ö¢	ö"	Ä1™
-(c# §¶Öíé¢"		˙1»
+(c# Ñ®Öíé¢"		˙1»
+$ï# §¶Öíé¢"		˙1»
 $ï# ã®Öíé¢"		˙1»
 $ï0" É! ÖÖé¢ÅÅò	ö
 "	û2≤
@@ -26021,8 +25968,7 @@ $ï0" É! ÖÖé¢ÅÅò	ö
  ÖÖé¢ÅÅò	ö
 "	û2≤
 
-,O# Ñ®Öíé¢"		˙1»
-$ï* Ö¡ÖÖé¢ÅÇ
+,O* Ö¡ÖÖé¢ÅÇ
 "	™3∏
 
 <" ÷Ö¢	ö"
@@ -28241,9 +28187,9 @@ D!	i6
 -	6
  	
   ¢Ö¶¢	 "	ûúA
-% ÷$∆ÖÖé¢Å"	ä@
-	"  	∆ÖÖé¢"	ä@
+"  	∆ÖÖé¢"	ä@
 	" ’∆ÖÖé¢"	ä@
+	% ÷$∆ÖÖé¢Å"	ä@
 	%  ’ÖÖé¢Å"	‡å@
   √Ö¶¢	 "	î†A
 )  òÖ¶¢	 "	™®@
@@ -29091,4 +29037,58 @@ x˘ñ@"	ÿæ¢—∏ñ@"	⁄C¡Ç¡1ñ@"	⁄RRâÕ\ñ@"	⁄¿•∂_ñ@"	‹UX‰…ï@"	‹}Ä Fbñ@"	‹›y∞I¿ï
 èî	í
 â± ÄÁ"	†8∏41& é78
 èî	í
-î± ôÁ"	»7≤@
+î± ôÁ"	»7≤@ x
+water_meter(Ä idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterAltitudeNominal_FlowDMA_CodeProvide_comments_if_necessary"
+ "
+B"
+C"
+80"
+200"
+225"
+300"
+DMA"
+Yes"
+Itron"
+Normal"
+Remera"
+Sensus"	
+60 m3/h"	
+Actaris"	
+Kacyiru"	
+REQ3WM1"
+
+3.5 m3/h"
+
+Gacuriro"
+
+KAKIRWM2"
+
+KAKIRWM4"
+
+Readable"
+
+Velocity"
+	090025910"
+	121001WM1"
+	A14033276"
+	Mu_Kabuga"
+D03WH013342"
+DMA in flow"
+Shlumberger"
+Single-Jets"
+Vision City"
+D03WL0133871"
+Electromagnetic"
+Nominal Flow: 360 M3/H"	˜#‚èñ@"	"^/hBïñ@"	JB˚`Èó@"	ÿªàUˇñ@" â¯d" éÊ" íú$" æS" ¿" ¬" √" ƒ" ”" Ÿ" ﬁ/$ ,0	
+
+
+*#"	¢ƒ)5* -/	
+
+
+)  %"	Ù"ÿ%5* . /	
+
+ '  &"	–&Ç#3( +	1!	
+
+
+( "$"	Œ3Æ-

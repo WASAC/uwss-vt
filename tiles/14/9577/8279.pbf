@@ -4346,47 +4346,7 @@ ZR94223888"
 #($:"	þ:Ê@@5 ±ššš	÷Úƒ¡
 	¥
 …þ
- :"	ü:ô@Íx
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterAltitudeProvide_comments_if_necessary"
-B"
-C"
-No"
-DMA"
-Yes"
-Normal"
-Nsinda"
-Sensus"	
-10 m3/h"	
-15 m3/h"	
-9869914"	
-Actaris"
-
-89920032"
-
-Readable"
-
-Velocity"
-	63 (2 '')"
-	90 (3 '')"
-	MUHKARWM1"
-	MUHNSIWM1"
-	MUHNSIWM2"
-	MUHNSIWM3"
-	Rwamagana"
-D09ZE27165N"
-DMA in flow"
-DMA out flow"
-E01XF1345758"
-Nsinda Prison"
-Mechanical Meter"
-It Brocked(Inactif)"
-Bulk meter (for reservoir)"	±Jå3æ–@"	MÖ4ÖC¶—@"	V  Ç¶—@"	ƒBW1‰¶—@" ‹€" ½" ¾" ¿" À" Å" Î" Ñ" ×6" Ù" ìU" ù‹3( &'	
-, "	”°3( $
-( 		
-"!"	–´5* %) 		
-*"	š²3( #+ 	
--"	†7˜"úx
+ :"	ü:ô@úx
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_type	Content_1	Content_2	Content_3Altitude"
 Yes"
@@ -5378,4 +5338,44 @@ FbQ@"	¬/²&' j !A<IM	D
 FbP@"	‚7˜"' iIM	L
 Fb\@"	„7˜"' e	 <IM	D
 FbY@"	Ì0ä/' d:=?<IJ	G
-Fb_@"	î7à;% c;>CM	Lb`@"	ö7ì;
+Fb_@"	î7à;% c;>CM	Lb`@"	ö7ì;Ìx
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterAltitudeProvide_comments_if_necessary"
+B"
+C"
+No"
+DMA"
+Yes"
+Normal"
+Nsinda"
+Sensus"	
+10 m3/h"	
+15 m3/h"	
+9869914"	
+Actaris"
+
+89920032"
+
+Readable"
+
+Velocity"
+	63 (2 '')"
+	90 (3 '')"
+	MUHKARWM1"
+	MUHNSIWM1"
+	MUHNSIWM2"
+	MUHNSIWM3"
+	Rwamagana"
+D09ZE27165N"
+DMA in flow"
+DMA out flow"
+E01XF1345758"
+Nsinda Prison"
+Mechanical Meter"
+It Brocked(Inactif)"
+Bulk meter (for reservoir)"	±Jå3æ–@"	MÖ4ÖC¶—@"	V  Ç¶—@"	ƒBW1‰¶—@" ‹€" ½" ¾" ¿" À" Å" Î" Ñ" ×6" Ù" ìU" ù‹3( &'	
+, "	”°3( $
+( 		
+"!"	–´5* %) 		
+*"	š²3( #+ 	
+-"	†7˜"

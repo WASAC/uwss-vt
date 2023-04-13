@@ -10515,56 +10515,7 @@ dÈOAÖ"DÂDÀ)!ùL"Á#CÇC“2"	œÆ)YN ¨C¸4µë
 ´ÕO–¾'?"	ê@è:I> óK‡>¡á,s£AÜ"‘2&	„
 ¬¤O@¿@¾'?"	˜A¼:4) ÜBÀ@£Ý,s£AÜ"‘2&	Ä!
 ´ÕO–?"	º@‚ALA ÐRÿ= Þ,s£AÜ"‘2&	‰
-¬¤O2@¿@¾'?"	ð@†Aÿx
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
- "
-B"
-63"
-200"
-250"
-DMA"
-Yes"
-Other"
-Normal"
-Sensus"	
-10 m3/h"	
-15 m3/h"	
-60 m3/h"	
-Actaris"	
-Kanombe"	
-Nezerwa"
-
-400 m3/h"
-
-Readable"
-
-Velocity"
-	120028862"
-	NDERK5WM1"
-	W95339562"
-
-Kamashashi"
-
-NYARUM5WM1"
-
-NYARUM5WM4"
-
-NYARUM5WM5"
-
-Unreadable"
-DMA in flow"
-E06XM8540585"
-D10SE010999 0"
-For Fire Hydrant"
-Bulk meter (for reservoir)"
-Meter Screen Is Full Of Ice"$
-"Manufacturer Is Wasser Gerate Gmbh"	¤àðnp–@"	³ nÎ”Ï–@"	Æl;æÿp–@"	ìpá¦‰¦–@"  " 3" =" >" d" š$" …" Ë" Õ" Ú" Ü5* '-	
- & !%"	•–>5* *	0	
-,  #"	ÖÐ3( )/	
-
-  ""	¸Î:5* (	.	
-+  $"	´Ô:³
+¬¤O2@¿@¾'?"	ð@†A³
 x
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_typeProvide_comment_if_necessaryAltitude"
@@ -11740,8 +11691,8 @@ C ï7=
  "	Üæ^~	ku
   ¯7=
  "	ÔÜ
-(T ©66="	®æ
-  ¨66="	®æ
+(T ¨66="	®æ
+  ©66="	®æ
   Ž7=
  "	¸Î
 )  ¸7=
@@ -12813,8 +12764,8 @@ O) þ7@=
 		
  ®7@=
  "	ìª3
-		 õ66="	®Ö0
-+ ‡66="	®Ö0
+		 ‡66="	®Ö0
++ õ66="	®Ö0
 +% ‰7=
  "	Äª0$	k
 J# á7=
@@ -16009,4 +15960,53 @@ No To Node"
 ß·Ô"	ö4Ö-1& æ~{|%âç	ä
 €· ýÔ"	ž5„-5* ÜË¼½%Üâç	Ý
 ß· „Ô"	žà@1& ß#UV%`âç	Ý
-ß· ¡Ô"	”@Ì
+ß· ¡Ô"	”@Ìþx
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
+ "
+B"
+63"
+200"
+250"
+DMA"
+Yes"
+Other"
+Normal"
+Sensus"	
+10 m3/h"	
+15 m3/h"	
+60 m3/h"	
+Actaris"	
+Kanombe"	
+Nezerwa"
+
+400 m3/h"
+
+Readable"
+
+Velocity"
+	120028862"
+	NDERK5WM1"
+	W95339562"
+
+Kamashashi"
+
+NYARUM5WM1"
+
+NYARUM5WM4"
+
+NYARUM5WM5"
+
+Unreadable"
+DMA in flow"
+E06XM8540585"
+D10SE010999 0"
+For Fire Hydrant"
+Bulk meter (for reservoir)"
+Meter Screen Is Full Of Ice"$
+"Manufacturer Is Wasser Gerate Gmbh"	¤àðnp–@"	³ nÎ”Ï–@"	Æl;æÿp–@"	ìpá¦‰¦–@"  " 3" =" >" d" š$" …" Ë" Õ" Ú" Ü5* '-	
+ & !%"	•–>5* *	0	
+,  #"	ÖÐ3( )/	
+
+  ""	¸Î:5* (	.	
++  $"	´Ô:

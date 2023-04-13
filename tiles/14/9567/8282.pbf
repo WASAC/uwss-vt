@@ -16233,38 +16233,7 @@ D-" õkÈS„ì6ôÒUù,â@“+	©h
 ×;Õâb
 ì@"	À8¦@_T ıY¨H«ñ9ôÓU›â@‹& ¦­	ÚgŸ-§U÷
 ×öÕ‹g
-ì@"	ê8â@ïx
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
- "
-B"
-100"
-200"
-DMA"
-Yes"
-Kabeza"
-Normal"
-Sensus"	
-60 m3/h"	
-Kanombe"
-
-250 m3/h"
-
-MASN8WM1"
-
-MASO8WM1"
-
-Readable"
-
-Velocity"
-	090025013"
-	090025753"
-DMA in flow"
-Saint_Emmanuel"	€+ÉW#–@"	± ØŞÜ•@" " " »T" Â”" Ù5* 
-	
-  "	ôæ%5* 
-		
-  "	Ìü+x
+ì@"	ê8â@x
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_typeProvide_comment_if_necessaryAltitude"
  "
@@ -17735,10 +17704,10 @@ $ !'	 "	Ü	‚,
 1	œT
 Oó$ ”  0'GÃ"	
 Ş-
-J9
- `  '"	â
+J9 Î  '"	â
 à-
-0 Î  '"	â
+0
+ `  '"	â
 à-
 0 ÷  '"	„ş,
  º  '"	„ş,
@@ -18367,9 +18336,9 @@ E# û!('	 "	€¶%
 & û  '"	®'
  Ğ  '"	®'
 $ ²  1'GÃ"
-	ŞÆ& Ò  '"	úò&
+	ŞÆ& ˆ  '"	úò&
 
- ˆ  '"	úò&
+ Ò  '"	úò&
 
  Í 0'F	"	ˆ¾'
  ä!('	 "		Öâ&
@@ -18508,8 +18477,8 @@ r7 –!('	 "	âŒ6
 !(! İ 0'F	"
 	°¬6
 I* Ó!('	 "	´˜7
-J ¼ #'"	¶ˆ6
-]& ë #'"	¶ˆ6
+J ë #'"	¶ˆ6
+]& ¼ #'"	¶ˆ6
 ]&- ˆ 0'F	"	Ø60	;F
 	
 ' Æ 0'D	"	Æî5"!1•Ä æ!('	 "	¨Ò7
@@ -19974,10 +19943,10 @@ I ø!('	 "	à1ü
 * ‡  '"	1ˆ
 8% ë 0'F	"	–1¾
 	&
-# Ï #'"	–1¾‡ 	ì
-
-U## Ş
+# Ş
  #'"	–1¾‡ 	ì
+
+U## Ï #'"	–1¾‡ 	ì
 
 U#) æ!'	 "	à1†
 -	%F
@@ -20862,4 +20831,35 @@ Clock wise"
 Bš	”
  ÇZÄ"	Ğ,®41& İ?NM
 A’š	—
-“Ç °"	Ş2¢:
+“Ç °"	Ş2¢:îx
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
+ "
+B"
+100"
+200"
+DMA"
+Yes"
+Kabeza"
+Normal"
+Sensus"	
+60 m3/h"	
+Kanombe"
+
+250 m3/h"
+
+MASN8WM1"
+
+MASO8WM1"
+
+Readable"
+
+Velocity"
+	090025013"
+	090025753"
+DMA in flow"
+Saint_Emmanuel"	€+ÉW#–@"	± ØŞÜ•@" " " »T" Â”" Ù5* 
+	
+  "	ôæ%5* 
+		
+  "	Ìü+

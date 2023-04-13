@@ -2928,52 +2928,7 @@ incomplete"
 „–$¨¡	ì+ì	"	Î>ŽA[P ÉÝâõëñ™	
 „é!¶$Õ¡	í(' ë	"	ú?ˆ@G< ç¡†Ïëñ™	
 „¸$Õ('	"	Þ@ô?]R ÿÑî®ëñ™	
-„°!³$°”¡	í¢	(' É	"	¼@žAªx
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_Manufacturer
-Meter_TypeMeter_ClassMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
- "
-100"
-110"
-Yes"
-Nzove"
-Other"
-Normal"
-
-Readable"
-
-Velocity"
-	KANN7WM23"
-	KANN7WM24"
-	KANN7WM25"
-	KANN7WM26"
-	KANN7WM27"
-	KANN7WM28"
-	KANN7WM29"
-	KANN7WM30"
-	KANN7WM33"
-
-Nyarugenge"
-DMA in flow"
-RTW-D02995/06"
-RTW-D03067/07"
-RTW-D03073/08"
-RTW-D03075/08"
-RTW-D03097/08"
-RTW-D03099/08"
-RTW-D03101/08"
-RTW-D03103/08"
-Bulk meter (for reservoir)"4
-2Iyi Water Meter Iri Muri Nzove Ibara Amazi Pump I*"	,·Om™?•@"	9	ð@•@"	[ÖtèÆ>•@"	|Õ;lQ@•@"	ªøRë;?•@"	ÆDs?•@"	ÊÁ‹Ék@•@"	Õyv&Î?•@"	ç h³h?•@" ‘Q" ™ü" §ù" ®" ¯" °" ±" ²" ³" ´" µ" ¶" ¸œ" ½Õ" ÈÄ" í" ýã" þê1& 0  	
-) !"	Ð<Ú1& 1 	
-(  $"	Ð<Ê1& / 	
-6 "	Ö<æ1& - 	
-' %"	à<ì1& , 	
-3 "	è<î1& +
- 	
-4 &"	ð<î1& *	 	
-5 ""	ö<ð1& 2 	
-7 #"	Œ=°1& . 	
-8  "	Œ=è‡x
+„°!³$°”¡	í¢	(' É	"	¼@žA‡x
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_typeProvide_comment_if_necessaryAltitude	Content_1Year_of_ConstructionSize"
  "
@@ -3163,8 +3118,8 @@ _q	n”
 )$ ý	 "	Ú0
 S	/À
 k Ý	"	–š0
-z@ û"	ªž2
-' ½"	ªž2
+z@ ½"	ªž2
+' û"	ªž2
 ' ·	"	Î˜1
 D Þ	 "
 	ŒÌ2CJ ±	"
@@ -4078,7 +4033,52 @@ MÒ¼€"	Š=æ0& †+  Q†‹	…
  Ò‘À€"	„Aü0% €P  Q‹	…
  Ò‘¬€"	„@Š1& ÿO  Q†‹	…
  Ò´€"	€@’1& ø  Q†‹	…
- Ò¶€"	ŒAÈßx
+ Ò¶€"	ŒAÈ©x
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_Manufacturer
+Meter_TypeMeter_ClassMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
+ "
+100"
+110"
+Yes"
+Nzove"
+Other"
+Normal"
+
+Readable"
+
+Velocity"
+	KANN7WM23"
+	KANN7WM24"
+	KANN7WM25"
+	KANN7WM26"
+	KANN7WM27"
+	KANN7WM28"
+	KANN7WM29"
+	KANN7WM30"
+	KANN7WM33"
+
+Nyarugenge"
+DMA in flow"
+RTW-D02995/06"
+RTW-D03067/07"
+RTW-D03073/08"
+RTW-D03075/08"
+RTW-D03097/08"
+RTW-D03099/08"
+RTW-D03101/08"
+RTW-D03103/08"
+Bulk meter (for reservoir)"4
+2Iyi Water Meter Iri Muri Nzove Ibara Amazi Pump I*"	,·Om™?•@"	9	ð@•@"	[ÖtèÆ>•@"	|Õ;lQ@•@"	ªøRë;?•@"	ÆDs?•@"	ÊÁ‹Ék@•@"	Õyv&Î?•@"	ç h³h?•@" ‘Q" ™ü" §ù" ®" ¯" °" ±" ²" ³" ´" µ" ¶" ¸œ" ½Õ" ÈÄ" í" ýã" þê1& 0  	
+) !"	Ð<Ú1& 1 	
+(  $"	Ð<Ê1& / 	
+6 "	Ö<æ1& - 	
+' %"	à<ì1& , 	
+3 "	è<î1& +
+ 	
+4 &"	ð<î1& *	 	
+5 ""	ö<ð1& 2 	
+7 #"	Œ=°1& . 	
+8  "	Œ=èßx
 water_source(€ idID_CodeDischarge_m3_hLocation_NameBranch_NameWater_source_typeProvide_comments_if_necessaryAltitude"
 Nzove"
 	KANM6WS30"

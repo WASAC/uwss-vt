@@ -1577,28 +1577,7 @@ $%"	ž7[Q ã
 ž
 ôÃ"	ª@¨' ¢	²Õ†Íï	Ù 
 "	ŒAü>' ž	²Ö‡Íï	Ú 
-"	Æ@®@ãx
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_Manufacturer
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
-C"
-DMA"
-Yes"
-<Null>"
-Musamo"
-Normal"	
-15 m3/h"	
-Ruhango"
-
-Readable"
-
-Velocity"
-	63 (2 '')"
-	RUHMUSWM1"
-DMA in flow"
-NOT AVAILABLE"
-Not Available"	4#23s¾™@" ·" åƒ=3( 	 	
-
-"	ª?èŽx
+"	Æ@®@Žx
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered	Content_1	Content_2Provide_comment_if_necessaryAltitude
 Cover_type	Content_3"
 No"
@@ -2095,4 +2074,25 @@ $"	ÂŠ) . +	
 &"	¢?Ú# 1 # +
 )"	¨?ä! 3
  +
-("	Ø?¤
+("	Ø?¤âx
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_Manufacturer
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
+C"
+DMA"
+Yes"
+<Null>"
+Musamo"
+Normal"	
+15 m3/h"	
+Ruhango"
+
+Readable"
+
+Velocity"
+	63 (2 '')"
+	RUHMUSWM1"
+DMA in flow"
+NOT AVAILABLE"
+Not Available"	4#23s¾™@" ·" åƒ=3( 	 	
+
+"	ª?è

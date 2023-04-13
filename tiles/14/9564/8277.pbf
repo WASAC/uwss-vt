@@ -751,29 +751,7 @@ incomplete"
 Û"	ü æ+I> Çç.ÚøÓß½	ƒÃ
 Û"	ö"Ğ*) ÒÛ5¬øÓß½	ƒ"	œ#œ*E: –Ï!®øÓßì	õ"	!â/* …º¤­øÓß¤	ÿ"	¦"².I> ›¸¢¯øÓß¡	ÿ#Ş"	‚!Š?2' Á˜ƒØøÓß	÷
     "	€*’23( ³ŸÙøÓß›	ÿ
-Û   "	ğ=Œ;„x
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
- "
-B"
-200"
-Yes"
-Other"
-Normal"
-Remera"	
-BUL6WM1"
-
-150 m3/h"
-
-Readable"
-
-Velocity"
-
-2012020192"
-Bulk meter (for reservoir)"
-Bumbogo- Central_St_Leona Rd"	ø×Möóœ@" £®" Ó" Ü5* 
-	
-	   "	Æº-¿x
+Û   "	ğ=Œ;¿x
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_typeProvide_comment_if_necessaryAltitude"
  "
@@ -1296,4 +1274,26 @@ Valve_TypeOpening_directionPressureProvide_Comment_if_necessaryAltitude
 & "	È´-) *	
 & %"	Ê¸-) )		
 & #"	Ìè-) -	
-&  "	â#˜
+&  "	â#˜ƒx
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
+ "
+B"
+200"
+Yes"
+Other"
+Normal"
+Remera"	
+BUL6WM1"
+
+150 m3/h"
+
+Readable"
+
+Velocity"
+
+2012020192"
+Bulk meter (for reservoir)"
+Bumbogo- Central_St_Leona Rd"	ø×Möóœ@" £®" Ó" Ü5* 
+	
+	   "	Æº-

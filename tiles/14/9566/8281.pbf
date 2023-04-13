@@ -3501,38 +3501,7 @@ unreadable"
 	  "	¨.šAUJ ¨°‚Ô&›ƒã÷.	Ù	
 “		$5$4"Œ "	À< @2' ø÷êÕ&›µã	ê
      "	€=”@* ’ñû&›µãÊ	ê "	¾@ø@6+ ÅØ’ü&›ƒãè/	
- "	ô@Ş@øx
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
- "
-B"
-100"
-Yes"
-Normal"
-Sensus"	
-60 m3/h"	
-Kanombe"
-
-13006275"
-
-250 m3/h"
-
-Kigarama"
-
-RUSM7WM1"
-
-RUSM7WM2"
-
-Readable"
-
-Velocity"
-DMA out flow"
-E12X1076827Q"
-Bulk meter (for reservoir)"	€K“¥–@"	Àá}º”¨–@" /" 0" ˜<" ²×<" Ü" İ5* 
-	
-  "	°Ò@5* 
-		
-  "	ªú@ x
+ "	ô@Ş@ x
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_typeProvide_comment_if_necessaryAltitude"
  "
@@ -3962,16 +3931,16 @@ EJ' õ
 %"	øü
   æ
 %"	øü
-   ÷
+   Î
+!"	ğŠ
+k=	¤^
+7  ÷
 !"	ğŠ
 k=	¤^
 7* ÿ
 %"	ğŠ
 	)L
-"=	ŸØN¿0Y  Î
-!"	ğŠ
-k=	¤^
-7 ‚
+"=	ŸØN¿0Y ‚
 !"	¦ò
 W) †
 !"	¦ò
@@ -4497,10 +4466,10 @@ E‘" ›
 		b4
 W-! 
 (!7	İ"	¬°.
-v@# ƒ
+v@# Ü
 !"	öÔ.
 	°Ø
-©Ñ# Ü
+©Ñ# ƒ
 !"	öÔ.
 	°Ø
 ©Ñr õ
@@ -5182,9 +5151,9 @@ R …
  	“¶
 ”³" ›
 (!7	İ"	’+Š4
-2q ©
+2q ›
 !"	Ä+Ò4
-t ›
+t ©
 !"	Ä+Ò4
 t' Û
 $!	 "	Æ/Î1
@@ -5217,9 +5186,9 @@ H1 ·
 !"	š,Ì;
  ­
 !"	š,Ì;
- 
+ ˆ
 !"	‚0€9
-?& ˆ
+?& 
 !"	‚0€9
 ?&" ö
 !	 "	â-œ>1Ó •
@@ -5887,4 +5856,35 @@ Valve_TypeOpening_directionPressureProvide_Comment_if_necessaryAltitude
 ;dBG6"	ø„A# m	A=7@	C
 ;d]6"	øA# i	A=7@	C
 ;dc6"	ö”A# h	A=7@	C
-;dL6"	ö”A
+;dL6"	ö”A÷x
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
+ "
+B"
+100"
+Yes"
+Normal"
+Sensus"	
+60 m3/h"	
+Kanombe"
+
+13006275"
+
+250 m3/h"
+
+Kigarama"
+
+RUSM7WM1"
+
+RUSM7WM2"
+
+Readable"
+
+Velocity"
+DMA out flow"
+E12X1076827Q"
+Bulk meter (for reservoir)"	€K“¥–@"	Àá}º”¨–@" /" 0" ˜<" ²×<" Ü" İ5* 
+	
+  "	°Ò@5* 
+		
+  "	ªú@

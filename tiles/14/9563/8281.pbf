@@ -20536,86 +20536,7 @@ $Cptr Irashaje Cyane Umutima Wavagamo"'
 Õ’	æA‘z”õ”ó/"	¸@º8QF ´}Óvì&åVÕÈzºA€]*	Ù:
 €”û\äá+"	Ê@ˆ9.# õ”×tÖ%¼UÕÈz€.€]	ßA“"	Ò@Ş98- ëŠÅyÊ(ëVÕÈzºA€]*	Å@
  İ”Ç."	’Aü9OD Ó‘ëv'‘VÕÈzºA€]*	ƒ<
-€”äá+"	È@¸:äx
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
- "
-B"
-C"
-25"
-32"
-63"
-80"
-No"
-110"
-160"
-DMA"
-Yes"
-Bwiza"
-Itron"
-Kabeza"
-Normal"
-Sappel"
-Sensus"	
-10 m3/h"	
-60 m3/h"	
-Abarezi"	
-Intwari"	
-Kanombe"
-
-150 m3/h"
-
-2.5 m3/h"
-
-3.5 m3/h"
-
-KANK1WM2"
-
-KANL1WM1"
-
-KANM2WM1"
-
-KANM2WM2"
-
-KANM2WM3"
-
-Readable"
-
-Samuduha"
-
-Velocity"
-	090025717"
-	A14083368"
-	Rwinyange"
-
-NYARUK2WM2"
-
-NYARUK2WM3"
-
-NYARUK3WM1"
-C07IA082204"
-C07IA085747"
-CO7IA084395"
-DMA in flow"
-D10SE011060C"
-DMA out flow"
-ELGZ95831582"
-Not available"
-Ku_Cyamitsingi"
-Electromagnetic"
-For Fire Hydrant"
-Station_Sp_Nyandungu"
-Bulk meter (for reservoir)"	,—µ–@"	qWD%—@"	zÖV aØ–@"	|ö’¢RÔ–@"	€JËıJÎ•@"	„Àtö–@"	®¿hf'—@"	Ö'Ô¿60–@" " 6" @" A" J" Y" a" b" j" ™‘" ª(" «9" Ë" Ñó" ×" Ù" Ú" Ş" ó#" ù5* B0#N1	
-
-+F	  6"	Ò¾5* C&.I!	
-4+G  ;"	Ø3( A L!	
-2+/ 5"	ŠĞ-3( ? "!	
-
-+J  :"	²º:3( >(K!	
-4+O  8"	êü<5* D%$)K!	
-4+H  <"	‚.˜5* E'3,M!	
-2-=  9"	¢9€5* @*K!	
-4+P  7"	è"ğ9âx
+€”äá+"	È@¸:âx
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_typeProvide_comment_if_necessaryAltitude"
  "
@@ -28377,4 +28298,83 @@ NYARUL3VA9"
 ¿ş Óº"	ì=è 4) ‘ˆ†‡;ÁÄ	Ã
 ¿ş ïº"	Œ8ô02' “7a»ÁÄ	Ã
 ¿ş íº"	¦,ü@4) ±…«¬	¾Ä	Ã
-¿ş Ğº"	@Ò
+¿ş Ğº"	@Òãx
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
+ "
+B"
+C"
+25"
+32"
+63"
+80"
+No"
+110"
+160"
+DMA"
+Yes"
+Bwiza"
+Itron"
+Kabeza"
+Normal"
+Sappel"
+Sensus"	
+10 m3/h"	
+60 m3/h"	
+Abarezi"	
+Intwari"	
+Kanombe"
+
+150 m3/h"
+
+2.5 m3/h"
+
+3.5 m3/h"
+
+KANK1WM2"
+
+KANL1WM1"
+
+KANM2WM1"
+
+KANM2WM2"
+
+KANM2WM3"
+
+Readable"
+
+Samuduha"
+
+Velocity"
+	090025717"
+	A14083368"
+	Rwinyange"
+
+NYARUK2WM2"
+
+NYARUK2WM3"
+
+NYARUK3WM1"
+C07IA082204"
+C07IA085747"
+CO7IA084395"
+DMA in flow"
+D10SE011060C"
+DMA out flow"
+ELGZ95831582"
+Not available"
+Ku_Cyamitsingi"
+Electromagnetic"
+For Fire Hydrant"
+Station_Sp_Nyandungu"
+Bulk meter (for reservoir)"	,—µ–@"	qWD%—@"	zÖV aØ–@"	|ö’¢RÔ–@"	€JËıJÎ•@"	„Àtö–@"	®¿hf'—@"	Ö'Ô¿60–@" " 6" @" A" J" Y" a" b" j" ™‘" ª(" «9" Ë" Ñó" ×" Ù" Ú" Ş" ó#" ù5* B0#N1	
+
++F	  6"	Ò¾5* C&.I!	
+4+G  ;"	Ø3( A L!	
+2+/ 5"	ŠĞ-3( ? "!	
+
++J  :"	²º:3( >(K!	
+4+O  8"	êü<5* D%$)K!	
+4+H  <"	‚.˜5* E'3,M!	
+2-=  9"	¢9€5* @*K!	
+4+P  7"	è"ğ9

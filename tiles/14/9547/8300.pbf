@@ -1810,40 +1810,7 @@ $%"	º>à?[P ô∆.åÒ	∏π	À"ù
 Ì˚	¡Ê				≤
 "	¿@¶?YN Ü—	ÆıÒ	∏π	†
 
-ã˚	¡Ê	 Ù				Ó	!"	¥@ö@Ωx
-fire_hydrant(Ä idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitude"
-B"
-150"
-DMA"
-Yes"
-Other"
-Kinazi"
-Normal"
-Nyanza"
-Sensus"	
-40 m3/h"	
-ISO4064"
-
-150 m3/h"
-
-Readable"
-
-Rusatira"
-
-Velocity"
-	090025690"
-	90 (3 '')"
-	KINGAHWM1"
-	KINGITWM1"
-DMA in flow"
-Kinazi centre"
-Not Available"
-Mechanical Meter"
-Bulk meter (for reservoir)"	6€–Pxâö@"	ø!˛á3·ö@" ê" ë" ¶Ä" ø" Ÿ5*  		
-"	‡+ê03( 
- 	
-"	®"Ü@Óx
+ã˚	¡Ê	 Ù				Ó	!"	¥@ö@Óx
 manhole(Ä idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_type	Content_1	Content_2Altitude	Content_3Provide_comment_if_necessary"
 Yes"
@@ -2605,7 +2572,40 @@ Steel Pipe"
 7)"	®"Ü@' A(21/-	@
 6)"	¶"à@
  F0
-5)"	íA∂3–x
+5)"	íA∂3ºx
+water_meter(Ä idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitude"
+B"
+150"
+DMA"
+Yes"
+Other"
+Kinazi"
+Normal"
+Nyanza"
+Sensus"	
+40 m3/h"	
+ISO4064"
+
+150 m3/h"
+
+Readable"
+
+Rusatira"
+
+Velocity"
+	090025690"
+	90 (3 '')"
+	KINGAHWM1"
+	KINGITWM1"
+DMA in flow"
+Kinazi centre"
+Not Available"
+Mechanical Meter"
+Bulk meter (for reservoir)"	6€–Pxâö@"	ø!˛á3·ö@" ê" ë" ¶Ä" ø" Ÿ5*  		
+"	‡+ê03( 
+ 	
+"	®"Ü@–x
 water_source(Ä idBranch_NameWater_source_typeProvide_comments_if_necessaryAltitude"
 Nyanza"
 Spring"4

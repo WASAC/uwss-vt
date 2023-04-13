@@ -3049,36 +3049,16 @@ B™	Ë	¡		!		h®e"	¢@¾?[P ‘Šæ
 B±	Ï	 		!	h²e"	Ö@?MB ĞŸˆèÊ	‰+	ö
 B«	Ï	¢		!Ã"	¸@†@\Q ‹éÊ	‰	ê"·
 B«	Ï	Å	 		!	h¹e"	€AÊ@YN §¯­êÊ	‰	ç
-B«	Ï	¤		!	hÜe"	AšA‚x
+B«	Ï	¤		!	hÜe"	AšAx
 fire_hydrant(€ idID_CodeBranch_Name
-Owner_TypeInstallation_TypeHose_Coupling_StandardPresence_of_MeterInlet_DiameterOutlet_DiameterAltitudeMeter_Location_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_Code"
+Owner_TypeInstallation_TypeHose_Coupling_StandardPresence_of_MeterInlet_DiameterOutlet_DiameterAltitude"
 80"
 No"
-UK"
-100"
-Yes"
-Normal"
+UK"
 Nyanza"
 Public"	
-Actaris"	
-Surface"
-
-100 m3/h"
-
-Readable"
-
-Velocity"
-	BUSNYAFH2"
-	BUSNYAWM3"
-DMA in flow"
-03XWI 023373"
-Not Available"
-Mechanical Meter"
-Bulk meter (for reservoir)"&
-$Nyanza_ Saint Esprit Football Ground"	bÇıœ@"	ä%ùW/œ@" " •" Ó" ıé 	  	"	¦9¨75* 
-
-	"	†<È>x
+Surface"
+	BUSNYAFH2"	ä%ùW/œ@"    	"	¦9¨7x
 manhole(€ idBranch_NameYear_of_ConstructionAltitudeID_CodeLocation_Name	MaterialsCovered
 Cover_type	Content_1	Content_2	Content_3	Content_5Provide_comment_if_necessary"
 No"
@@ -3303,10 +3283,10 @@ s³	‚”	JÛÁ{)ï}qA•³Ç]YCI_Q}	â
 ş  "	Æº
 .E ¾%C7gk	
 ş"'	Ğ†r ./@D	0j<ˆ²Ê¬DBH.@(V„[_ Ô;C7g	
-ö "?	ŒÖÂ%:r#~*2s¸$#6)*I;)O	ËSëûÉÍÛ Û%4
+ö "?	ŒÖÂ%:r#~*2s¸$#6)*I;)O	ËSëûÉÍÛ °%4
 ş"	¢à
 
- °%4
+ Û%4
 ş"	¢à
 
   Ö%C4
@@ -3506,8 +3486,8 @@ f%	}.
 ìa"ˆ	ªâ2A-7I'9)G-C;g	úê2#7?Ÿ+K%3OA=)	æ‚
 !=	¬	*D<	Ó3
 )O	‚ØCA	Ô4: "!<'0Ã”%	³"J'm	?W'3	¾˜3o
-( ª%%C7h	
-ş"	Š à&	> ( á%%C7h	
+( á%%C7h	
+ş"	Š à&	> ( ª%%C7h	
 ş"	Š à&	> # – %%D4   "	¸!®&
 #  %%D4   "	¸!®&
 ( “%%D4hi	
@@ -4464,11 +4444,11 @@ BK	GT
 	EJ.
 + ‚%64
 ä0"		œ*ş@
-‘$ Ã%%4he	
-ş"	ê*¼@
-	$ ÿ%%4he	
+‘$ ÿ%%4he	
 ş"	â*ê@
--$ ş%%4he	
+-$ Ã%%4he	
+ş"	ê*¼@
+	$ ş%%4he	
 ş"	ê*¼@
 	( ğ%%D4hd	
 ş	'"	À* A
@@ -4939,4 +4919,26 @@ n›„j"	ì9ô;* ¾fgms	r
 n›‚j"	„<Â>* ½eioq	r
 n›”j"	„<Æ>* ¼bhop	r
 n›•j"	†<È>* »cdoq	r
-n›—j"	†<È>
+n›—j"	†<È>²x
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitude"
+100"
+Yes"
+Normal"
+Nyanza"	
+Actaris"
+
+100 m3/h"
+
+Readable"
+
+Velocity"
+	BUSNYAWM3"
+DMA in flow"
+03XWI 023373"
+Not Available"
+Mechanical Meter"
+Bulk meter (for reservoir)"&
+$Nyanza_ Saint Esprit Football Ground"	bÇıœ@" •" Ó" ıé5* 
+	
+	 "	†<È>

@@ -37580,77 +37580,7 @@ $Stolen Meter Bk 963148 Du 12Nov 2019"'
 ùtëŸë>Àûä"	â@ò=`U ­ÚÂË¼!ñ•ÕSäÙÒSÈ§<İÁ
 ùtÅÙëŸë>ƒÚä"	¨@Ø?cX Ûé–Ò»!ò•ÕSäÙÒSÈ§<V ô¾	Û„
 ùtÅÙëŸëæS>ä"	¦@î?_T ÿ“î»½!ğ•ÕSäÙÒSÈ§æÍV¾	¬‚
-ùtËŸë>û‘ä"	Æ@Œ@±x
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
- "
-B"
-C"
-32"
-63"
-80"
-No"
-110"
-150"
-200"
-Yes"
-Itron"
-Socam"
-025750"
-338483"
-Mumena"
-Normal"
-Sensus"	
-0025842"	
-40 m3/h"	
-60 m3/h"	
-7355866"	
-Actaris"	
-RWC5WM1"	
-RWC5WM2"	
-RWC5WM3"	
-RWC5WM4"	
-RWC5WM5"
-
-150 m3/h"
-
-2.5 m3/h"
-
-NYAMIWM1"
-
-NYAMIWM2"
-
-Readable"
-
-Velocity"
-	090025632"
-	111002WM1"
-	111002WM2"
-	111002WM3"
-
-Nyakabanda"
-
-Nyamirambo"
-
-Rwezamenyo"
-D03WI013391"
-D11UB016742"
-DMA in flow"
-Not available"
-Electromagnetic"
-For Fire Hydrant"
-Bulk meter (for reservoir)"	%·nMÎÊ˜@"	.ÖjDWÌ˜@"	uÌÎùÊ˜@"	xK•×gó˜@"	„iv|¨Ë˜@"	3èÑ¾V˜@"	aÀ¼Tš@"	ÎçJÌ˜@"	ÕŸäÛÌ˜@"	ænT:š@" " " 1" 2" 5" 7" 8" 9" :" ;" <" ?" " ‹" ¢¤#" ©é" Ë" Ó" Õ" Ù" Û" Û:5* <&'M-	
-/  H  6"		¾?5* =&'M!	
-/
-  I  9"	à	œ?5* >('J!	
-.
- +:, 3"	ú¶= D%'8"	Ö";5* C('L-	
-/
-  G, 7"	Ô"¤; B#'1"	Ü"¼; A$'4"	ê"Æ;5* ?(')K- 	
-/  O	, 2"	ö"Ì;5* @('"M-	
-/  F, 0"	ú"Ì;5* E'*N-	
-.
-  ;, 5"	È1Â:Úx
+ùtËŸë>û‘ä"	Æ@Œ@Úx
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_typeProvide_comment_if_necessaryAltitude"
  "
@@ -59832,4 +59762,74 @@ Nyarugenge"
 œˆ ĞÁ"	ş@2' ÀBD¾—œ	š
 éˆ èÁ"	¢)ø@2' ÂCE¾—œ	š
 éˆ ØÁ"	®)ô@2' ÈWPQ¾—œ	š
-éˆ ®Á"	¢1¨@
+éˆ ®Á"	¢1¨@°x
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
+ "
+B"
+C"
+32"
+63"
+80"
+No"
+110"
+150"
+200"
+Yes"
+Itron"
+Socam"
+025750"
+338483"
+Mumena"
+Normal"
+Sensus"	
+0025842"	
+40 m3/h"	
+60 m3/h"	
+7355866"	
+Actaris"	
+RWC5WM1"	
+RWC5WM2"	
+RWC5WM3"	
+RWC5WM4"	
+RWC5WM5"
+
+150 m3/h"
+
+2.5 m3/h"
+
+NYAMIWM1"
+
+NYAMIWM2"
+
+Readable"
+
+Velocity"
+	090025632"
+	111002WM1"
+	111002WM2"
+	111002WM3"
+
+Nyakabanda"
+
+Nyamirambo"
+
+Rwezamenyo"
+D03WI013391"
+D11UB016742"
+DMA in flow"
+Not available"
+Electromagnetic"
+For Fire Hydrant"
+Bulk meter (for reservoir)"	%·nMÎÊ˜@"	.ÖjDWÌ˜@"	uÌÎùÊ˜@"	xK•×gó˜@"	„iv|¨Ë˜@"	3èÑ¾V˜@"	aÀ¼Tš@"	ÎçJÌ˜@"	ÕŸäÛÌ˜@"	ænT:š@" " " 1" 2" 5" 7" 8" 9" :" ;" <" ?" " ‹" ¢¤#" ©é" Ë" Ó" Õ" Ù" Û" Û:5* <&'M-	
+/  H  6"		¾?5* =&'M!	
+/
+  I  9"	à	œ?5* >('J!	
+.
+ +:, 3"	ú¶= D%'8"	Ö";5* C('L-	
+/
+  G, 7"	Ô"¤; B#'1"	Ü"¼; A$'4"	ê"Æ;5* ?(')K- 	
+/  O	, 2"	ö"Ì;5* @('"M-	
+/  F, 0"	ú"Ì;5* E'*N-	
+.
+  ;, 5"	È1Â:

@@ -1901,30 +1901,7 @@ D11UB01714"
 î
 è€º¿
 Ú
- ˙"	Ù@‰@Îx
-fire_hydrant(Ä idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusInlet_Pipe_Connection_DiameterDMA_CodeAltitude"
-B"
-DMA"
-Yes"
-Normal"
-Sensus"	
-10 m3/h"
-
-Readable"
-
-Velocity"
-	GTSNYBWM1"
-	Nyagatare"
-
-110 (4 '')"
-DMA in flow"
-Nyabicwamba"
-E05XJ7757142"
-Not Available"
-Mechanical Meter"	K‘^œµñ@" í" ﬂ3( 	 	
-
-"	Ñ-»ñ[x
+ ˙"	Ù@‰@ñ[x
 pipeline(Ä idFrom_name_To_nameBranch_NameDiameterPipeline_MaterialPipeline_CategoryNominal_PressureAction_on_pipelineYear_of_LayingCompany_that_layed_the_pipeStreet_Number	RoughnessThickness_mmProvide_comment_if_necessary"
 200"
 ARC"
@@ -2629,4 +2606,27 @@ Steel Pipe"
 "	Ñ- # &	 
 "	§*Ë# %	 
 "	‚-¯(# $	 
-"	¿8≤7
+"	¿8≤7Íx
+water_meter(Ä idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusInlet_Pipe_Connection_DiameterDMA_CodeAltitude"
+B"
+DMA"
+Yes"
+Normal"
+Sensus"	
+10 m3/h"
+
+Readable"
+
+Velocity"
+	GTSNYBWM1"
+	Nyagatare"
+
+110 (4 '')"
+DMA in flow"
+Nyabicwamba"
+E05XJ7757142"
+Not Available"
+Mechanical Meter"	K‘^œµñ@" í" ﬂ3( 	 	
+
+"	Ñ-»

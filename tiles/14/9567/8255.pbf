@@ -1476,39 +1476,7 @@ Unreadable"
 "	è@9]R ‡äğû…¸		Í
 š	œ»ÿ†
  ¦
-¦"	´7Ö@Îx
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_Name
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitudeMeter_Manufacturer"
-B"
-No"
-160"
-DMA"
-Yes"
-Normal"	
-60 m3/h"	
-Gatunda"
-
-200 m3/h"
-
-Readable"
-
-Velocity"
-	GATKABWM1"
-	GATKABWM2"
-	Nyagatare"
-
-110 (4 '')"
-DMA in flow"
-DMA out flow"
-Not Available"
-Not available"
-Mechanical Meter"(
-&Year,Meter,Serial Number Not Available",
-*Meter,Year And Serial Number Not Available"	BÑ¶Óª—@"	´öK$³—@" ¯Ò!" Å‡!" å" æ1& 
- 	
-	"	ü7ò 3( 
- 	
-	"	Â8Ø Îx
+¦"	´7Ö@Îx
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered	Content_1	Content_2Altitude
 Cover_type"
 No"
@@ -2142,4 +2110,36 @@ NlgJ"	Æ8Ü ' y#PS	R
 Nl`J"	Â8à ( :(-#KPS	L
 Nl]J"	Ğ:– ' q=)*# PS	R
 Nl_J"	ª8ì2' p?78#PS	L
-NlaJ"	ø<ö2
+NlaJ"	ø<ö2Íx
+water_meter(€ idID_CodeMeter_Location_NameBranch_Name
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitudeMeter_Manufacturer"
+B"
+No"
+160"
+DMA"
+Yes"
+Normal"	
+60 m3/h"	
+Gatunda"
+
+200 m3/h"
+
+Readable"
+
+Velocity"
+	GATKABWM1"
+	GATKABWM2"
+	Nyagatare"
+
+110 (4 '')"
+DMA in flow"
+DMA out flow"
+Not Available"
+Not available"
+Mechanical Meter"(
+&Year,Meter,Serial Number Not Available",
+*Meter,Year And Serial Number Not Available"	BÑ¶Óª—@"	´öK$³—@" ¯Ò!" Å‡!" å" æ1& 
+ 	
+	"	ü7ò 3( 
+ 	
+	"	Â8Ø 

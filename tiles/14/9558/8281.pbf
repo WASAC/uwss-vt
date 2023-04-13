@@ -5868,77 +5868,7 @@ unreadable"
 É"“1ò&	ÍÇ		A?Î="	¾9¦@SH £"	Â²Çù	ĞÇö
 €1Ş&	ØÇ		A?="	9æ@RG …%	‚Q‹ù	ÒÇö
 Ø1ä&	Ø		Aü	¨ ø	"	–@ø@VK °(	ƒÀŠù	ÒÇö
-‰1Ş&	Ø		A?	!". ø	"	†A@¯x
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitudeType_writer_Reading"
- "
-B"
-C"
-No"
-150"
-200"
-Yes"
-Itron"
-Karama"
-Kigali"
-Normal"
-Sappel"
-Sensus"	
-Ikarama"
-
-150 m3/h"
-
-250 m3/h"
-
-NYAMIWM4"
-
-Readable"
-
-Velocity"
-	090025860"
-	110301WM1"
-	110301WM2"
-	110301WM3"
-	110301WM4"
-	110301WM5"
-	120041907"
-	90 (3 '')"
-	KIGAP9WM1"
-	NYAKC4WM1"
-
-110 (4 '')"
-
-NN34030200"
-
-Nyarugenge"
-DMA in flow"
-Single-Jets"
-DMA out flow"
-Endress Hauser"
-Electromagnetic"
-Mechanical Meter"
-Douptfull To Water Type"
-Bulk meter (for reservoir)"	Sioö—@"	Cµ7õ§›@"	H^³T¦›@"	N,OS5¤›@"	•ñ%·§›@"	™‚¾Şxš›@"	Æˆwm5¥›@"	ÜÆÉòò—@"	à™–_Fê™@"	àñZfë™@" B" C" D" E" F" G" V" W" _" `" " µÂ" ×" Ù" Ü" è…5* :@$	
-'
- 
-A  /"	ˆ°5* ;?	
-'
- 
-=  ("	Ä”' 9!
-'%
- 
-0"	ˆ)ú' 8!
-'%
- 
-1"	)ü
- 6#)"	˜<Œ9
- 7#,"	¦<Š9
- 5#*"	°<9
- 4#."	¸<”9
- 3#+"	À<š95* 2	>	
-'
-"
-< &-"	ê<ò9ˆ
+‰1Ş&	Ø		A?	!". ø	"	†A@ˆ
 x
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_typeProvide_comment_if_necessaryAltitude	Content_1	Content_2Year_of_ConstructionSize"
@@ -6879,8 +6809,8 @@ L"	òØ
  "	˜Ş
 . ¤27ZY
 L"	Äø
-g+ ¿277Y¶«î	"		Úš
-"¾+ Š277Y¶«î	"		Úš
+g+ Š277Y¶«î	"		Úš
+"¾+ ¿277Y¶«î	"		Úš
 "¾% ¤27Y
  "	„ğ*0* <tC! 27“Y¯
 "	ì–
@@ -8319,4 +8249,74 @@ rÊ ”n"	â<ô9-" õ:a`j	z€	v
 rÊ ®n"	è<ô9-" ó8]kj	z€	v
 rÊ ‘n"	ê<ö9-" ñC7li
 z€	~
-ZÊ Ÿn"	â?ş@
+ZÊ Ÿn"	â?ş@®x
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitudeType_writer_Reading"
+ "
+B"
+C"
+No"
+150"
+200"
+Yes"
+Itron"
+Karama"
+Kigali"
+Normal"
+Sappel"
+Sensus"	
+Ikarama"
+
+150 m3/h"
+
+250 m3/h"
+
+NYAMIWM4"
+
+Readable"
+
+Velocity"
+	090025860"
+	110301WM1"
+	110301WM2"
+	110301WM3"
+	110301WM4"
+	110301WM5"
+	120041907"
+	90 (3 '')"
+	KIGAP9WM1"
+	NYAKC4WM1"
+
+110 (4 '')"
+
+NN34030200"
+
+Nyarugenge"
+DMA in flow"
+Single-Jets"
+DMA out flow"
+Endress Hauser"
+Electromagnetic"
+Mechanical Meter"
+Douptfull To Water Type"
+Bulk meter (for reservoir)"	Sioö—@"	Cµ7õ§›@"	H^³T¦›@"	N,OS5¤›@"	•ñ%·§›@"	™‚¾Şxš›@"	Æˆwm5¥›@"	ÜÆÉòò—@"	à™–_Fê™@"	àñZfë™@" B" C" D" E" F" G" V" W" _" `" " µÂ" ×" Ù" Ü" è…5* :@$	
+'
+ 
+A  /"	ˆ°5* ;?	
+'
+ 
+=  ("	Ä”' 9!
+'%
+ 
+0"	ˆ)ú' 8!
+'%
+ 
+1"	)ü
+ 6#)"	˜<Œ9
+ 7#,"	¦<Š9
+ 5#*"	°<9
+ 4#."	¸<”9
+ 3#+"	À<š95* 2	>	
+'
+"
+< &-"	ê<ò9

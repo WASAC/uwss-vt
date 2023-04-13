@@ -3584,36 +3584,7 @@ N¥ﬁ="	¢<ò@5* ºèt†≥ƒòÆ	
 N¥ﬁT="	¢<ò@XM ß£k‘≥ƒ‘Æ	ê	
 MÄﬁ•∏T$ R="	=ƒ@3( Îìã›<ƒòÆ	ä
 N¥ﬁ="	‰@ê=5* œìy›≥ƒòÆ	ä
-N¥ﬁT="	‰@ê=åx
-fire_hydrant(Ä idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
- "
-B"
-80"
-150"
-Yes"
-Normal"
-Sensus"	
-40 m3/h"	
-Kanombe"
-
-150 m3/h"
-
-Readable"
-
-Velocity"
-	090025640"
-	090025886"
-	MUYL11WM1"
-	MUYL11WM2"
-Cyabaheshwa"
-DMA in flow"
-Not available"
-Bulk meter (for reservoir)"	/«mÒò@"	˛\…bøÒò@" M" N" á∏" ºÇ" Ÿ5* 	
-
- "	§ˆ#5* 		
-
- "	¨˙#íx
+N¥ﬁT="	‰@ê=íx
 manhole(Ä idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_typeProvide_comment_if_necessaryAltitude	Content_1	Content_2"
  "
@@ -3810,16 +3781,16 @@ $I# ∑! 
 " Ü' 1
 "	¬ÄÙ – "
 	¶Ó! Î "
-	¶Ó! — "	™¥
- ’ "	™¥
- ˙ "	å‚
-" î "	å‚
+	¶Ó! ’ "	™¥
+ — "	™¥
+ î "	å‚
+" ˙ "	å‚
 " Ô "	‚ÿ
 3	 ˆ "	‚ÿ
 3	 ´ "
 	îòG+ È "
-	îòG+ Ú "		FÑy ˝ "	hû
-8$ ı "	hû
+	îòG+ Ú "		FÑy ı "	hû
+8$ ˝ "	hû
 8$ ° "	ÇÍ
 > ;' 1
 "	¥˛
@@ -4990,4 +4961,33 @@ Steel Pipe"
 +B >&"	ê/º7) M.4	)
 +B @&"	®/∂7' H$-/	)
 +B<&"	Ã/ê7# E" ($0B=&"	“2ﬁ:' D! '$*6	)
-+B;&"	Ã7Ç?
++B;&"	Ã7Ç?ãx
+water_meter(Ä idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
+ "
+B"
+80"
+150"
+Yes"
+Normal"
+Sensus"	
+40 m3/h"	
+Kanombe"
+
+150 m3/h"
+
+Readable"
+
+Velocity"
+	090025640"
+	090025886"
+	MUYL11WM1"
+	MUYL11WM2"
+Cyabaheshwa"
+DMA in flow"
+Not available"
+Bulk meter (for reservoir)"	/«mÒò@"	˛\…bøÒò@" M" N" á∏" ºÇ" Ÿ5* 	
+
+ "	§ˆ#5* 		
+
+ "	¨˙#

@@ -727,32 +727,7 @@ Volumetric"
 "	ð@–YN ÓÝ¡Ü«˜¯®<®	³
 Ù–¤
 Bö@
-"	¬@š#x
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitude"
-B"
-DMA"
-Yes"
-Normal"
-Rutare"	
-60 m3/h"
-
-14087955"
-
-Readable"
-
-Velocity"
-	Nyagatare"
-	RWECYEWM1"
-
-110 (4 '')"
-DMA out flow"
-Not Available"
-Not available"
-Mechanical Meter"	–T³~ª–@" 
-" Þ" ÷5* 
-	 	
-"	„#ä$Âx
+"	¬@š#Âx
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_type	Content_1	Content_2Altitude"
 Yes"
@@ -1274,4 +1249,29 @@ NrdK"	Š#ð$" 1$LRr`K"	œ#ð$' ~0"#LOR	Q
 NrqK"	#ø$( €/!$LOR	Q
 NrVK"	”#ð$! |2#LRrYK"	”#þ$( …5('OR	Q
 NrgK"	š(Ê$! u87LRrnK"	î?¸<' t7+8LOP	Q
-NroK"	ê?À<
+NroK"	ê?À<Œx
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitude"
+B"
+DMA"
+Yes"
+Normal"
+Rutare"	
+60 m3/h"
+
+14087955"
+
+Readable"
+
+Velocity"
+	Nyagatare"
+	RWECYEWM1"
+
+110 (4 '')"
+DMA out flow"
+Not Available"
+Not available"
+Mechanical Meter"	–T³~ª–@" 
+" Þ" ÷5* 
+	 	
+"	„#ä$

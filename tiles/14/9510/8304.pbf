@@ -876,65 +876,7 @@ Meter_TypeType_writer_ReadingWater_Meter_ManufacturerSerial_NumberMeter_
 —Œ "	§0¬!@5 Ë´ãá»≈À	û
 “Œ…"	∂3ƒ @5 ”õqÄ»≈À	Ö
 —æŒ≈"	»;÷ E: êåh »≈À	Ä
-—æŒ"	¥@§⁄
-x
-fire_hydrant(Ä idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitudeProvide_comments_if_necessary"
-B"
-80"
-No"
-DMA"
-Yes"
-Other"
-574325"
-6 m3/h"
-796306"
-Giheke"
-Kabeza"
-Normal"
-Rusizi"	
-10 m3/h"	
-15 m3/h"	
-40 m3/h"	
-Bmeters"
-
-09000317"
-
-09000319"
-
-09000883"
-
-09009296"
-
-11933815"
-
-B Meters"
-
-Readable"
-
-Velocity"
-	90 (3 '')"
-	GIHCYEWM2"
-	GIHCYEWM5"
-	GIHEKEWM1"
-	GIHEKEWM2"
-	GIHEKEWM3"
-	GIHEKEWM4"
-	GIHEKEWM5"
-DMA in flow"
-40 (1 1/4 '')"
-50 (1 1/2 '')"
-75 (2 1/2 '')"
-Bmeters And Nominal_Flow 25"	,µÕK®*û@"	QPç¯W*û@"	låœ’ï§ù@"	≤ÍÑÏA•ù@"	æÖ§ù:*û@"	‰Ç›"k*û@"	Ê≈C\)û@" F" G" H" I" J" N" X" Y" ë^" √" —" ÿ" ﬁ" ﬂ" Ê" ˝3( 4
-: 	
-!;("	Ó‰5* 3
-: 	
-!2")"	Ê5* 1 	: 	
-!5$%&"	∫ä'5* 0	: 	
-!6%+"	∫ä'5* /	: 	
-!<"%'"	∫ä'5* .	9 	
-!8"*"	∫ä'5* -	9 	
-!7#,"	ºé'Øx
+—æŒ"	¥@§Øx
 manhole(Ä idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_type	Content_1	Content_2	Content_3AltitudeYear_of_ConstructionSizeProvide_comment_if_necessary"
  "
@@ -1027,8 +969,8 @@ s	v
 &"'	ê*†Arm-ıq]+K≠3u}m
 ◊\%üâg&wz* F	,"	˛‡	˝ø)	∫å~b e	$ "	∆Ñ
 
-& [	$"	å0
-∂ a	$"	å0
+& a	$"	å0
+∂ [	$"	å0
 ∂! E	,*"	§î≤ T		k"		¥
 ú
 í!@ z	,	k
@@ -1083,8 +1025,8 @@ j $ Z	$ "	‹ﬁ*@	 f	$"	ƒ‡+0ä 
 %m	(l
   D	$"	Ë‘,
   6	$,"	¿"Ç
-#S% á	$,"	ÿ"∏	%	.
-$ /	$,"	ÿ"∏	%	.
+#S$ /	$,"	ÿ"∏	%	.
+% á	$,"	ÿ"∏	%	.
  ~	$"	–2¢∫ -	$"	–2¢∫< K	,	v"&	‹1à"	
  		
 		t& V	,	v"	Ã2ƒ
@@ -1100,9 +1042,9 @@ J% j	$"	⁄8ä
 F5	7\
 %  \	$"	∫!Œ#
 F5	7\
-% ]	$	v"	‚!Ë#
+% b	$	v"	‚!Ë#
 %J B	$	v"	‡!#
- b	$	v"	‚!Ë#
+ ]	$	v"	‚!Ë#
 %J à	 "
 	‡%∏'* N	,"	Í í+
 	&<*
@@ -1254,4 +1196,62 @@ Gate valve"
 ON2"	¿ä'
  _9	?"	ƒê'% ]+,	
 ;	5P@2"	‡"Ù> `	 J"	æ2≤%
- a	6C"	Ê@‹
+ a	6C"	Ê@‹Ÿ
+x
+water_meter(Ä idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitudeProvide_comments_if_necessary"
+B"
+80"
+No"
+DMA"
+Yes"
+Other"
+574325"
+6 m3/h"
+796306"
+Giheke"
+Kabeza"
+Normal"
+Rusizi"	
+10 m3/h"	
+15 m3/h"	
+40 m3/h"	
+Bmeters"
+
+09000317"
+
+09000319"
+
+09000883"
+
+09009296"
+
+11933815"
+
+B Meters"
+
+Readable"
+
+Velocity"
+	90 (3 '')"
+	GIHCYEWM2"
+	GIHCYEWM5"
+	GIHEKEWM1"
+	GIHEKEWM2"
+	GIHEKEWM3"
+	GIHEKEWM4"
+	GIHEKEWM5"
+DMA in flow"
+40 (1 1/4 '')"
+50 (1 1/2 '')"
+75 (2 1/2 '')"
+Bmeters And Nominal_Flow 25"	,µÕK®*û@"	QPç¯W*û@"	låœ’ï§ù@"	≤ÍÑÏA•ù@"	æÖ§ù:*û@"	‰Ç›"k*û@"	Ê≈C\)û@" F" G" H" I" J" N" X" Y" ë^" √" —" ÿ" ﬁ" ﬂ" Ê" ˝3( 4
+: 	
+!;("	Ó‰5* 3
+: 	
+!2")"	Ê5* 1 	: 	
+!5$%&"	∫ä'5* 0	: 	
+!6%+"	∫ä'5* /	: 	
+!<"%'"	∫ä'5* .	9 	
+!8"*"	∫ä'5* -	9 	
+!7#,"	ºé'

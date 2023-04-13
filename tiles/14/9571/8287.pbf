@@ -1699,45 +1699,7 @@ GÚ;N;L !M"	ì=â7, ™ìÊçû¯	ï€	¨
 GÉ—¨	©	;N;Ð	L#¡
 $B%: !M"	œ2€#XM Ž¦	ó˜û¯	ï€	ë
 HÝ—õ©	³	;N;®	L!M"	ò2Ô"XM “§	ôýû¯	ï€	ì
-Hã—õ©	°	;N;®	L!M"	Ò4Ò!Ûx
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterAltitude"
-B"
-DMA"
-Yes"
-DN250"
-DN300"
-Normal"
-Rukori"
-Sensus"	
-40 m3/h"
-
-400 m3/h"
-
-600 m3/h"
-
-Readable"
-
-Velocity"
-	070045338"
-	KARRUGWM1"
-	KARRUGWM2"
-	KARRUGWM3"
-	KARRUGWM4"
-	Rwamagana"
-DMA in flow"
-E07WN91530U"
-E06XF9082681"
-NOT AVAILABLE"
-Not Available"
-DN50 (1 1/2 '')"
-Electromagnetic"
-Karenge Mu Ruganda"	\ü5GÞ”@"	h@¦˜9Õ•@"	¢<ÃsÞ”@"	ñHfÅä•@" —›" ¥¤" ®û›" Ö" ×" Ü°5" ç" è" ê" ë1& (# 	
-
- "	ºŠ1& '" 	
-"	Äš+  %
-!"	ö¦$1& &# 		
-$"	˜ $ x
+Hã—õ©	°	;N;®	L!M"	Ò4Ò! x
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered	Content_1	Content_2Altitude
 Cover_type"
 No"
@@ -2855,7 +2817,45 @@ o–h"	¤ $) ©F?> qt	s
 o—|h"	ªœ$) ¤D[Y qt	s
 o—h"	¨¨$) £E]@ qt	s
 o—vh"	 ª$* ¥C\Z qt	s
-o—ƒh"	®¤$% ¬	kiWt—xh"	à(‚Ëx
+o—ƒh"	®¤$% ¬	kiWt—xh"	à(‚Úx
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterAltitude"
+B"
+DMA"
+Yes"
+DN250"
+DN300"
+Normal"
+Rukori"
+Sensus"	
+40 m3/h"
+
+400 m3/h"
+
+600 m3/h"
+
+Readable"
+
+Velocity"
+	070045338"
+	KARRUGWM1"
+	KARRUGWM2"
+	KARRUGWM3"
+	KARRUGWM4"
+	Rwamagana"
+DMA in flow"
+E07WN91530U"
+E06XF9082681"
+NOT AVAILABLE"
+Not Available"
+DN50 (1 1/2 '')"
+Electromagnetic"
+Karenge Mu Ruganda"	\ü5GÞ”@"	h@¦˜9Õ•@"	¢<ÃsÞ”@"	ñHfÅä•@" —›" ¥¤" ®û›" Ö" ×" Ü°5" ç" è" ê" ë1& (# 	
+
+ "	ºŠ1& '" 	
+"	Äš+  %
+!"	ö¦$1& &# 		
+$"	˜ $Ëx
 water_source(€ idID_CodeDischarge_m3_hLocation_NameBranch_NameWater_source_typeAltitude"
 Lake"
 	KARRUGWS1"

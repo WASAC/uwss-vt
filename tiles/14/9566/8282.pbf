@@ -12393,56 +12393,7 @@ t”Y	ÓJ¨'		ˆºˆ¸	”U !‡ƒ"	¸¬:[P ŽZ¥<¦³(è
 ³…[²ÕJó8"	¸@¨7.# ÕQÁI‰Ä8èøJ©'ì8	¾&óZó8"	Ž@þ79. ýUýHÆ´8èøJ©'ì8	ý%
 ³óZ²É'ó8"	ü@¾76+ ØYÃJ—	º8èøJ©'ì8	è&
 ³…[Ãó8"	Ä@š8VK ²P°Hƒ¹8èøJ©'ì8	Ý$
-±óZ²	É'ÕJ			„	ä„àó8"	A¸8Èx
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
- "
-B"
-C"
-100"
-250"
-DMA"
-Yes"
-Itron"
-KANWM3"
-Normal"
-Sensus"	
-60 m3/h"	
-Kanombe"
-
-13006275"
-
-250 m3/h"
-
-400 m3/h"
-
-Kigarama"
-
-MASO6WM1"
-
-RUSM7WM1"
-
-RUSM7WM2"
-
-Readable"
-
-Velocity"
-	A15034093"
-
-Nyakagunga"
-DMA in flow"
-DMA out flow"
-E12X1076827Q"
-Masaka_Biryogo"
-Electromagnetic"
-Bulk meter (for reservoir)"4
-2We Did'Nt Access This Meter, It Is Under Ground C*"	æb}8T–@"	€K“¥–@"	¬*tæïR–@"	Àá}º”¨–@" " " /" 0" Š¤" ˜Ž<" ²×<" Ü" Ý" Þ4* &
-*	
-		(  ""	°R4* %
-+	
-		)   "	ªz5* $,	
-		'  !"	èÎ6-" #    
-       "	ê€7Þ	x
+±óZ²	É'ÕJ			„	ä„àó8"	A¸8Þ	x
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_typeProvide_comment_if_necessaryAltitude"
  "
@@ -14229,8 +14180,8 @@ T%  Î""4+D²"	¨¶*
 
  ª""+"	ˆì(
 
- ¹""+"	ôÖ)
- œ""+"	ôÖ)
+ œ""+"	ôÖ)
+ ¹""+"	ôÖ)
  ®"+²"	Âº*
 "! €$-+		 "	šª*`2*	 Õ$-+		 "	ˆÂ-
  Ž$+		 "	ôþ,
@@ -16770,4 +16721,53 @@ No To Node"
 ÖÜÑÓ	¯ 
 Ì"	Ê?Þ,3( µLŽ$	ÖÜÛÓ	° 
 …Ì"	ªÈ@3( ¶KŽ$	ÖÜÛÓ	° 
-ýÌ"	¸Â@
+ýÌ"	¸Â@Çx
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
+ "
+B"
+C"
+100"
+250"
+DMA"
+Yes"
+Itron"
+KANWM3"
+Normal"
+Sensus"	
+60 m3/h"	
+Kanombe"
+
+13006275"
+
+250 m3/h"
+
+400 m3/h"
+
+Kigarama"
+
+MASO6WM1"
+
+RUSM7WM1"
+
+RUSM7WM2"
+
+Readable"
+
+Velocity"
+	A15034093"
+
+Nyakagunga"
+DMA in flow"
+DMA out flow"
+E12X1076827Q"
+Masaka_Biryogo"
+Electromagnetic"
+Bulk meter (for reservoir)"4
+2We Did'Nt Access This Meter, It Is Under Ground C*"	æb}8T–@"	€K“¥–@"	¬*tæïR–@"	Àá}º”¨–@" " " /" 0" Š¤" ˜Ž<" ²×<" Ü" Ý" Þ4* &
+*	
+		(  ""	°R4* %
++	
+		)   "	ªz5* $,	
+		'  !"	èÎ6-" #    
+       "	ê€7

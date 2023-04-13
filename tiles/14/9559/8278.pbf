@@ -11382,41 +11382,7 @@ $ôRˆ%æ%/Ë/Ê)"	Ä§,TI ÷R¨=”·)À‹EÁ%î5
 ’êTÅ&¿E/Ë/Ê·"	ä@®?XM ùJóAÀÖ.d‚EÁ%î5	á
 ’êT#Å&¡E *‚*ﬂ·"	∏@ä?WL ±ODÜÈd‚EÁ%î5	⁄%
 ÿóU Å&¡E*‚*ﬂ·"	Ñ@ê@G< ∞O—BÊ˘'d‚EÁ%î5	⁄"
-’äU *‚ﬂ·"	Ç@¸@3( “QØ>¨æ.d‚E…î5	™°T    ·"	Ï@@˙x
-fire_hydrant(Ä idID_CodeMeter_Location_NameBranch_NameMeter_ManufacturerYear_of_ManufactureMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_Index_StatusInlet_Pipe_Connection_DiameterAltitudeSerial_Number
-Meter_TypeMeter_ClassNominal_FlowMeter_PositionMeter_Current_Index_ReadingDMA_CodeProvide_comments_if_necessary"
- "
-B"
-No"
-110"
-DMA"
-Yes"
-DN100"
-Normal"
-Sensus"	
-40 m3/h"	
-Gihogwe"
-
-34035669"
-
-Readable"
-
-Velocity"
-	120601WM1"
-	JALJ10WM4"
-	JALJ10WM5"
-
-Nyarugenge"
-DMA in flow"
-E06XH9082795"
-Not_Available"
-Gihogwe Health Center"
-Bulk meter (for reservoir)"	£AEΩg8ñ@"	∏ÓΩ›7ñ@"	Ó/QkJñ@" à√$" ö≈"  " À" Ã" ÷" ◊" ‡% !	
-"	öû05* 
- 		
-  "	¬Í05* 
-		
-  "	∆Ï0áx
+’äU *‚ﬂ·"	Ç@¸@3( “QØ>¨æ.d‚E…î5	™°T    ·"	Ï@@áx
 manhole(Ä idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_typeProvide_comment_if_necessaryAltitude"
  "
@@ -11715,8 +11681,8 @@ IH} î%&8	{{
 # ˝&*65 "	ÃÇ
 		G
 : ‹&*Y5 "	∫å
- Ü&*5"	Ü‡
- ¨	&*5"	Ü‡
+ ¨	&*5"	Ü‡
+ Ü&*5"	Ü‡
  ﬁ&*65 "	î–
 - ®&*50"	ºﬁ
 $ §&*5 "	æ¢
@@ -11847,9 +11813,9 @@ L	O
 	
  ‰&*5"	|∆
 $! î&*5"	|∆
-$! ﬁ&**5"	»ê
- Ç
+$! Ç
 &**5"	»ê
+ ﬁ&**5"	»ê
  •&*5 "	¯®
 3$ †&*Y5 "	∞¢
 
@@ -12700,9 +12666,9 @@ R	i
 .! ã&*65 "	 » 
 :) ˆ&*65 "	†Ê 
  ¶&*Y5v"	Í–)
- ¢&**5"		§(
-ïP Ú
+ Ú
 &**5"		§(
+ïP ¢&**5"		§(
 ïP ñ&*50"	êò*
 $1? ´&*5 "*	Ú≤+
 ÇC	Ö^
@@ -15261,4 +15227,38 @@ Nyarugenge"
 %Æ ë|"	∆-ä'/$ “`ST{)ÅÖ	É
 %Æ î|"	Ç/˛'/$ —_+,{)ÅÖ	É
 %Æ ä|"	ä/à(.# ø(&'{Ö	É
-%Æ §|"	– ≤=
+%Æ §|"	– ≤=˘x
+water_meter(Ä idID_CodeMeter_Location_NameBranch_NameMeter_ManufacturerYear_of_ManufactureMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_Index_StatusInlet_Pipe_Connection_DiameterAltitudeSerial_Number
+Meter_TypeMeter_ClassNominal_FlowMeter_PositionMeter_Current_Index_ReadingDMA_CodeProvide_comments_if_necessary"
+ "
+B"
+No"
+110"
+DMA"
+Yes"
+DN100"
+Normal"
+Sensus"	
+40 m3/h"	
+Gihogwe"
+
+34035669"
+
+Readable"
+
+Velocity"
+	120601WM1"
+	JALJ10WM4"
+	JALJ10WM5"
+
+Nyarugenge"
+DMA in flow"
+E06XH9082795"
+Not_Available"
+Gihogwe Health Center"
+Bulk meter (for reservoir)"	£AEΩg8ñ@"	∏ÓΩ›7ñ@"	Ó/QkJñ@" à√$" ö≈"  " À" Ã" ÷" ◊" ‡% !	
+"	öû05* 
+ 		
+  "	¬Í05* 
+		
+  "	∆Ï0

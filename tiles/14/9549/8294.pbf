@@ -660,28 +660,7 @@ Unreadable"
 ­‚
 "	Ü>Š6@5 Ä‚S°¹âÎ		¦
 ­‚
-"	ð>´9% €¦¬ºâ	Æ¯"	F®@âx
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_Manufacturer
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
-C"
-DMA"
-Yes"
-<Null>"
-Musamo"
-Normal"	
-15 m3/h"	
-Ruhango"
-
-Readable"
-
-Velocity"
-	63 (2 '')"
-	RUHMUSWM1"
-DMA in flow"
-NOT AVAILABLE"
-Not Available"	4#23s¾™@" ·" åƒ=2( 	 	
-
-"	Uèêx
+"	ð>´9% €¦¬ºâ	Æ¯"	F®@êx
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_type	Content_1	Content_2	Content_3Altitude"
 No"
@@ -902,4 +881,25 @@ RUHMUSJU16"
 Pressure Reducing Valve (PRV)"	 *•NMZ™@"	•„rã¾™@"	œ\&ñ5·™@"	Ñ¸¬‹¾™@"	Þø.¾<õ˜@" " " ¿" Ò" Ó" Õ& '
  	
 #"	]Ú" & #!"	Wä  (# "	'¤! %	#"	ô¶' $	
-#""	æ@Š7
+#""	æ@Š7áx
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_Manufacturer
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
+C"
+DMA"
+Yes"
+<Null>"
+Musamo"
+Normal"	
+15 m3/h"	
+Ruhango"
+
+Readable"
+
+Velocity"
+	63 (2 '')"
+	RUHMUSWM1"
+DMA in flow"
+NOT AVAILABLE"
+Not Available"	4#23s¾™@" ·" åƒ=2( 	 	
+
+"	Uè

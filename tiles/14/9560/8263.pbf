@@ -6025,63 +6025,7 @@ Zr94223229"
 ¢è,¿›×"ñ"!<ã< ×)ß!!%Ô*"	à,šA\Q ø.èÓ	÷Vç"öû 	‰
 ¢¹-¿›×"!<ã< ¾,ß!!%Ï#"	°-Œ@_T é,æ·	óVç"öû 	Š
 ¢Í-¿›×"ñ"!<ã< ¾,ß!!%Ô*"	ˆ.Þ@_T ”/äì	ôVç"öû 	Ž
-¢Í-¿›×"í"!<ã< þ&ß!!%·*"	€/ˆ@‰	x
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitude"
-B"
-C"
-No"
-DMA"
-Yes"
-DN80"
-DN100"
-DN200"
-Other"
-Kibali"
-Normal"	
-10 m3/h"	
-Actaris"	
-Gicumbi"
-
-1.5 m3/h"
-
-Readable"
-
-Velocity"
-	BYUGACWM1"
-	BYUGACWM2"
-	BYUGACWM3"
-	BYUGACWM4"
-	BYUKIBWM2"
-	D95613236"
-
-1985138004"
-
-A10SO32499"
-19853310021"
-DMA in flow"
-DN32 (1 '')"
-1983CKP50369"
-DMA out flow"
-Gacurabwenge"
-Not Available"
-Not available"
-Bulk meter (for reservoir)"	WX=}¡@"	2ŒVVÕ§¡@"	ç¤ÉÝØy @"	çïÇ¾Ù¨¡@"	ñÌ¼o¨¡@" ·" •" –" —" ˜" ¦" ¿" Á" Ä" Ë" Îä" Ú" ÝŒ" îÀ 3( ,	2 	
-!
-
-/ $"	à	 3( +. 	
-
-
-' %"	ªú81& *. 
-
-
-3 &"	®þ81& )-
-
-
-4 #"	¶€91& (0 
-!
-
-1 ""	ä€:—x
+¢Í-¿›×"í"!<ã< þ&ß!!%·*"	€/ˆ@—x
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_type	Content_1	Content_2	Content_4AltitudeProvide_comment_if_necessary	Content_3"
 No"
@@ -9272,4 +9216,60 @@ l’Ši"	‚$þ
 * —M	nr	m
 l’‘i"	æ'°?) ª()	
 nr	j
-l’{i"	À/‚3
+l’{i"	À/‚3ˆ	x
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitude"
+B"
+C"
+No"
+DMA"
+Yes"
+DN80"
+DN100"
+DN200"
+Other"
+Kibali"
+Normal"	
+10 m3/h"	
+Actaris"	
+Gicumbi"
+
+1.5 m3/h"
+
+Readable"
+
+Velocity"
+	BYUGACWM1"
+	BYUGACWM2"
+	BYUGACWM3"
+	BYUGACWM4"
+	BYUKIBWM2"
+	D95613236"
+
+1985138004"
+
+A10SO32499"
+19853310021"
+DMA in flow"
+DN32 (1 '')"
+1983CKP50369"
+DMA out flow"
+Gacurabwenge"
+Not Available"
+Not available"
+Bulk meter (for reservoir)"	WX=}¡@"	2ŒVVÕ§¡@"	ç¤ÉÝØy @"	çïÇ¾Ù¨¡@"	ñÌ¼o¨¡@" ·" •" –" —" ˜" ¦" ¿" Á" Ä" Ë" Îä" Ú" ÝŒ" îÀ 3( ,	2 	
+!
+
+/ $"	à	 3( +. 	
+
+
+' %"	ªú81& *. 
+
+
+3 &"	®þ81& )-
+
+
+4 #"	¶€91& (0 
+!
+
+1 ""	ä€:

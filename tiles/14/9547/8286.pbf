@@ -7620,44 +7620,7 @@ _Ÿ€«-·-#~#‘.z ‰6! "	È@ú SH ›:š* õ!1·
 _Ëá€«-/§#z! "	°@à"^S î;í"½ø!1·-ïþ!	»
 _Á8á€«-¸-#~#§:z ù2! "	ê@ú"^S ž5ð"¬ô!1·-ïþ!	µ
 _Õ8á€«-·-#~#ö7z Ò:! "	Ø@š$F; ó/ã+Ó	ñ!1·-ïþ!	Ú
-_9#~#z! "	¾@°,’x
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_Manufacturer
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitudeYear_of_Manufacture"
-B"
-No"
-DMA"
-Yes"
-DN80"
-DN100"
-Socam"
-Makera"
-Normal"
-Sensus"	
-40 m3/h"	
-60 m3/h"	
-Damaged"	
-Muhanga"
-
-Readable"
-
-Velocity"
-	090025603"
-	CYEMAKWM1"
-	CYEMAKWM2"
-	CYEMAKWM3"
-
-8063452_98"
-DMA in flow"
-DN90 (3 '')"
-138-04 1718-3"
-Not Available"
-Binunga Kwa Musenyeri"
-Bulk meter (for reservoir)"	*ò!M8Ìœ@"	@ÓÁ4Ðœ@"	øŠMÿqïœ@" Š" ‹" ‘_" “" –Õ" ¼" Ù1& 	
- "	Ž&ú
-3( # 	
-""	Š&¬1& !	$ 
-	
-"	Ê)Àšx
+_9#~#z! "	¾@°,šx
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCoveredProvide_comment_if_necessaryAltitude
 Cover_type	Content_1	Content_2	Content_3	Content_4	Content_5"
  "
@@ -9522,8 +9485,8 @@ A%$ Ê
 	´æ2L
 f- Ü20˜
 *"	øª2
-" Û=5÷"	 Â2
-%" ¥	=5÷"	 Â2
+" ¥	=5÷"	 Â2
+%" Û=5÷"	 Â2
 % ‚0¸
 *"	š¬3
 t ÐH0í
@@ -11270,7 +11233,44 @@ Së°¡"	ø<È1& ™•}~™ª¬	¤
 ¦êâ¡"	Ü?‚/$ ýk™ª¬	¤
 Sëä¡"	¢+ú*0% ül£™ª¬	¤
 SëÞ¡"	¢+ú*/$ ÿj ™ª¬	¤
-SëØ¡"	²+ò* ž®¼¡"	ä5Æ& ˜®¸¡"	¾5ü2 Ž®á¡"	Ì;¼6¾x
+SëØ¡"	²+ò* ž®¼¡"	ä5Æ& ˜®¸¡"	¾5ü2 Ž®á¡"	Ì;¼6‘x
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_Manufacturer
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitudeYear_of_Manufacture"
+B"
+No"
+DMA"
+Yes"
+DN80"
+DN100"
+Socam"
+Makera"
+Normal"
+Sensus"	
+40 m3/h"	
+60 m3/h"	
+Damaged"	
+Muhanga"
+
+Readable"
+
+Velocity"
+	090025603"
+	CYEMAKWM1"
+	CYEMAKWM2"
+	CYEMAKWM3"
+
+8063452_98"
+DMA in flow"
+DN90 (3 '')"
+138-04 1718-3"
+Not Available"
+Binunga Kwa Musenyeri"
+Bulk meter (for reservoir)"	*ò!M8Ìœ@"	@ÓÁ4Ðœ@"	øŠMÿqïœ@" Š" ‹" ‘_" “" –Õ" ¼" Ù1& 	
+ "	Ž&ú
+3( # 	
+""	Š&¬1& !	$ 
+	
+"	Ê)À¾x
 water_source(€ idLocation_NameBranch_NameWater_source_typeSource_capacityProvide_comments_if_necessaryAltitude"
  "
 Gatare"

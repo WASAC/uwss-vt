@@ -635,46 +635,7 @@ Volumetric"
 ""	¬@Ì`U µ³&äšÕ²		‰
 {Ù—
 è
-Û Û!­""	º@Ş®x
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterAltitude"
-B"
-150"
-250"
-DMA"
-Yes"
-Kabaya"
-Normal"
-Sensus"	
-Musanze"
-
-250 m3/h"
-
-400 m3/h"
-
-600 m3/h"
-
-Readable"
-
-Velocity"
-	120041732"
-	GATRUBWM1"
-	GATRUBWM2"
-	GATRUBWM3"
-
-2725033-90"
-
-2725034-90"
-
-E08XK10365"
-DMA in flow"
-Mechanical Meter"	¿L1«N @"	;'™õON @"	G0TÀ[N @"	“ÿJÁñN @"  à-" ¨øZ" º" »" ¼" ½" ĞĞ‹" ×" Ú" Ü" èÌa3( $ 	
-
-"	ø"Ê3(  # 	
-
-%"	ú"Ä1& " 	
-!"	ô"1& " 		
-"	´#¶±x
+Û Û!­""	º@Ş±x
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_type	Content_1	Content_2Altitude"
 No"
@@ -1576,7 +1537,46 @@ Steel Pipe"
 ¿ÂÆ	¼
 ¾‡Ñ¹"	ò<ú0% ‹	
 ¿ÂÆ	¼
-¾‡Õ¹"	Æ!´&İx
+¾‡Õ¹"	Æ!´&­x
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterAltitude"
+B"
+150"
+250"
+DMA"
+Yes"
+Kabaya"
+Normal"
+Sensus"	
+Musanze"
+
+250 m3/h"
+
+400 m3/h"
+
+600 m3/h"
+
+Readable"
+
+Velocity"
+	120041732"
+	GATRUBWM1"
+	GATRUBWM2"
+	GATRUBWM3"
+
+2725033-90"
+
+2725034-90"
+
+E08XK10365"
+DMA in flow"
+Mechanical Meter"	¿L1«N @"	;'™õON @"	G0TÀ[N @"	“ÿJÁñN @"  à-" ¨øZ" º" »" ¼" ½" ĞĞ‹" ×" Ú" Ü" èÌa3( $ 	
+
+"	ø"Ê3(  # 	
+
+%"	ú"Ä1& " 	
+!"	ô"1& " 		
+"	´#¶İx
 water_source(€ idID_CodeDischarge_m3_hLocation_NameBranch_NameWater_source_typeAltitude"
 Mutobo"
 Spring"	

@@ -3366,28 +3366,7 @@ $ý
 $ý
  ø
 
-"	œ@à¥x
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
-B"
-Yes"
-Socam"
-<Null>"
-Normal"	
-10 m3/h"	
-Ruhango"
-
-Readable"
-	63 (2 '')"
-	98-554225"
-	BYIKIRWM1"
-	Kirengeri"
-DMA out flow"
-Not Available"
-Electromagnetic"
-Bulk meter (for reservoir)"	2ö±aÆÓœ@" Î" Ò" Ù55* 
-	 	
-"	ê7º©
+"	œ@à©
 x
 manhole(€ idBranch_Name	Materials	Content_1Provide_comment_if_necessaryAltitudeID_CodeLocation_NameCovered	Content_2
 Cover_type	Content_3"
@@ -4217,4 +4196,25 @@ A<>[S:"	ê7Î) a54	@
 A?>\G:"	ä7Ü# _8* 	
 
 A[R:"	Þ9 	' ]9+- 	=
-C<>[T:"	¦<Œ
+C<>[T:"	¦<Œ¤x
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
+B"
+Yes"
+Socam"
+<Null>"
+Normal"	
+10 m3/h"	
+Ruhango"
+
+Readable"
+	63 (2 '')"
+	98-554225"
+	BYIKIRWM1"
+	Kirengeri"
+DMA out flow"
+Not Available"
+Electromagnetic"
+Bulk meter (for reservoir)"	2ö±aÆÓœ@" Î" Ò" Ù55* 
+	 	
+"	ê7º

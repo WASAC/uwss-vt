@@ -16340,58 +16340,7 @@ $New Connection Upi Bayikasemo Kabiri"'
 ‘t€a‚a›ù›÷G"ªwÜ šÒp	Ê"	ì@Î \Q ²iöWÓû5Ç a§"ìJA	Ù$
 ‘øt¿/‚a›ù›÷Gâj	Ê"	ŒAø ]R ÆlÖ_Ôù5Ç aŸ/ìJA	¯2
 ¡Âvˆ#¿/ƒa#ùA–Ê–ÈBÊ"	 Aô bW ècªSÅ¡CÇ aŸ/ìJA	Ş#
-‘ät€a›/	›ù›÷G"ídÜ ”a	Ê"	ŠAÆ4ùx
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_Manufacturer
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitudeYear_of_Manufacture"
- "
-B"
-63"
-No"
-100"
-200"
-Yes"
-Socam"
-025725"
-134613"
-Mumena"
-Normal"
-Sensus"	
-10 m3/h"	
-60 m3/h"	
-Actaris"	
-Gikondo"	
-NYD5WM1"
-
-01306181"
-
-250 m3/h"
-
-NYAMIWM5"
-
-NYAMIWM6"
-
-NYAMIWM7"
-
-Readable"
-
-Rwampala"
-
-Velocity"
-	120041725"
-	KIGX12WM1"
-
-Nyamirambo"
-DMA in flow"
-Carrier Rebero"
-Electromagnetic"
-Bulk meter (for reservoir)"	>„ÓºM-—@"	`J¦}´3—@"	|D!‚b‰š@"	äVÃş£2—@"	ëªìFè/—@" !" )" *" +" ," ‰µ" ÉÈ	" Ìó
-" Ñ" Ö	" Ù" ıÀ3( *  	 
- -  !"	€ˆ2( (
-	 
- /  $"	r”5* )	.	 
- 1  %"	ˆ’5* '0	 
- ,  ""	’ 5* &.	 
-+  #"	À²"¬x
+‘ät€a›/	›ù›÷G"ídÜ ”a	Ê"	ŠAÆ4¬x
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_typeProvide_comment_if_necessaryAltitude	Content_1Year_of_Construction"
  "
@@ -17506,10 +17455,10 @@ X2" ª„›š"
 -  Ì„7š†ƒŒ
 ¼•"	l¼
 *2 Ù57š†÷Œ
-Ÿ•"	’Ú*L„" ¡„7šŒ"
-	¶àH" Ú„7šŒ"
-	¶àH+ õ„7š†öŒ
+Ÿ•"	’Ú*L„+ õ„7š†öŒ
 Ÿ"
+	¶àH" ¡„7šŒ"
+	¶àH" Ú„7šŒ"
 	¶àH.  ÷„7š†÷Œ
 Ÿ•"	Ô®
 % ı	„7šŒ–"	Ô®
@@ -17858,10 +17807,10 @@ U, „„š†Œ
 ¼•"	˜”
  "$ ÿ„›š"	  Ä5/$8& æ„›š"	˜„"	$	& Ê„„šŒ–"	î–
 & €„„šŒ•"	î–
-/! ˆ„„š†÷Œ
-Ÿ•"	î–
 * á„›š"	ºš7 	v
-$ š„›š"	¾ î/29.  Ù„5š†÷Œ
+/! ˆ„„š†÷Œ
+Ÿ•"	î–
+$ š„›š"	¾ î/29.  Ù„5š†÷Œ
 Ÿï"	€ü
  ú„š÷"	€ü
 .  Ü„5š†÷Œ
@@ -21872,10 +21821,10 @@ P*" ©
 
 ‚…ú
 Õ."	¬=¦1
-8.  ó„zš†÷Œ
-Ÿ•"	°<´3
-M&% ¬„zšŒ–"	°<´3
+8% ¬„zšŒ–"	°<´3
 M&% å„zšŒ•"	°<´3
+M&.  ó„zš†÷Œ
+Ÿ•"	°<´3
 M&  ß„µš"	ˆ=ô6
 @q7 Ã¾
 
@@ -22660,7 +22609,58 @@ J° ‰Ô"	À‚,4) úÈÉİã	á
 Ú° ˆÔ"	ø'Ú3! öÕß	âïÔ"	€5Ì-1& ñQRvİã	×
 Ú° €Ô"	€9/1& êKLİã	á
 Ú° ‡Ô"	È7æ1! æÕß	âÔ"	‚;€3" ëàØÕŞÔ"	¬=¦12( ŞmÂÃİã	á
-Ú° íÔ"	ˆAÊx
+Ú° íÔ"	ˆAøx
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_Manufacturer
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitudeYear_of_Manufacture"
+ "
+B"
+63"
+No"
+100"
+200"
+Yes"
+Socam"
+025725"
+134613"
+Mumena"
+Normal"
+Sensus"	
+10 m3/h"	
+60 m3/h"	
+Actaris"	
+Gikondo"	
+NYD5WM1"
+
+01306181"
+
+250 m3/h"
+
+NYAMIWM5"
+
+NYAMIWM6"
+
+NYAMIWM7"
+
+Readable"
+
+Rwampala"
+
+Velocity"
+	120041725"
+	KIGX12WM1"
+
+Nyamirambo"
+DMA in flow"
+Carrier Rebero"
+Electromagnetic"
+Bulk meter (for reservoir)"	>„ÓºM-—@"	`J¦}´3—@"	|D!‚b‰š@"	äVÃş£2—@"	ëªìFè/—@" !" )" *" +" ," ‰µ" ÉÈ	" Ìó
+" Ñ" Ö	" Ù" ıÀ3( *  	 
+ -  !"	€ˆ2( (
+	 
+ /  $"	r”5* )	.	 
+ 1  %"	ˆ’5* '0	 
+ ,  ""	’ 5* &.	 
++  #"	À²"Êx
 water_treatment_plant(€ idID_CodeLocation_NameBranch_NameTreatment_Plant_NameRaw_Water_NatureLocation_Name_of_Raw_WaterYear_of_ConstructionProvide_comments_if_necessaryAltitude"
  "
 Riba"

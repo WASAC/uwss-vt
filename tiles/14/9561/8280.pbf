@@ -19193,73 +19193,7 @@ j\Q Þ‹Ån®"©(‘—oú;ÖT)	³;
 ¢†‡žž<ên"#*Ú’Ú *³+"	„AØ2]R »Ðk”$¢HÛoú;ÖT,	Ô
 ¢žž<ên"#*Ú¹+ *¡o³+"	¶@ 6YN ™~°aô#ÿ;Ûoú;ÖTû;	ò
 ¢¾	änénáÇá Å0³+"	ò@Ú:`U Òzža¯$þ;Ûo¶+ÖT.	Ÿ
-¦Ñ‚än¶;áÇá Å0ôr›³+"	’A„;Ÿ	x
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
- "
-B"
-C"
-63"
-80"
-200"
-400"
-DMA"
-Yes"
-Itron"
-Normal"
-Remera"
-Sensus"	
-10 m3/h"	
-40 m3/h"	
-Kacyiru"	
-RER3WM1"	
-RET3WM1"
-
-2.5 m3/h"
-
-250 m3/h"
-
-600 m3/h"
-
-95839512"
-
-Gishushu"
-
-KAKIRWM1"
-
-KAKIRWM3"
-
-KAKIRWM9"
-
-Readable"
-
-Rwintare"
-
-Velocity"
-	120041867"
-	A14033272"
-	A14033464"
-	W95338488"
-DMA in flow"
-Nyarutarama"
-Not_Available"
-Electromagnetic"
-For Fire Hydrant"	OÒç”rº–@"	Œm`óD–@"	ž¦	~hš–@"	þ	@®à–@" " p" q" r" " ë" ¢¯W" ¤" Ë" Ëš" Ï" Ü" Þ5* .5	
-
-!
-/  4"	æÈ23( 1" #2	
-%
- 
-  '"	ì7ˆ5* ,	6$	
-
-!
-3  ("	ö;â93( +	$	
-
-!
-0  &"	Ò=â:5* -#2	
-%
- 
-*  )"	®>¦9‡ x
+¦Ñ‚än¶;áÇá Å0ôr›³+"	’A„;‡ x
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_typeProvide_comment_if_necessaryAltitude"
  "
@@ -20295,11 +20229,11 @@ j
  	
  Ð"u’
  "	žœ
-" †$õ"uuÔŸ"	ð
-
-	 Úõ"uuÔ"	ð
+ Úõ"uuÔ"	ð
 
 	 úõ"uuÔ"	ð
+
+	" †$õ"uuÔŸ"	ð
 
 	" çƒ"uuÔŸ"	à
 = ó"u’
@@ -24434,13 +24368,13 @@ A ±"u
  Û"u
 
  "	¾Ô
-/ óÈ"uuÔŸ"	¶¬
+  ÜÈ"uuÔ"	¬¸
+  ÉÈ"uuÔ"	¬¸
+/ óÈ"uuÔŸ"	¶¬
  	
  		
 
-	  ÜÈ"uuÔ"	¬¸
-  ÉÈ"uuÔ"	¬¸
-, Ù"u
+	, Ù"u
 
  "	¶¬
 	
@@ -25487,9 +25421,9 @@ d"	þÒ(
 LC	_V
  ¯"u’
 d"	€þ(
-{.  òí"uuÔ"	¶ê)
+{.  Ëí"uuÔ"	¶ê)
 
-  Ëí"uuÔ"	¶ê)
+  òí"uuÔ"	¶ê)
 
  Ò"u
 
@@ -32456,4 +32390,70 @@ zÔ ƒô"	žÆ@1& Þ30/
 ùý	û
 öÔ Ïô"	¬@Â1& Û4/.
 ùý	û
-öÔ µô"	Æ@Î
+öÔ µô"	Æ@Îž	x
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
+ "
+B"
+C"
+63"
+80"
+200"
+400"
+DMA"
+Yes"
+Itron"
+Normal"
+Remera"
+Sensus"	
+10 m3/h"	
+40 m3/h"	
+Kacyiru"	
+RER3WM1"	
+RET3WM1"
+
+2.5 m3/h"
+
+250 m3/h"
+
+600 m3/h"
+
+95839512"
+
+Gishushu"
+
+KAKIRWM1"
+
+KAKIRWM3"
+
+KAKIRWM9"
+
+Readable"
+
+Rwintare"
+
+Velocity"
+	120041867"
+	A14033272"
+	A14033464"
+	W95338488"
+DMA in flow"
+Nyarutarama"
+Not_Available"
+Electromagnetic"
+For Fire Hydrant"	OÒç”rº–@"	Œm`óD–@"	ž¦	~hš–@"	þ	@®à–@" " p" q" r" " ë" ¢¯W" ¤" Ë" Ëš" Ï" Ü" Þ5* .5	
+
+!
+/  4"	æÈ23( 1" #2	
+%
+ 
+  '"	ì7ˆ5* ,	6$	
+
+!
+3  ("	ö;â93( +	$	
+
+!
+0  &"	Ò=â:5* -#2	
+%
+ 
+*  )"	®>¦9

@@ -28089,28 +28089,7 @@ l1& ®³äœ *ÒoÍ£¨Í:·	×P‘Êã"	
 ¨—Ì§]î§§è§æ1½Ğ Õ!”¨ "	Ü?Ò@k` Çáƒ²zÍ›¨Í:·Æ	ó
 ¨ŸÆ§]î§§è§æ1½Ğ Õ!”¨ "	ö?ä@j_ ª¶Êƒ­‡zÍ›¨ë\·+	H
 ¨ÁÉ§]î§§è§æ1œ« Õ!”¨ "	´@Â@cX „¸˜Ë1†zÍ›¨ë\·+	¨K
-¨äÉ§]î§§è§æ1ìº "	AœAñx
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_Manufacturer
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
- "
-B"
-110"
-Yes"
-Normal"
-Sensus"	
-60 m3/h"	
-Kacyiru"
-
-Readable"
-
-Velocity"
-	120041892"
-KACZ2C2WM01"
-DMA out flow"
-Fawe_Girls _Shool"
-Bulk meter (for reservoir)"	İmÙ-§–@" È" İ‘3( 
-		
-  "	æ'Æ‰x
+¨äÉ§]î§§è§æ1ìº "	AœA‰x
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_typeProvide_comment_if_necessaryAltitude"
  "
@@ -31354,9 +31333,9 @@ G	Z¦
 	”ÄY/  £"‘Á¼ "	à†
 %.  À"‘Á¼ "	ÄĞ
 ?	  Ë"‘Á¼ "	’š
-K% ¬"‘¼ "	¤È"4(t % ¨1•"‘	‘í¼È"	Úø
-" Ü•"‘	‘í¼"	Úø
+K% ¬"‘¼ "	¤È"4(t " Ü•"‘	‘í¼"	Úø
 " ı(•"‘	‘í¼"	Úø
+% ¨1•"‘	‘í¼È"	Úø
  ö"‘¼ "	Ôî
 i~1# ªö"‘	‘í¼
 ÈÈ¡À,"	¨ş
@@ -32563,9 +32542,9 @@ R]B ç"‘Á¼ "*	ş®!
 	/.
 "	CB
 "!	_`
->=( ¿,œ"‘	‘í¼"	ş®!
+>=( ™"œ"‘	‘í¼"	ş®!
  	
-( ™"œ"‘	‘í¼"	ş®!
+( ¿,œ"‘	‘í¼"	ş®!
  	
   ñ"‘Á¼ "	òô 
 
@@ -39139,3 +39118,25 @@ KAKIRJU235"
 Ú Íz"	À;Ø?2' ê_›
  ¥	£
 Ú Æz"	ğ@²
+ğx
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_Manufacturer
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
+ "
+B"
+110"
+Yes"
+Normal"
+Sensus"	
+60 m3/h"	
+Kacyiru"
+
+Readable"
+
+Velocity"
+	120041892"
+KACZ2C2WM01"
+DMA out flow"
+Fawe_Girls _Shool"
+Bulk meter (for reservoir)"	İmÙ-§–@" È" İ‘3( 
+		
+  "	æ'Æ

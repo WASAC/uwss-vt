@@ -1724,48 +1724,7 @@ Multi-jets"
 "ﬁÄà«	Œ	)µ%#$'"	‹+ÄA\Q ÇŒùéŸÃ	¯õ	ú
 "ﬁÄÜÅ–	)Ë%#$'"	“3∞@XM ˇ
 ±	¡´ŸÃ	Çõ	Ê
-#ÇÄà«	Œ	)…	%$("	åAÏ"íx
-fire_hydrant(Ä idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterAltitudeProvide_comments_if_necessary"
-B"
-No"
-DMA"
-Yes"
-DN150"
-Itron"
-Normal"
-Sensus"	
-10 m3/h"	
-Bihembe"	
-Blocked"	
-Damaged"
-
-150 m3/h"
-
-25379665"
-
-Readable"
-
-Velocity"
-	120041905"
-	NYABIHWM2"
-	NYABIHWM3"
-	NYABIHWM4"
-	NYABIHWM5"
-	Rwamagana"
-
-Unreadable"
-DMA in flow"
-DN63 (2 '')"
-D10SE011111W"
-NOT AVAILABLE"
-Not Available"
-DN50 (1 1/2 '')"
-Some Information Not Visible"	†p˙Y˝ö@"	†éœEö@"	∫xñƒä«ò@"	ÍY`ÍË"ö@" î" ï" ñ" ö" ûì" ÃÇ	" ’" ⁄" ‹" „ö1& %	) 	
-' "	ò9é/$ "* 	
-+"	ö+Ú;1& #	( 	
-&"	ú+;% $	
-!"	∂0¢2äx
+#ÇÄà«	Œ	)…	%$("	åAÏ"äx
 manhole(Ä idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_type	Content_1	Content_2Altitude"
 No"
@@ -2513,4 +2472,45 @@ BZK;"	‘9ú!' b<:DG	@
 BZJ;"	ˆ8¬'' ^6=:DG	C
 BZS;"	∫0†2' _<:DG	@
 BZQ;"	≤1î2' c:DG	@
-BZT;"	ÄA⁄&
+BZT;"	ÄA⁄&ëx
+water_meter(Ä idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterAltitudeProvide_comments_if_necessary"
+B"
+No"
+DMA"
+Yes"
+DN150"
+Itron"
+Normal"
+Sensus"	
+10 m3/h"	
+Bihembe"	
+Blocked"	
+Damaged"
+
+150 m3/h"
+
+25379665"
+
+Readable"
+
+Velocity"
+	120041905"
+	NYABIHWM2"
+	NYABIHWM3"
+	NYABIHWM4"
+	NYABIHWM5"
+	Rwamagana"
+
+Unreadable"
+DMA in flow"
+DN63 (2 '')"
+D10SE011111W"
+NOT AVAILABLE"
+Not Available"
+DN50 (1 1/2 '')"
+Some Information Not Visible"	†p˙Y˝ö@"	†éœEö@"	∫xñƒä«ò@"	ÍY`ÍË"ö@" î" ï" ñ" ö" ûì" ÃÇ	" ’" ⁄" ‹" „ö1& %	) 	
+' "	ò9é/$ "* 	
++"	ö+Ú;1& #	( 	
+&"	ú+;% $	
+!"	∂0¢2

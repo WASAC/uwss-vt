@@ -10384,42 +10384,7 @@ U÷0
 ÛYÖ)‡ä	{Œ1¯   Z"	Â@¤06+ Ü-Ë&³
 ÜYÖ)”ä	°
 ¶2•¯Z"	Ä@‚1:/ Ë.Ë&ÂÜ˜Ö)”ä	°
-¶2•¯šZ"	Ä@‚17, ğ,&Ô	ßYÖ)”ä	Ä"ôÓ2    Z"	Ä@š8=2 €5&Àß˜Ö)”ä	Ä"ôÓ2    šZ"	Ä@š8Ïx
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
- "
-B"
-63"
-150"
-DMA"
-Yes"
-Normal"
-Sensus"	
-10 m3/h"	
-Actaris"	
-Kanombe"
-
-150 m3/h"
-
-RUSK9WM1"
-
-RUSM9WM1"
-
-Readable"
-
-Velocity"
-	070045326"
-DMA in flow"
-Sp_Rusororo"
-009ZE271665M"
-DMA out flow"
-Not available"
-Maison_Des_Jeunes_Kabuga"
-Bulk meter (for reservoir)"	ÆÍ$Dk–@"	ø¯â;¼–@" H" c" Õ‰" ×" ×" Ù5* 
-	
- "	–†85* 
-		
-  "	Ä#’·x
+¶2•¯šZ"	Ä@‚17, ğ,&Ô	ßYÖ)”ä	Ä"ôÓ2    Z"	Ä@š8=2 €5&Àß˜Ö)”ä	Ä"ôÓ2    šZ"	Ä@š8·x
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_typeProvide_comment_if_necessaryAltitude"
  "
@@ -12026,10 +11991,10 @@ D Ö
 9 Ş
  
  "	´¬<
-b
- l
+b º	
 "	Àœ=
- º	
+
+ l
 "	Àœ=
  ¤
  
@@ -14287,10 +14252,10 @@ Sz ¥
  ¶
  
  "	ğ*Ö;
-%	 »	
+%	 ‘
 "
 	Ø*à9
-”Œ	 ‘
+”Œ	 »	
 "
 	Ø*à9
 ”Œ Û
@@ -15450,4 +15415,39 @@ RUSM9JU102"
 =ƒ‰	‡
 „² «~"	Ô à@1& Äwst
 †‰	‡
-„²ˆ¯~"	Ô æ@
+„²ˆ¯~"	Ô æ@Îx
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
+ "
+B"
+63"
+150"
+DMA"
+Yes"
+Normal"
+Sensus"	
+10 m3/h"	
+Actaris"	
+Kanombe"
+
+150 m3/h"
+
+RUSK9WM1"
+
+RUSM9WM1"
+
+Readable"
+
+Velocity"
+	070045326"
+DMA in flow"
+Sp_Rusororo"
+009ZE271665M"
+DMA out flow"
+Not available"
+Maison_Des_Jeunes_Kabuga"
+Bulk meter (for reservoir)"	ÆÍ$Dk–@"	ø¯â;¼–@" H" c" Õ‰" ×" ×" Ù5* 
+	
+ "	–†85* 
+		
+  "	Ä#’

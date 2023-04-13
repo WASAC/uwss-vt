@@ -2270,22 +2270,7 @@ Unreadable"
 "	†@ê"F; ”Š;Õóùë	™	Í					 
 "	ŠAğ(G< ïğ·õÕóùë		Í					 
 "	Æ@¾*I> Ë-Õóùë	¨	Í			Ô			 
-"	Ò@ +øx
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameMeter_ManufacturerMeter_ClassPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_Index_StatusInlet_Pipe_Connection_DiameterAltitude"
-B"
-Yes"
-Socam"
-Normal"
-
-Readable"
-
-Rugalika"
-	281005WM1"
-
-Nyarugenge"
-DN75 (2 1/2 '')"	îÙ¿"Á–˜@" # 
- 	
-	"	úê'òx
+"	Ò@ +òx
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_typeProvide_comment_if_necessaryAltitude"
  "
@@ -2909,4 +2894,19 @@ Nyarugenge"
 )D>-"	Š4Ş+) E,6	/
  D A-"	º4Î+) H!,*36	/
 )D @-"	ø>¢+) F ,*36	/
-)D 7-"	ü>¦+
+)D 7-"	ü>¦+÷x
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameMeter_ManufacturerMeter_ClassPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_Index_StatusInlet_Pipe_Connection_DiameterAltitude"
+B"
+Yes"
+Socam"
+Normal"
+
+Readable"
+
+Rugalika"
+	281005WM1"
+
+Nyarugenge"
+DN75 (2 1/2 '')"	îÙ¿"Á–˜@" # 
+ 	
+	"	úê'

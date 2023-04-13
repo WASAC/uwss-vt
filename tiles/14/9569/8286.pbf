@@ -2761,40 +2761,7 @@ Unreadable"
 ùâ	è
 ¸§	÷÷
 ﬁ
-			/Î+%Ì -"	‚@®@Œx
-fire_hydrant(Ä idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterAltitude"
-B"
-DMA"
-Yes"
-DN100"
-DN150"
-Normal"
-Sensus"	
-10 m3/h"	
-60 m3/h"
-
-150 m3/h"
-
-25364114"
-
-Readable"
-
-Velocity"
-	070045327"
-	090025767"
-	NYABIHWM6"
-	NYABIHWM7"
-	NYABIHWM8"
-	Rwamagana"
-	Ryamugabo"
-DMA in flow"
-Mont Bihembe"
-DN50 (1 1/2 '')"	.cÛ˘j‰ô@"	›Ü*/l?ô@"	‡" ïf‰ô@" àª" â" ê" ë" °H" ¨Z" ’" ◊" Ÿ1& 
-  	
-"	Ï1∆1& ! 		
-"	Ó1∆1& " 	
-"	ú<íµx
+			/Î+%Ì -"	‚@®@µx
 manhole(Ä idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_type	Content_1	Content_2Altitude"
 No"
@@ -3946,4 +3913,37 @@ aô@"	^úC˘„∂ô@"	d6.Eü´ó@"	i3ÈÀœﬂô@"	s0∂O7ô@"	yf∫.Âô@"	{ŒgRLxó@"	ÖOeL0ô@
 |É	Ç
 }™ôv"	¸:à+  ´EFwrÉ	{
 }™év"	¸.å.+  ¨DGrÉ	{
-}™óv"	˛.å.
+}™óv"	˛.å.Õx
+water_meter(Ä idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterAltitude"
+B"
+DMA"
+Yes"
+DN100"
+DN150"
+Normal"
+Sensus"	
+10 m3/h"	
+60 m3/h"
+
+150 m3/h"
+
+25364114"
+
+Readable"
+
+Velocity"
+	070045327"
+	090025767"
+	NYABIHWM6"
+	NYABIHWM7"
+	NYABIHWM8"
+	Rwamagana"
+	Ryamugabo"
+DMA in flow"
+Mont Bihembe"
+DN50 (1 1/2 '')"	.cÛ˘j‰ô@"	›Ü*/l?ô@"	‡" ïf‰ô@" àª" â" ê" ë" °H" ¨Z" ’" ◊" Ÿ1& 
+  	
+"	Ï1∆1& ! 		
+"	Ó1∆1& " 	
+"	ú<í

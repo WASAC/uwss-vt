@@ -1701,55 +1701,7 @@ unreadable"
 øƒÌ¥!$ "	ºÓ@`U ∏
 ≤•Ò πÎÆ	ô
 •ƒÌ¥æ$Ÿ	! !" 
-"	¥Ù@™	x
-fire_hydrant(Ä idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitudeProvide_comments_if_necessary"
-B"
-Yes"
-Other"
-Normal"
-Sensus"	
-60 m3/h"	
-HO17950"
-
-100 m3/h"
-
-Bugesera"
-
-Readable"
-
-Velocity"
-	090025735"
-	Kuri Rdar"
-	Mranyundo"
-	NYAMARWM1"
-	NYAMARWM2"
-	NYAMARWM3"
-	NYAMARWM4"
-	NYAMARWM5"
-
-110 (4 '')"
-
-Kuri Radar"
-
-Maranyundo"
-DMA in flow"
-E08XI103655R"
-Not Available"
-Not available"
-Mechanical Meter"
-Manufacturer Is Kmei"
-Bulk meter (for reservoir)"	ZèÚ¶›‹ò@"	t%Zi“Úó@"	ò˚!û1Îó@"	¥ë§HhÛó@"	∂…‹ Ó”ò@" K" Ä´‚" Å" Ñ" ®"  " À" Ã" Õ" Œ" ÿ" Ÿ" ›5* +,
- 	
-	""	à∫7, *.
- 	
-	%!"	í‚5* )-
- 	
-	$"	¢‚*1& (
- 	
-	& "	Œ¸*1& '
- 	
-	#"	Œò+◊x
+"	¥Ù@◊x
 manhole(Ä idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_type	Content_1	Content_2	Content_3Altitude"
 Yes"
@@ -2624,4 +2576,52 @@ Steel Pipe"
 +; 8("	¶Ë*) @!',.	-
 +; :("	“˛*) ?"'*.	-
 +; 5("	“˛*) > ',.	-
-+; 3("	“í+
++; 3("	“í+©	x
+water_meter(Ä idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitudeProvide_comments_if_necessary"
+B"
+Yes"
+Other"
+Normal"
+Sensus"	
+60 m3/h"	
+HO17950"
+
+100 m3/h"
+
+Bugesera"
+
+Readable"
+
+Velocity"
+	090025735"
+	Kuri Rdar"
+	Mranyundo"
+	NYAMARWM1"
+	NYAMARWM2"
+	NYAMARWM3"
+	NYAMARWM4"
+	NYAMARWM5"
+
+110 (4 '')"
+
+Kuri Radar"
+
+Maranyundo"
+DMA in flow"
+E08XI103655R"
+Not Available"
+Not available"
+Mechanical Meter"
+Manufacturer Is Kmei"
+Bulk meter (for reservoir)"	ZèÚ¶›‹ò@"	t%Zi“Úó@"	ò˚!û1Îó@"	¥ë§HhÛó@"	∂…‹ Ó”ò@" K" Ä´‚" Å" Ñ" ®"  " À" Ã" Õ" Œ" ÿ" Ÿ" ›5* +,
+ 	
+	""	à∫7, *.
+ 	
+	%!"	í‚5* )-
+ 	
+	$"	¢‚*1& (
+ 	
+	& "	Œ¸*1& '
+ 	
+	#"	Œò+

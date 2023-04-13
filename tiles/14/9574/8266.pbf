@@ -668,29 +668,7 @@ Multi-jets"
 èÃ”ú	ïèò´õ "	¨7Ã+( ¶Üè¶ñóêˇ›	"	¥1¯5( ¢Üé∂ñóêÇ›	"	‚0∫6' £Ü{µñóêÉ›	"	∆1≤6( ™Üê§ñóêÑ›	"	Í9å2' üà|•ñóêà›	"	¨8–8D9 ÛÈ_´ñïê
 èÔŸ "	º@∞\Q ÎﬁP¨ñïê
 èﬂ’ú	ïèñ©¡ "	àAﬁ\Q Òﬂ4Æñïê
-è¶—ú	éè•îú "	ä@ä˘x
-fire_hydrant(Ä idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitude"
-B"
-No"
-100"
-DMA"
-Normal"	
-40 m3/h"	
-Kinteko"
-
-Readable"
-
-Velocity"
-	GITNYAWM1"
-	Nyagatare"
-
-0507002484"
-DMA out flow"
-Not Available"
-Mechanical Meter"	¢UàY3ñ@" â" ”∑" ’5* 	
- 	
-"	¬§Âx
+è¶—ú	éè•îú "	ä@äÂx
 manhole(Ä idID_CodeLocation_NameBranch_Name	MaterialsCovered	Content_1	Content_2Altitude"
 No"
 Valve"
@@ -1146,7 +1124,29 @@ KABKARJU43"
 DA+"	Œ2ä3
  IA+"	Œ2ä3# J012	3
 E7+"	¢6Ú2! G 4D:+"	í:¿6' F 12	-
-/D=+"	å:∆6≥x
+/D=+"	å:∆6¯x
+water_meter(Ä idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitude"
+B"
+No"
+100"
+DMA"
+Normal"	
+40 m3/h"	
+Kinteko"
+
+Readable"
+
+Velocity"
+	GITNYAWM1"
+	Nyagatare"
+
+0507002484"
+DMA out flow"
+Not Available"
+Mechanical Meter"	¢UàY3ñ@" â" ”∑" ’5* 	
+ 	
+"	¬§≥x
 water_source(Ä idID_CodeDischarge_m3_hLocation_NameBranch_NameWater_source_typeAltitude"
 Spring"
 	GITNYAWS1"

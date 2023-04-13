@@ -1970,36 +1970,7 @@ Unreadable"
 £Œæä¯Š"	ä)¢@SH ª¦ÁâåÈË	
 £Œê°‡"	ì)ê@VK ÉÊÝÃåÈï	
 žŒê°´Ö"	º*Æ@VK ‘ËÂâåÈË	
-£Œê°·‡"	’*ˆA½x
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitude"
-B"
-No"
-160"
-DMA"
-Yes"
-004406"
-Normal"
-Rusizi"
-Sensus"
-
-150 m3/h"
-
-Readable"
-
-Runanira"
-
-Velocity"
-	090025854"
-	MUGSHAWM1"
-	MUGSHAWM2"
-
-110 (4 '')"
-DMA in flow"	tým`«2’@"	|'7-0’@" " " ×O" Ù" Ü" ê„3(  		
-
-"	´Ì23(  		
-
-"	ºÌ2»x
+£Œê°·‡"	’*ˆA»x
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_type	Content_1	Content_2Altitude	Content_3"
 Yes"
@@ -3216,7 +3187,36 @@ MUGSHAVA20"
 J=-"	àø7' Z% 58	1
 J:-"	˜,¾*' U$.58	1
 JC-"	 ,Ê*' W&.58	
-J<-"	¨,Ä*% O#!"/7	1JI-"	à"š3æx
+J<-"	¨,Ä*% O#!"/7	1JI-"	à"š3¼x
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitude"
+B"
+No"
+160"
+DMA"
+Yes"
+004406"
+Normal"
+Rusizi"
+Sensus"
+
+150 m3/h"
+
+Readable"
+
+Runanira"
+
+Velocity"
+	090025854"
+	MUGSHAWM1"
+	MUGSHAWM2"
+
+110 (4 '')"
+DMA in flow"	tým`«2’@"	|'7-0’@" " " ×O" Ù" Ü" ê„3(  		
+
+"	´Ì23(  		
+
+"	ºÌ2æx
 water_source(€ idID_CodeLocation_NameBranch_NameWater_source_typeAltitude"
 Rusizi"
 Spring"

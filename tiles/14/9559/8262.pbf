@@ -1051,68 +1051,7 @@ Volumetric"
 ◊≈-≈ê	Æöé3 "	®+ﬁ@<1 “Ï¡„¢§
 ◊ä.Æê	Æöü"	Ë3¯@XM €óY‰¢§
 ◊†-õê	Æö6“3– "	Ä5Ê@ZO ÷ˇ9≠¢ç
-◊-¯ê	Æöß6≠3‹ "	Ù:Ï@•x
-fire_hydrant(Ä idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitude"
-B"
-C"
-No"
-Yes"
-Itron"
-Other"
-Kibali"
-Murama"
-Normal"	
-Actaris"	
-Blocked"	
-Gicumbi"
-
-1.5 m3/h"
-
-2.5 m3/h"
-
-95831894"
-
-Ngondore"
-
-Readable"
-
-Velocity"
-	BYUKIBWM1"
-	BYUKIBWM3"
-	BYUKIBWM4"
-	BYUKIBWM6"
-	BYUKIBWM7"
-	BYUMURWM1"
-	BYUMURWM4"
-	BYUNGOWM4"
-	BYUNGOWM5"
-
-A09S621023"
-D12UA565461"
-D13UA599068"
-D13UA610675"
-D14UA133003"
-D14UA133598"
-DN32 (1 '')"
-DMA out flow"
-DN25 (3/4 '')"
-NOT AVAILABLE"
-Not available"
-M-3/4-97298372"
-Ruhenda(Kibali)"
-Bulk meter (for reservoir)"	+ÿkˇ[ƒ†@"	l"UÍR°@"	tº ë˚°@"	z)%yÚ °@"	è“”a¡ê†@"	‚’áé]°@"	Ë_yÂb°@"	Ú1	y¢[°@"	ÛiòtîZ°@" " Ö" ©" ™" ´" ≠" Æ" Ø" ∞" µ" ∂" ¡%" «" À" Õ" Œ" ’" Ÿ" ‹" ›" ﬁ" Ì
-" ˙3( <E	
-("H#%*"	“∂	3( ;F 	
-("2#%."	‚™1& : F	
-("
-#%1"	‰%3( 7E	
-(">#%)"	∫Ã33( 9'D	
-("3!%/"	îÊ.3( 8'?	
-("=!%,"	¸¿13( 5	C 	
-("G!%-"	∂ ¢:3( 6&@ 	
-("A!%0"	4®51& 4$ 	
-("B!%+"	∫:Ù<ˇx
+◊-¯ê	Æöß6≠3‹ "	Ù:Ï@ˇx
 manhole(Ä idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_type	Content_1	Content_2	Content_4Altitude"
 No"
@@ -1756,4 +1695,65 @@ söyn"	¯4™5* ùEA3luw	t
 söÑn"	º:Ù<,! ûF34uv	q
 söån"	æ:Ú<* úG12rw	q
 söín"	º:¯<) õH/0luw	t
-sö{n"	º:˙<
+sö{n"	º:˙<§x
+water_meter(Ä idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitude"
+B"
+C"
+No"
+Yes"
+Itron"
+Other"
+Kibali"
+Murama"
+Normal"	
+Actaris"	
+Blocked"	
+Gicumbi"
+
+1.5 m3/h"
+
+2.5 m3/h"
+
+95831894"
+
+Ngondore"
+
+Readable"
+
+Velocity"
+	BYUKIBWM1"
+	BYUKIBWM3"
+	BYUKIBWM4"
+	BYUKIBWM6"
+	BYUKIBWM7"
+	BYUMURWM1"
+	BYUMURWM4"
+	BYUNGOWM4"
+	BYUNGOWM5"
+
+A09S621023"
+D12UA565461"
+D13UA599068"
+D13UA610675"
+D14UA133003"
+D14UA133598"
+DN32 (1 '')"
+DMA out flow"
+DN25 (3/4 '')"
+NOT AVAILABLE"
+Not available"
+M-3/4-97298372"
+Ruhenda(Kibali)"
+Bulk meter (for reservoir)"	+ÿkˇ[ƒ†@"	l"UÍR°@"	tº ë˚°@"	z)%yÚ °@"	è“”a¡ê†@"	‚’áé]°@"	Ë_yÂb°@"	Ú1	y¢[°@"	ÛiòtîZ°@" " Ö" ©" ™" ´" ≠" Æ" Ø" ∞" µ" ∂" ¡%" «" À" Õ" Œ" ’" Ÿ" ‹" ›" ﬁ" Ì
+" ˙3( <E	
+("H#%*"	“∂	3( ;F 	
+("2#%."	‚™1& : F	
+("
+#%1"	‰%3( 7E	
+(">#%)"	∫Ã33( 9'D	
+("3!%/"	îÊ.3( 8'?	
+("=!%,"	¸¿13( 5	C 	
+("G!%-"	∂ ¢:3( 6&@ 	
+("A!%0"	4®51& 4$ 	
+("B!%+"	∫:Ù<

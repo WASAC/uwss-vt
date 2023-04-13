@@ -17937,77 +17937,16 @@ Jf\ ¸€·dÛ®NÔ×iÿ4ÊN2	„1
 Í€…®%¶5ÀiÖi3†â†¨mà3 7!7"	¬@Ö?f[ à}™O·¸EÔÑiÿ4ÊN2	ù-
 Í€…®%¼iÀiÌi3†â†©jà3 7!7"	ª@ø?g\ ƒ„›OÒµEÔÑiÿ4ÊN2	ª+
 Í€…®%¶5ÀiÍi3†â†õià3 7!7"	”A®?i^ öpOì	¹EÔÑiÿ4ÊN2	ã!
-Íº„®%¶5ÀiÏi3†â†ånà3 7!7"Ýi"	æ@”A¾x
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_Name
-Meter_TypeMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterProvide_comments_if_necessaryAltitudeMeter_ManufacturerMeter_ClassNominal_FlowYear_of_ManufactureSerial_Number
-Owner_TypeInstallation_TypePresence_of_MeterInlet_DiameterOutlet_DiameterProvide_comment_if_necessary"
-B"
+Íº„®%¶5ÀiÏi3†â†ånà3 7!7"Ýi"	æ@”A»x
+fire_hydrant(€ idID_CodeBranch_Name
+Owner_TypeInstallation_TypePresence_of_MeterInlet_DiameterOutlet_DiameterProvide_comment_if_necessaryAltitude"
 No"
-125"
-200"
-315"
-DMA"
-Yes"
-Itron"
-Bukane"
-Mubuga"
-Normal"
-Public"
-Sensus"	
-10 m3/h"	
-Actaris"	
-Blocked"	
-Damaged"	
-Musanze"
-
-100 m3/h"
-
-400 m3/h"
-
-Readable"
-
-Velocity"
-	63 (2 '')"
-	CYURWEWM1"
-	MUHKIGWM1"
-	MUHKIGWM2"
-	MUHKIGWM3"
-	MUHKIGWM4"
-	MUHMPEFH1"
-	MUHRUHWM1"
-	MUSCYAWM1"
-
-03WL013393"
-
-110 (4 '')"
-
-Nyamagumba"
-
-Unreadable"
-DMA in flow"
-Underground"
-DMA out flow"
-D  10SE011126D"
-Mechanical Meter"
-This Meter Is Underground"
-Bulk meter (for reservoir)"#
-!Hose_Coupling_Standard Is Unknown"	HßÄ]—œ@"	=6þ´#@"	X|è4íœ@"	hQÇDvóœ@"	~Èò;@pœ@"	…_u7Ý™œ@"	¢OVeS@"	ô©ìÔPœ@" 0" ˆÛ#" Ô¾" £å4" ´œ" Ä" Å" É" Ê" Ë" Ëÿ-" Î" Ï" Ó" Ú+  ?'
-	
-#
-=(."	¸²) >	'	"
-#4 -"	Ò„/$ :! '
-	
-#
-6,"	´#”#) <!A'
-	
-#0"	¬,Š#% ;! '
-	+"	¸,–#3( 9!&A '
-	
-#
-72"	¬,ª&3( 8!@ )'
-	
-%
-51"	¾(’) 3$*/"	¸6ú$Õx
+200"
+Public"	
+Musanze"
+	MUHMPEFH1"
+Underground"#
+!Hose_Coupling_Standard Is Unknown"	~Èò;@pœ@" 0  	"	¸6ú$Õx
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered	Content_1	Content_2Altitude	Content_3
 Cover_typeProvide_comment_if_necessary	Content_4"
  "
@@ -23980,4 +23919,70 @@ Steel Pipe"
 üØŽ÷"	þ=„#0% ¡}jk	ý€„	ú
 üØÓ÷"	¨3Î51& ïwfgÚý€„	ú
 üØ²÷"	þ*”@0% žde	ý€„	ú
-üØ“÷"	¼@Â6
+üØ“÷"	¼@Â6Ñ
+x
+water_meter(€ idID_CodeMeter_Location_NameBranch_Name
+Meter_TypeMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterProvide_comments_if_necessaryAltitudeMeter_ManufacturerMeter_ClassNominal_FlowYear_of_ManufactureSerial_Number"
+B"
+No"
+125"
+200"
+315"
+DMA"
+Yes"
+Itron"
+Bukane"
+Mubuga"
+Normal"
+Sensus"	
+10 m3/h"	
+Actaris"	
+Blocked"	
+Damaged"	
+Musanze"
+
+100 m3/h"
+
+400 m3/h"
+
+Readable"
+
+Velocity"
+	63 (2 '')"
+	CYURWEWM1"
+	MUHKIGWM1"
+	MUHKIGWM2"
+	MUHKIGWM3"
+	MUHKIGWM4"
+	MUHRUHWM1"
+	MUSCYAWM1"
+
+03WL013393"
+
+110 (4 '')"
+
+Nyamagumba"
+
+Unreadable"
+DMA in flow"
+DMA out flow"
+D  10SE011126D"
+Mechanical Meter"
+This Meter Is Underground"
+Bulk meter (for reservoir)"	HßÄ]—œ@"	=6þ´#@"	X|è4íœ@"	hQÇDvóœ@"	…_u7Ý™œ@"	¢OVeS@"	ô©ìÔPœ@" ˆÛ#" Ô¾" £å4" ´œ" Ä" Å" É" Ê" Ë" Ëÿ-" Î" Ï" Ó" Ú+  9$
+	
+!
+7%*"	¸²) 8	$	 
+!.)"	Ò„/$ 4 $
+	
+!
+0("	´#”#) 6;$
+	
+!+"	¬,Š#% 5 $
+	'"	¸,–#3( 3#; $
+	
+!
+1-"	¬,ª&3( 2: &$
+	
+"
+/,"	¾(’)

@@ -1580,29 +1580,7 @@ Unreadable"
 Ý;øÃÛ™	
 àÁÈéñ§
 "	Î!”@PE î	á¨öÃ¥	
-àÁÄé¹"	Ø!¬@Ìx
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitude"
-B"
-No"
-DMA"
-Yes"
-Other"
-021155"
-Normal"
-Rusizi"	
-15 m3/h"
-
-Readable"
-
-Velocity"
-	63 (2 '')"
-	MUGSHAWM3"
-
-Busasamana"
-DMA in flow"	æÍRœ›’@" " Åf" Ñ3( 
- 	
-	"	®„¦x
+àÁÄé¹"	Ø!¬@¦x
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_type	Content_1	Content_2	Content_3Altitude"
 Yes"
@@ -2431,4 +2409,26 @@ MUGSHAVA18"
  "	¬„' % 	
  "	°Ü' $	
 "	¶Þ' !	
- "	è*²
+ "	è*²Ëx
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitude"
+B"
+No"
+DMA"
+Yes"
+Other"
+021155"
+Normal"
+Rusizi"	
+15 m3/h"
+
+Readable"
+
+Velocity"
+	63 (2 '')"
+	MUGSHAWM3"
+
+Busasamana"
+DMA in flow"	æÍRœ›’@" " Åf" Ñ3( 
+ 	
+	"	®„

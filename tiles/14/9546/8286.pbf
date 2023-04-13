@@ -13324,56 +13324,20 @@ DŞdÙÊO‰*7‹7õd† 4"	¼&†+[P ó_ƒJôÌ8hàO
 À¸bğ¬*¿OßO7‹7×h† !‹T4"	ú@˜.K@ åe¾L¡·:hÚO*Ñ;	&
 Á§dğ¬*7‹7†4"	Æ@ü/dY ¸iï?Ôı7hÚOÑ;	½(%ı
 Àúdğ¬*¿OİO7‹7ÆT† !ÈY4"	–Aà.aV æhî?ó	€8hÚOÑ;	¾
-À‚cğ¬*¿OßO7‹7àZ† !›h4"	AÚ/ƒ
-x
+À‚cğ¬*¿OßO7‹7àZ† !›h4"	AÚ/‘x
 fire_hydrant(€ idID_CodeBranch_Name
-Owner_TypeInstallation_TypePresence_of_MeterInlet_DiameterOutlet_DiameterProvide_comment_if_necessaryAltitudeMeter_Location_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusInlet_Pipe_Connection_DiameterDMA_CodeMeter_Current_Index_Reading"
-B"
-No"
-DMA"
-Yes"
-DN125"
-Normal"
-Public"
-Sensus"	
-60 m3/h"	
-Blocked"	
-Damaged"	
+Owner_TypeInstallation_TypePresence_of_MeterInlet_DiameterOutlet_DiameterProvide_comment_if_necessaryAltitude"
+No"
+Public"	
 Muhanga"	
 Private"	
-Surface"
-
-100 m3/h"
-
-200 m3/h"
-
-Readable"
-
-Velocity"
-	01 306054"
+Surface"
 	63 (2 '')"
 	90 (3 '')"
 	NYAGAHFH1"
-	NYAGITFH1"
-	NYAGITWM1"
-	NYAGITWM2"
-	NYAGITWM4"
-
-Unreadable"
-DMA in flow"
-DN90 (3 '')"
-E06XJ8555858"
-D 03WH0133417"
-Not Available"
-Gitarama Gatika"
-Kibirizi Near Wasac"
-Kabeza Near Sp Petrolstation"#
-!Hose_Coupling_Standard Is Unknown"	T¯åşt!@"	gi‹N€@"	©°[½À¢œ@"	²~pÃœ@"	×åô…@" " " ƒİ" …" ‡" Ñ" Ó" Ö" ü7" ı )#	%"	a¤:1& -
- . 
-		("	ªš3( 2
-!/ 	+	&"	¤È+ *#	'"	Œö"3( ,
-"0 1	$"	Â;Ş$İx
+	NYAGITFH1"#
+!Hose_Coupling_Standard Is Unknown"	gi‹N€@"	²~pÃœ@" "   		
+"	a¤:  		"	Œö"İx
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered	Content_1	Content_2Altitude	Content_3
 Cover_type"
 No"
@@ -15345,8 +15309,8 @@ V< —+À
 '"	ˆ!
  á-+­
 '"	4ş"
-3# ÂA/ä	"	P®"
-*# ½A/ä	"	P®"
+3# ½A/ä	"	P®"
+*# ÂA/ä	"	P®"
 *% £-+­
 '"	~"	>
  Ÿ-+×
@@ -19729,4 +19693,45 @@ Pœ@"	€ œ€ú@"	†	«‚œ@"	ˆH	s@"	ŒOz`ñ@"	’d•ŒG@"	”œ…Å¢œ@"	”3Œå¼œ@
 èİ©"	 à@1& ‰#…	ª~¯°	¬
 èÄ©"	 à@/$ ‹)!	
 ~¯°	¬
-èÕ©"	¶²@
+èÕ©"	¶²@¹x
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusInlet_Pipe_Connection_DiameterDMA_CodeAltitudeMeter_Current_Index_Reading"
+B"
+No"
+DMA"
+Yes"
+DN125"
+Normal"
+Sensus"	
+60 m3/h"	
+Blocked"	
+Damaged"	
+Muhanga"
+
+100 m3/h"
+
+200 m3/h"
+
+Readable"
+
+Velocity"
+	01 306054"
+	NYAGITWM1"
+	NYAGITWM2"
+	NYAGITWM4"
+
+Unreadable"
+DMA in flow"
+DN90 (3 '')"
+E06XJ8555858"
+D 03WH0133417"
+Not Available"
+Gitarama Gatika"
+Kibirizi Near Wasac"
+Kabeza Near Sp Petrolstation"	T¯åşt!@"	©°[½À¢œ@"	×åô…@" ƒİ" …" ‡" Ñ" Ó" Ö" ü7" ı1& !
+" 	
+	"	ªš3( &
+# 	
+"	¤È+3(  
+$ 	
+%"	Â;Ş$

@@ -4706,35 +4706,7 @@ Q:0 …ŠÌ¼+Íˆİ	ñ4
 ¡!*7*6("	˜1 AJ? Êğãš+Ïˆİ	½4
 ¨!÷“** Ì6("	7˜@&  Hş+Ïˆ	Â
 ¡!("	ò;œAWL §äH˜+Ïˆİ	Â$3
-¡!%%%%%*7*6%!%"%("	ò;œAŸx
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
- "
- "
-B"
-No"
-160"
-200"
-Yes"
-Normal"
-Remera"	
-BUQ7WM1"	
-BUQ7WM2"
-
-150 m3/h"
-
-250 m3/h"
-
-Readable"
-
-Velocity"
-	120041723"
-Masoro_Free_Zone_Phase_2"
-Bulk meter (for reservoir)"4
-2Meter Manufacturer, Serial Number And The Year Of*"	0Uù|˜@"	Z0(nÛ}˜@" ¾" ¿" ÅŞ" Ü" ğ5* 		
-   "	ğ03( 
-  	
-  "	Šü0êx
+¡!%%%%%*7*6%!%"%("	ò;œAêx
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_typeProvide_comment_if_necessaryAltitude"
  "
@@ -5604,4 +5576,32 @@ A*"	Ö@) O .10,	D 
 C*"	œÔ@) Q"#.10,	D 
 8*"	¢Ô@) R$%.10,	D 
 4*"	¦Ô@) S&'.10,	D 
-@*"	ªÔ@
+@*"	ªÔ@x
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
+ "
+ "
+B"
+No"
+160"
+200"
+Yes"
+Normal"
+Remera"	
+BUQ7WM1"	
+BUQ7WM2"
+
+150 m3/h"
+
+250 m3/h"
+
+Readable"
+
+Velocity"
+	120041723"
+Masoro_Free_Zone_Phase_2"
+Bulk meter (for reservoir)"4
+2Meter Manufacturer, Serial Number And The Year Of*"	0Uù|˜@"	Z0(nÛ}˜@" ¾" ¿" ÅŞ" Ü" ğ5* 		
+   "	ğ03( 
+  	
+  "	Šü0

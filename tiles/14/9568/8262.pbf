@@ -659,23 +659,7 @@ Unreadable"
 "	⁄9¶%) ú»jóùÜèÛô	"	ƒ:Ú$XM ß’¢ñùÜ§
 çıô¶	ëÄäî	"	Ü<æ$D9 ç√_åùÜè
 ç£ô	"	¸8»+WL ‹Ëö ùÜè
-çÿòõ	ÇÄìö	"	¸.˙@‘x
-fire_hydrant(Ä idID_CodeBranch_Name
-Meter_TypeMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_Index_StatusInlet_Pipe_Connection_DiameterAltitude"
-100"
-Yes"
-Normal"
-
-Readable"
-	531004WM1"
-	531004WM2"
-	Nyagatare"
-Electromagnetic"
-Mechanical Meter"
-Bulk meter (for reservoir)"	ú∏s‰•gó@"	û”K›†ó@" ≥" ¥# 		
- 
-"	∆Œ# 		
- "	Ù ‘˙x
+çÿòõ	ÇÄìö	"	¸.˙@˙x
 manhole(Ä idID_CodeBranch_Name	MaterialsCovered
 Cover_typeAltitudeLocation_Name"
 Yes"
@@ -1052,4 +1036,20 @@ $"	æö! D !
 -"	Úƒ.# : 	8
 3"	ÇÍ;# ? 	7
 #"	Ú+Ï # = 	7
-""	ò1 $
+""	ò1 $”x
+water_meter(Ä idID_CodeBranch_Name
+Meter_TypeMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_Index_StatusInlet_Pipe_Connection_DiameterAltitude"
+100"
+Yes"
+Normal"
+
+Readable"
+	531004WM1"
+	531004WM2"
+	Nyagatare"
+Electromagnetic"
+Mechanical Meter"
+Bulk meter (for reservoir)"	ú∏s‰•gó@"	û”K›†ó@" ≥" ¥# 		
+ 
+"	∆Œ# 		
+ "	Ù ‘

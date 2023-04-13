@@ -3305,30 +3305,7 @@ Unreadable"
 ã®≥¥ÿ!"	æ‚@VK «¢Ò¬‰	—‰	
 ã®Û	¥æ•!"	⁄“@,! ª·§‰	—	
 ¿Û	 "	ˆÊ@F; πïîñ‰	—	
-®Û	¥!"	Ç@‹6–x
-fire_hydrant(Ä idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitude"
-B"
-No"
-DMA"
-Yes"
-Other"
-001580"
-Normal"
-Rusizi"	
-10 m3/h"
-
-Gihungwe"
-
-Readable"
-
-Velocity"
-
-NZAKIG2WM1"
-DMA in flow"
-50 (1 1/2 '')"	aê'~é@" " ∫Œ" ◊3( 	 	
-
-"	ºÇÆx
+®Û	¥!"	Ç@‹6Æx
 manhole(Ä idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_type	Content_1	Content_2	Content_3Altitude"
 No"
@@ -5080,4 +5057,27 @@ NZAKIG2VA2"
  	
 #""	êà,' % 	
 # "	˛˛6' $		
-%"	æñ8
+%"	æñ8œx
+water_meter(Ä idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitude"
+B"
+No"
+DMA"
+Yes"
+Other"
+001580"
+Normal"
+Rusizi"	
+10 m3/h"
+
+Gihungwe"
+
+Readable"
+
+Velocity"
+
+NZAKIG2WM1"
+DMA in flow"
+50 (1 1/2 '')"	aê'~é@" " ∫Œ" ◊3( 	 	
+
+"	ºÇ

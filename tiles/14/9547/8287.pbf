@@ -1698,30 +1698,7 @@ Unreadable"
 "	¦¬@VK £
 ’ ¶£«‹ë 
 	°œ 
-"	–œAûx
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitude"
-B"
-Yes"
-Ruli"
-DN150"
-Other"
-Normal"	
-Blocked"	
-Muhanga"
-
-250 m3/h"
-
-Readable"
-
-Velocity"
-	SHYRULWM1"
-DMA in flow"
-Not Available"
-HO 16386 2012-12"
-Bulk meter (for reservoir)"	N@~¿’@" " Ü" ï3( 
- 	
-	"	ÆŒx
+"	–œAŒx
 manhole(€ idBranch_NameAltitude	Materials	Content_1Provide_comment_if_necessary"
  "
 Stones"	
@@ -1844,15 +1821,15 @@ S W|
 "	º¬
 f †v
 "	Îî
-D5 	"	Ä”
-	
-		
-	j’
-i‘4 M	"	Ä”
+D4 M	"	Ä”
 	
 	h”
 i‘	
-S c"+y	
+5 	"	Ä”
+	
+		
+	j’
+i‘S c"+y	
 "7	Â¬*,Mf›A"S6K	Ñºr8VP.01+%
 y«C8”ı& `"+)	ˆ"	‚¤a®i)& ;"+)	‹"	‚¤a®i)% L+)ˆ	"
 	¼ØA$I% 7+)ˆ	"
@@ -2032,4 +2009,27 @@ SHYRULVA23"
  "	Æ¢
  '"	°â* ("	°â*
  )"	°â*
- !"	À Š$ ""	À Š$
+ !"	À Š$ ""	À Š$úx
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitude"
+B"
+Yes"
+Ruli"
+DN150"
+Other"
+Normal"	
+Blocked"	
+Muhanga"
+
+250 m3/h"
+
+Readable"
+
+Velocity"
+	SHYRULWM1"
+DMA in flow"
+Not Available"
+HO 16386 2012-12"
+Bulk meter (for reservoir)"	N@~¿’@" " Ü" ï3( 
+ 	
+	"	Æ

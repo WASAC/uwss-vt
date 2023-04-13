@@ -16522,62 +16522,26 @@ wj` ì‚âW‹¶:†¾`Ò#îGÂ	½$
 Öz§$Ê0µ`Ä`:ÁéÁëfä:£2 £2""	¨Ô@i^ âlH°Â?†Ã`0îG9	Ù!#Ù!
 ´¢2z§$Ê0µ`Á`:ÁéÁ½`ä:£2 £2""	À¶@i^ ²kã[µˆ@†¿`Õ#îGœ0	Ğ"
 ´¡v§$Ê0µ`Ç`:ÁéÁÕhä:£2 £2!³a""	Œ.Ş@eZ Ígç[Ô–@†¿`0îG9	ö+
-Öãz§$Ê0µ`Á`:ÁéÁİ`ä:£2 £2""	ğ/Aú
-x
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberYear_of_Manufacture
-Meter_TypeMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusInlet_Pipe_Connection_DiameterAltitudeMeter_ManufacturerMeter_ClassNominal_FlowMeter_Current_Index_Reading
-Owner_TypeInstallation_TypeHose_Coupling_StandardPresence_of_MeterInlet_DiameterOutlet_DiameterProvide_comment_if_necessary"
-B"
+Öãz§$Ê0µ`Á`:ÁéÁİ`ä:£2 £2""	ğ/Aõx
+fire_hydrant(€ idID_CodeBranch_Name
+Owner_TypeInstallation_TypeHose_Coupling_StandardPresence_of_MeterInlet_DiameterOutlet_DiameterAltitudeProvide_comment_if_necessary"
 No"
 UK"
-DMA"
-Yes"
-Itron"
-Gereza"
-Normal"	
-10 m3/h"	
-Blocked"	
-Damaged"	
+Yes"	
 Musanze"	
 Private"	
-Surface"
-
-Readable"
-
-Rusagara"
-
-Velocity"
+Surface"
 	63 (2 '')"
 	90 (3 '')"
 	MUHKIGFH1"
 	MUHKIGFH2"
 	MUHKIGFH3"
 	MUHKIGFH4"
-	MUHKIGFH5"
-	MUHMPEWM1"
-	MUHMPEWM2"
-	MUHMPEWM3"
-
-01  306040"
-
-01  306053"
-
-10SE011138"
-
-Kabogobogo"
-
-Unreadable"
-DMA in flow"
-75 (2 1/2 '')"
-Mechanical Meter"#
-!Hose_Coupling_Standard Is Unknown"	q‡Š3@"	ÓÎ–ŒI@"	f1ğ·ë‘œ@"	¨T%÷§œ@"	¹‡í¿§œ@"	¼$áÖB@"	í„¼èds@"	ğ@dChÃœ@" +" ," -" ." /" ¾Ş" Ã" Ì" Í" Ñ" Ú+  45"	
-
- 	("	 
-Î3( 26 "	
-
- 1'"	ÎÔ+ 0!$"	Êª, .!%"	œ². /!*"	ºº, -!)"	ªÌ. ,#+"	æ°3+  35"	
-
- 	&"	úÎ!¬x
+	MUHKIGFH5"
+75 (2 1/2 '')"#
+!Hose_Coupling_Standard Is Unknown"	q‡Š3@"	ÓÎ–ŒI@"	¼$áÖB@"	í„¼èds@"	ğ@dChÃœ@" +" ," -" ." / 		"	Êª, 	"	œ². 
+	"	ºº, 	"	ªÌ.  
+	"	æ°3¬x
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_type	Content_1	Content_2AltitudeProvide_comment_if_necessary"
  "
@@ -17931,15 +17895,15 @@ $ ¨-3È1"	Àâ
  ’-I3©1"	š¶
 
  Æ-I3©1"	âÀ
-:$ ÷-I3ì1"	šÒ"&"* û--3Z
-ü#"	æà
-	E6
-D3 Ğ-3‰1"	ÒÚ
-2* ß
+:$ ÷-I3ì1"	šÒ"&"* ß
 --3Z
 ü#"	æà
 	E6
-D3$ ¥
+D3* û--3Z
+ü#"	æà
+	E6
+D3 Ğ-3‰1"	ÒÚ
+2$ ¥
 --3Z
 ü#"	¢”
 F5$ º-3‰1"	„ì
@@ -22208,4 +22172,46 @@ xƒPˆœ@"	­uúóc³œ@"	¯YàPV(›@"	´É»N2ß›@"	¶<Úê‘œ@"	ºª›Ö½œ@"	¾ê]ÆŒœ@"	Çûan
 Ğ˜ÚË"	¤*ì;1& µD9:ÌÑÕÓ	Î
 Ğ˜ÜË"	¬*ì;0% ³C;<ÑÕÓ	Î
 Ğ˜áË"	°*ğ;0% ²E=>ÑÕÓ	Î
-Ğ˜ƒË"	¨*ğ;
+Ğ˜ƒË"	¨*ğ;àx
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberYear_of_Manufacture
+Meter_TypeMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusInlet_Pipe_Connection_DiameterAltitudeMeter_ManufacturerMeter_ClassNominal_FlowMeter_Current_Index_Reading"
+B"
+No"
+DMA"
+Yes"
+Itron"
+Gereza"
+Normal"	
+10 m3/h"	
+Blocked"	
+Damaged"	
+Musanze"
+
+Readable"
+
+Rusagara"
+
+Velocity"
+	63 (2 '')"
+	MUHMPEWM1"
+	MUHMPEWM2"
+	MUHMPEWM3"
+
+01  306040"
+
+01  306053"
+
+10SE011138"
+
+Kabogobogo"
+
+Unreadable"
+DMA in flow"
+Mechanical Meter"	f1ğ·ë‘œ@"	¨T%÷§œ@"	¹‡í¿§œ@" ¾Ş" Ã" Ì" Í" Ñ" Ú+  
+ 		
+"	 
+Î3( 
+! 		
+"	ÎÔ++  
+ 		
+"	úÎ!

@@ -782,28 +782,7 @@ Volumetric"
 ´ÍÂØß	"“	"	Š@ä\Q ßès¡·Ü¸È	Œ
 ¶ÍÂØä	"î	 €"	AîB7 Ÿ´€•·Ü¸È	š
 ¿Í"	"	Æ@ê\Q ß%•·Ü¸È	†
-µÍÂØá	"„	 „"	¤@œßx
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitude"
-B"
-No"
-DMA"
-Socam"
-Normal"	
-15 m3/h"	
-2664550"
-
-Readable"
-
-Velocity"
-	90 (3 '')"
-	GASKIGWM1"
-	Nyamagabe"
-DMA out flow"
-Not Available"
-Pompage Kigeme"	šÚ/ª› @" 4" Ã" î(3( 
- 	
-	"	ì@‚Èx
+µÍÂØá	"„	 „"	¤@œÈx
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_type	Content_1	Content_2Altitude"
 No"
@@ -1470,4 +1449,25 @@ vy @"	4Ñ÷U¦ @"	<â0y @"	CŠ|¸O @"	CáşÍN @"	UŠˆO @"	b{ ¸Xy @"	m¤Ğf 
 @^J<"	ì@‚# n(,=6B	7_X<"	î@‚' m,(=6CG	7
 @^U<"	î@‚' k+)=6CG	7
 @^H<"	î@„' l)+6CG	7
-@_N<"	î@„
+@_N<"	î@„Şx
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitude"
+B"
+No"
+DMA"
+Socam"
+Normal"	
+15 m3/h"	
+2664550"
+
+Readable"
+
+Velocity"
+	90 (3 '')"
+	GASKIGWM1"
+	Nyamagabe"
+DMA out flow"
+Not Available"
+Pompage Kigeme"	šÚ/ª› @" 4" Ã" î(3( 
+ 	
+	"	ì@‚

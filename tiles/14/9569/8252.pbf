@@ -634,30 +634,7 @@ Multi-jets"
 
  Ğ!"	¾@¼ \Q ‰şeº‚­å¼		™Ş‘è¨°
 
- Ù!"	Œ@Ğ Œx
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitude"
-B"
-250"
-DMA"
-Yes"
-Other"
-Normal"
-
-16405452"
-
-250 m3/h"
-
-Readable"
-	Nyagatare"
-	RUKRURWM1"
-DMA in flow"
-Nyakagarama"
-Not available"
-Electromagnetic"
-Mechanical Meter"	˜—^–__•@" £·" ß" î5* 
-	 	
-"	ö˜ıx
+ Ù!"	Œ@Ğ ıx
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_type	Content_1	Content_2Altitude"
 No"
@@ -1082,7 +1059,30 @@ $1* "	è¨' :#'	&
 $1. "	Ì:–' 3	%'	"
 $1+ "	ü'¢6! 2!'1( "	æ*„<' 5%'	"
 $10 "	è=†$' 4 %'	&
-$1/ "	†<„+Æx
+$1/ "	†<„+‹x
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitude"
+B"
+250"
+DMA"
+Yes"
+Other"
+Normal"
+
+16405452"
+
+250 m3/h"
+
+Readable"
+	Nyagatare"
+	RUKRURWM1"
+DMA in flow"
+Nyakagarama"
+Not available"
+Electromagnetic"
+Mechanical Meter"	˜—^–__•@" £·" ß" î5* 
+	 	
+"	ö˜Æx
 water_source(€ idID_CodeDischarge_m3_hLocation_NameBranch_NameWater_source_typeAltitude"
 River"	
 Rurenge"

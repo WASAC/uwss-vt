@@ -1276,40 +1276,7 @@ Unreadable"
 ü	£
 æïÌÍÕš !"	ÂšA[P ‰Õ.ËðÒÐû
 «
-Ö‹×ÍÓ£ !"	€7ì@áx
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterAltitude"
-B"
-No"
-DMA"
-Yes"
-DN100"
-Itron"
-Murehe"
-Normal"
-Sensus"	
-10 m3/h"	
-60 m3/h"
-
-Readable"
-
-Velocity"
-	090025730"
-	MUYMURWM1"
-	MUYMURWM2"
-	MUYMURWM4"
-	Rwamagana"
-DMA in flow"
-DN63 (2 '')"
-D10SE011086M"
-NOT AVAILABLE"
-DN50 (1 1/2 '')"
-Bulk meter (for reservoir)"	:/j:]Ö™@"	ÒUÒ“^Ì™@"	ñYwó™@" ¥" ¦" §" ®Ã" É" Ù" Ú" à¨1& ! 		
-"	æ	‚/$   	
-
-""	¸
-¨-"  
-"	´¢x
+Ö‹×ÍÓ£ !"	€7ì@x
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_type	Content_1	Content_2Altitude"
 Yes"
@@ -2305,4 +2272,37 @@ C\M="	Œ¶# ^	@><F\W="	öš<' ]<EI	A
 C\X="	üª<# i6!@><I\K="	ž"' g:()><BI	A
 C\J="	ª#Ö# b7"@<I\N="	$¶' n1<EI	A
 C\[="	ä)è' `4#><EI	A
-C\Q="	†+â 
+C\Q="	†+â àx
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterAltitude"
+B"
+No"
+DMA"
+Yes"
+DN100"
+Itron"
+Murehe"
+Normal"
+Sensus"	
+10 m3/h"	
+60 m3/h"
+
+Readable"
+
+Velocity"
+	090025730"
+	MUYMURWM1"
+	MUYMURWM2"
+	MUYMURWM4"
+	Rwamagana"
+DMA in flow"
+DN63 (2 '')"
+D10SE011086M"
+NOT AVAILABLE"
+DN50 (1 1/2 '')"
+Bulk meter (for reservoir)"	:/j:]Ö™@"	ÒUÒ“^Ì™@"	ñYwó™@" ¥" ¦" §" ®Ã" É" Ù" Ú" à¨1& ! 		
+"	æ	‚/$   	
+
+""	¸
+¨-"  
+"	´¢

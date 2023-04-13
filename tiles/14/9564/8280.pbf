@@ -4742,38 +4742,7 @@ unreadable"
 
 .
 O.åƒ
-4"	‰@‰@áx
-fire_hydrant(Ä idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
- "
-B"
-200"
-300"
-DMA"
-Yes"
-Normal"
-Remera"
-Sensus"
-
-150 m3/h"
-
-600 m3/h"
-
-NDES7WM1"
-
-NDES7WM2"
-
-Readable"
-
-Velocity"
-	090025948"
-	Free_Zone"
-E05YK7994989"
-Masoro_Free _Zone"
-Bulk meter (for reservoir)"	≤7Ä¡°ñ@"	≥Hg.∫ñ@" Ä" Å" Ÿ" Á¬" Í[5* 	
-
-   "	Ê“13( 		
-   "	“¢0ﬁx
+4"	‰@‰@ﬁx
 manhole(Ä idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_typeProvide_comment_if_necessaryAltitude"
  "
@@ -5811,10 +5780,10 @@ I•	ÆÇ1e1u	ˆä
 	¬"îX0& €0'6#	ö
 "
 	Ñ$®
-Üù$ ª"/'#	î
+Üù$ “"/'#	î
 "
 	ú(»
-∑ˆ$ “"/'#	î
+∑ˆ$ ª"/'#	î
 "
 	ú(»
 ∑ˆ% å!0'6#	ü
@@ -6613,4 +6582,35 @@ KNDER6JU19"
 ≥Ú Ê∞"	ê<Í:4) ˚™úù	¥∂	µ
 ≥Ú ∏∞"	Íñ@4) ˙´û†	¥∂	µ
 ≥Ú ‰∞"	ﬁ @4) ˘¨ûü≤∂	µ
-≥Ú Ò∞"	ËÃ@
+≥Ú Ò∞"	ËÃ@Üx
+water_meter(Ä idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
+ "
+B"
+200"
+300"
+DMA"
+Yes"
+Normal"
+Remera"
+Sensus"
+
+150 m3/h"
+
+600 m3/h"
+
+NDES7WM1"
+
+NDES7WM2"
+
+Readable"
+
+Velocity"
+	090025948"
+	Free_Zone"
+E05YK7994989"
+Masoro_Free _Zone"
+Bulk meter (for reservoir)"	≤7Ä¡°ñ@"	≥Hg.∫ñ@" Ä" Å" Ÿ" Á¬" Í[5* 	
+
+   "	Ê“13( 		
+   "	“¢0

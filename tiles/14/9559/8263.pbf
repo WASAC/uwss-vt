@@ -2830,84 +2830,7 @@ IнЊ	ЃчБ			\ѕZт "	р@Ў-\Q ¬№™ќ
 )€Ях	Е
 IнЊ	ЃчВ			\√Zт "	КAЪ/D9 љ¬тЌ
 )€Ях	ц
-IЭ					\Z "	ИAЮ0Ьx
-fire_hydrant(А idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitudeNominal_FlowMeter_ClassProvide_comments_if_necessary"
-B"
-No"
-DMA"
-Yes"
-DN80"
-DN150"
-DN250"
-Itron"
-Socam"
-Zener"
-6 m3/h"
-Kibali"
-Normal"
-Sensus"	
-15 m3/h"	
-60 m3/h"	
-Blocked"	
-Damaged"	
-Gicumbi"
-
-01300035"
-
-01300193"
-
-2.5 m3/h"
-
-400 m3/h"
-
-Readable"
-
-Velocity"
-	090025833"
-	090025922"
-	BYUKIBWM5"
-	BYUNYAWM1"
-	BYUNYAWM2"
-	BYUNYAWM3"
-	BYUNYAWM4"
-	BYUNYAWM5"
-	BYUNYAWM6"
-	BYUNYAWM7"
-	BYUNYAWM8"
-	BYUNYAWM9"
-	Nyamabuye"
-
-1195338559"
-
-Unreadable"
-
-ZR94224811"
-D10D800211F"
-D12CB007715"
-DMA in flow"
-DN32 (1 '')"
-DMA out flow"
-DN110 (4 '')"
-E01XH1345873"
-NOT AVAILABLE"
-Not Available"
-Not available"
-DN50 (1 1/2 '')"
-Bulk meter (for reservoir)"	8cЏtБR†@"	PћШЈЊQ†@"	db^І[†@"	eKC№ґд†@"	},÷€/]†@"	Иm>Хђ°@"	ЃШGЧs®†@"	єЈыпо°@"	ќЌу±S†@"	Ўу÷Тн†@" " РR" Ы" Э" Ю" Я" ЯЧ" °" Ґ" £" §" •" •ш" ®" є*" њ≤" »7"  " —" ÷<" ў" Џ" џ" №" уя " ц?/$ H"%/Q	
--K2="	ґъ/$ I!%0	
--N25"	јш3( J %&1U 	
-+E.26"	Дт3( G%S 4	
-+W29"	ёю3( F%S 	
--?27"	‘Ф3( L(	P 4	
--O,2>"	ј;ф5* D%1Q 
-	
-'-R328"	ъ$Ц#3( C%)T 
-	
--X2<"	ƒ5ё$5* B$%1Q 
-	
-+@32:"	ƒ5в$3( A#%*V 	
-+M,2;"	к=и)Нx
+IЭ					\Z "	ИAЮ0Нx
 manhole(А idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_type	Content_1	Content_2AltitudeProvide_comment_if_necessary	Content_3	Content_4"
 No"
@@ -4682,7 +4605,84 @@ Steel Pipe"
 ∞Рy"	ƒ5в$-" ЈpJK ВГ	Д
 ∞Оy"	ж5в$,! µ
 IzВЕ	}
-∞Ґy"	ш=к)Ыx
+∞Ґy"	ш=к)Ыx
+water_meter(А idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitudeNominal_FlowMeter_ClassProvide_comments_if_necessary"
+B"
+No"
+DMA"
+Yes"
+DN80"
+DN150"
+DN250"
+Itron"
+Socam"
+Zener"
+6 m3/h"
+Kibali"
+Normal"
+Sensus"	
+15 m3/h"	
+60 m3/h"	
+Blocked"	
+Damaged"	
+Gicumbi"
+
+01300035"
+
+01300193"
+
+2.5 m3/h"
+
+400 m3/h"
+
+Readable"
+
+Velocity"
+	090025833"
+	090025922"
+	BYUKIBWM5"
+	BYUNYAWM1"
+	BYUNYAWM2"
+	BYUNYAWM3"
+	BYUNYAWM4"
+	BYUNYAWM5"
+	BYUNYAWM6"
+	BYUNYAWM7"
+	BYUNYAWM8"
+	BYUNYAWM9"
+	Nyamabuye"
+
+1195338559"
+
+Unreadable"
+
+ZR94224811"
+D10D800211F"
+D12CB007715"
+DMA in flow"
+DN32 (1 '')"
+DMA out flow"
+DN110 (4 '')"
+E01XH1345873"
+NOT AVAILABLE"
+Not Available"
+Not available"
+DN50 (1 1/2 '')"
+Bulk meter (for reservoir)"	8cЏtБR†@"	PћШЈЊQ†@"	db^І[†@"	eKC№ґд†@"	},÷€/]†@"	Иm>Хђ°@"	ЃШGЧs®†@"	єЈыпо°@"	ќЌу±S†@"	Ўу÷Тн†@" " РR" Ы" Э" Ю" Я" ЯЧ" °" Ґ" £" §" •" •ш" ®" є*" њ≤" »7"  " —" ÷<" ў" Џ" џ" №" уя " ц?/$ H"%/Q	
+-K2="	ґъ/$ I!%0	
+-N25"	јш3( J %&1U 	
++E.26"	Дт3( G%S 4	
++W29"	ёю3( F%S 	
+-?27"	‘Ф3( L(	P 4	
+-O,2>"	ј;ф5* D%1Q 
+	
+'-R328"	ъ$Ц#3( C%)T 
+	
+-X2<"	ƒ5ё$5* B$%1Q 
+	
++@32:"	ƒ5в$3( A#%*V 	
++M,2;"	к=и)Ыx
 water_source(А idID_CodeDischarge_m3_hLocation_NameBranch_NameWater_source_typeSource_capacityAltitudeProvide_comments_if_necessary"
 Murama"	
 Gicumbi"

@@ -2083,30 +2083,7 @@ Unreadable"
 ¸Å			"!"	êœA[P ágÕşı	È
 ÆÅ	’õ€			"ğ!Û "	†à@( ªŠ	Úªşı	”Í"	š˜AYN ‚ù
 M›şı	
-ÁÅ	’õş			¯!¶ "	”#Š@¸x
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
-B"
-DMA"
-Yes"
-<Null>"
-Normal"
-Nyanza"
-Sensus"	
-40 m3/h"
-
-Readable"
-
-Velocity"
-	090025575"
-	90 (3 '')"
-	MUKGATWM2"
-DMA in flow"
-Not Available"
-Lycee De Nyanza"
-Mechanical Meter"	Ì+Õ„Äš@" ş" ²" Ù7, 
-	 	
-"	¦Ö8Òx
+ÁÅ	’õş			¯!¶ "	”#Š@Òx
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered	Content_1	Content_2	Content_3Provide_comment_if_necessaryAltitude
 Cover_type"
 No"
@@ -2659,8 +2636,8 @@ m  '¸
 o) ¨0'¸
 ""	Œ4ø
 8  ¯1'İ"
-	²#ü%$ ó':Ù		"	ê#ş$
-# n':Ù		"	ê#ş$
+	²#ü%# n':Ù		"	ê#ş$
+$ ó':Ù		"	ê#ş$
 Q ø0'Á
 "";	’&Ş!3	i¼ËI	Á†
 ¦ï	»
@@ -2671,11 +2648,11 @@ B ƒ0'Á
 <"& ú0'Á
 ""	à%¸!9$
 	%h
- 7! G'Ù		"	ä$ò#
+ 7! Y'Ù		"	ê$ä#
+ ! G'Ù		"	ä$ò#
 " ¯'Ù		"	ä$ò#
 " “'Ù		"	ä$ò#
-! Y'Ù		"	ê$ä#
- " ¢'Ù		"	ê$ä#
+" ¢'Ù		"	ê$ä#
  X ×%0'Î	
   ":	Ú(îéèÃš?„	ûæ"`ˆ§hQ„¿	×P2W€i¬' £ÒùÆ( ü0'Á
 ""	†&ˆ!4™"	aº
@@ -2989,4 +2966,27 @@ RUHRWOJU15"
 # ? 
 +73$"	È1¢) 9*+	%
 '72$"	–ò@# : 
-+75$"	âŒ@
++75$"	âŒ@·x
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
+B"
+DMA"
+Yes"
+<Null>"
+Normal"
+Nyanza"
+Sensus"	
+40 m3/h"
+
+Readable"
+
+Velocity"
+	090025575"
+	90 (3 '')"
+	MUKGATWM2"
+DMA in flow"
+Not Available"
+Lycee De Nyanza"
+Mechanical Meter"	Ì+Õ„Äš@" ş" ²" Ù7, 
+	 	
+"	¦Ö8

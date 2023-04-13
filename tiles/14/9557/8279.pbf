@@ -767,31 +767,7 @@ incomplete"
 •†"	û?Æ0QF ò≈y≠†¥¢	›
 ñ∑õ
 
-†"	Ú@Ê0 x
-fire_hydrant(Ä idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_Manufacturer
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
- "
-150"
-DMA"
-Yes"
-Other"
-Normal"	
-H009404"
-
-200 m3/h"
-
-KANM8WM1"
-
-Kanyinya"
-
-Readable"
-
-Velocity"
-
-Nyarugenge"
-DMA out flow"	ÜèK\ÌAú@" Ω" ¯´3( 	 	
-
-  "	÷?ê2Åx
+†"	Ú@Ê0Åx
 manhole(Ä idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_typeProvide_comment_if_necessaryAltitude"
  "
@@ -1159,7 +1135,31 @@ Nyarugenge"
 ' !"	û$≤! +	'&"	∏?Ü2) *	
 ' %"	ﬁ?§2) -  	
  '#"	ì˛@) ,  	
- ' ""	ôÜA•x
+ ' ""	ôÜA…x
+water_meter(Ä idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_Manufacturer
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
+ "
+150"
+DMA"
+Yes"
+Other"
+Normal"	
+H009404"
+
+200 m3/h"
+
+KANM8WM1"
+
+Kanyinya"
+
+Readable"
+
+Velocity"
+
+Nyarugenge"
+DMA out flow"	ÜèK\ÌAú@" Ω" ¯´3( 	 	
+
+  "	÷?ê2•x
 water_source(Ä idID_CodeDischarge_m3_hLocation_NameBranch_NameWater_source_typeProvide_comments_if_necessaryAltitude"
 Nzove"
 	KANN7WS33"

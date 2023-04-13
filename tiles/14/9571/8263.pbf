@@ -937,43 +937,7 @@ Unreadable"
 	©$Ù
 …πÅé˚!ˆ"#"	¯ û&UJ Áö$ûΩá∏›º	º
 …∫ÅÜ»"	˙!¶(D9 ¡ÏB∆Ωá∏›
-	¢Ó"	§@‰’x
-fire_hydrant(Ä idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitude"
-B"
-DMA"
-Yes"
-Itron"
-Normal"	
-Marimba"
-
-1.5 m3/h"
-
-Readable"
-
-Rwimbogo"
-
-Velocity"
-	32 (1 '')"
-	KABMARWM2"
-	KABMARWM3"
-	KABMARWM4"
-	KABMARWM5"
-	Nyagatare"
-25 (3/4 '')"
-D12CA051290"
-D13UA608342"
-D14UA136497"
-DMA in flow"
-Not Available"
-Mechanical Meter"	ÎÍ«Úñ@"	œ∞ƒƒñ@"	(ß’]Ú-ó@"	l˘oñ˜ó@" ô" ö" ú" †" ¡" ≈" ”	" ‹" ›" ﬁ" Í5* $	 	
-!
-"	¨™35* "	 	
- 
-"	ƒÓ+3( $	 	
-%
-"	Æ2ä5* #	 	
-"	“ “&Ëx
+	¢Ó"	§@‰Ëx
 manhole(Ä idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_type	Content_1Altitude"
 Yes"
@@ -1451,4 +1415,40 @@ Steel Pipe"
 #2) "	Æ2ä' 9$%(	!
 #2/ "	“ “&' 7$%'	!
 #21 "	ú#“)% 6(2, "	ú#‘)) 5%&	!
-#20 "	ú#÷)
+#20 "	ú#÷)‘x
+water_meter(Ä idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeAltitude"
+B"
+DMA"
+Yes"
+Itron"
+Normal"	
+Marimba"
+
+1.5 m3/h"
+
+Readable"
+
+Rwimbogo"
+
+Velocity"
+	32 (1 '')"
+	KABMARWM2"
+	KABMARWM3"
+	KABMARWM4"
+	KABMARWM5"
+	Nyagatare"
+25 (3/4 '')"
+D12CA051290"
+D13UA608342"
+D14UA136497"
+DMA in flow"
+Not Available"
+Mechanical Meter"	ÎÍ«Úñ@"	œ∞ƒƒñ@"	(ß’]Ú-ó@"	l˘oñ˜ó@" ô" ö" ú" †" ¡" ≈" ”	" ‹" ›" ﬁ" Í5* $	 	
+!
+"	¨™35* "	 	
+ 
+"	ƒÓ+3( $	 	
+%
+"	Æ2ä5* #	 	
+"	“ “&

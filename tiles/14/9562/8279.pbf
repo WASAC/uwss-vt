@@ -11733,40 +11733,7 @@ $Gusimbura Compteur Itazwi Aho Yagiye"+
 	
 î"æ?«?m‘m“Ò"	¥@¥@\Q ©Jó9ö»*h‡?Û›0òí“L
 	
-î"æ?m‘m“!—L"…#Ò"	‡@îAåx
-fire_hydrant(Ä idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
- "
- "
-B"
-63"
-200"
-DMA"
-Yes"
-Normal"
-Remera"
-
-2.5 m3/h"
-
-250 m3/h"
-
-KIMQ4WM1"
-
-KIMQ4WM2"
-
-Readable"
-
-Velocity"
-	120041717"
-	W95339526"
-
-Kibagabaga"
-DMA in flow"
-For Fire Hydrant"
-Kibagabaga_Hospital"	GD.∫)ó@"	V»ñπX(ó@" " ∑" ∏" À" €∆" ‹5*  	
-
-  "	æÑ:5* 		
-   "	ºí:Ñx
+î"æ?m‘m“!—L"…#Ò"	‡@îAÑx
 manhole(Ä idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_typeProvide_comment_if_necessaryAltitude"
  "
@@ -15904,4 +15871,37 @@ FÆDó@"	iI:‰(ó@"	õn«DCó@"	≥yM˙˛ñ@"	YÖG:,ó@"	
 ®ı Ë§"	Ü Ä:4) ïúÅÇ	≠∞	Ø
 ®ı Î§"	®4Ñ=3( ìõÅú	≤∞	Ø
  ı Ú§"	Æ4à=4) ëùÉÑ	≠∞	Ø
-®ı »§"	ú6é=
+®ı »§"	ú6é=ãx
+water_meter(Ä idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
+ "
+ "
+B"
+63"
+200"
+DMA"
+Yes"
+Normal"
+Remera"
+
+2.5 m3/h"
+
+250 m3/h"
+
+KIMQ4WM1"
+
+KIMQ4WM2"
+
+Readable"
+
+Velocity"
+	120041717"
+	W95339526"
+
+Kibagabaga"
+DMA in flow"
+For Fire Hydrant"
+Kibagabaga_Hospital"	GD.∫)ó@"	V»ñπX(ó@" " ∑" ∏" À" €∆" ‹5*  	
+
+  "	æÑ:5* 		
+   "	ºí:

@@ -1003,29 +1003,7 @@ Unreadable"
 /‘²ü‡	;Î9	!"	 2ä;4) ØóÄøƒ«Â	 
 0¬‘²"	ú1¤<]R ÛÒªÚƒ«Â	ÿ"Ò
 /¬‘²üˆ	;©‰	!"	Š1Œ=F; •öäı«Â	¨
-/­Ì²;‚9	$"	Ê8œ6Óx
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
-B"
-No"
-Other"
-6 m3/h"
-Normal"	
-Karongi"
-
-Readable"
-
-Velocity"
-	01 300162"
-	BWIKIBWM5"
-	Nyabidahe"
-DMA in flow"
-50 (1 1/2 '')"
-Mechanical Meter"
-Bulk meter (for reservoir)"!
-Manufacturer Not Mentioned_Pn16"	<4Óì=İ–@" —" °´" Ñ7, 	
- 	
-"	ô'Ê!‚x
+/­Ì²;‚9	$"	Ê8œ6‚x
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_type	Content_1	Content_2Altitude"
 Yes"
@@ -1517,4 +1495,26 @@ E[Z@"	˜,ì;' _4BFDL	>
 E[Q@"	/Ş8' i7KL	G
 E[j@"	Œ4î&' h8FKL	G
 E[j@"	†4ô&' g9 ?FKL	C
-E[j@"	ø7ø&# m3!BI[R@"	à0ş;
+E[j@"	ø7ø&# m3!BI[R@"	à0ş;Òx
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
+B"
+No"
+Other"
+6 m3/h"
+Normal"	
+Karongi"
+
+Readable"
+
+Velocity"
+	01 300162"
+	BWIKIBWM5"
+	Nyabidahe"
+DMA in flow"
+50 (1 1/2 '')"
+Mechanical Meter"
+Bulk meter (for reservoir)"!
+Manufacturer Not Mentioned_Pn16"	<4Óì=İ–@" —" °´" Ñ7, 	
+ 	
+"	ô'Ê!

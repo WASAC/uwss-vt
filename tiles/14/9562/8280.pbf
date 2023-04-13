@@ -34524,90 +34524,7 @@ $Gusimbura Compteur Faulty Etalonnage"'
 ¸¬³´Q——
 
 ”	’	?û© Ğ!ı¥
-È3"	ş@AÇx
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
- "
-B"
-80"
-90"
-No"
-110"
-160"
-250"
-300"
-Yes"
-Itron"
-Golf 8"
-Golf_8"
-Normal"
-Remera"
-Sappel"
-Sensus"	
-10 m3/h"	
-60 m3/h"	
-Actaris"	
-Blocked"	
-Damaged"	
-REMEWM1"	
-RES3WM1"	
-RET4WM2"	
-RET4WM3"	
-RET4WM4"	
-RET4WM5"	
-RET4WM6"	
-RET4WM7"	
-RET4WM8"	
-RET4WM9"
-
-150 m3/h"
-
-250 m3/h"
-
-400 m3/h"
-
-RET4WM10"
-
-RET4WM11"
-
-RET4WM12"
-
-Readable"
-
-Velocity"
-	1000 m3/h"
-DMA in flow"
-E06XM854063"
-EXYK7756828"
-Nyarutarama"
-D03WN0134021"
-D10SE011007X"
-E01XL1346238"
-E05Y17355584"
-E05YK7756806"
-E06XM8540608"
-NR34030.196KI."
-Electromagnetic"
-For Fire Hydrant"
-Nyarutarama_Kamahwa"
-Bulk meter (for reservoir)"4
-2This Meter Is Neither For Dma,Nor For Fire Hydran*"	*Wj’À—@"	;ŞsÀ µ—@"	VHæ·—@"	``º–è–@"	—Käàô¿—@"	´˜Â‹¿—@"	À&˜TÖä–@"	À5¯ö;À—@"	Ìéî/Å·—@"	ÒgRC’Á—@"	Òœ°9·—@"	äõLı·—@"	ôtæÿÀ—@" " 
-" s" t" u" v" w" x" y" z" |" }" ~" Ò" †" †«š" ‡" ‰‹" Š‹" Ñ" ÒĞ#" Òú" Ó" Õ" Ö" ×" Ú" ŞÙ" éƒ" ğ´$" ú®" üâ5* T63_'	
-7	&)d  <"	òš"1& V, 
-4 
-7	& c  ?"	ˆˆ"5* M*^'	"
-7	& [  E"	Ò0ä45* N2^'	"
-7	& a  ="	ø0Ì45* R.
-`'	
-5	& F  B"	†145* Q/Y'	!
-7	& S  9"	˜1˜43( P '	 
-7& W  @"	–1¢45* O-\'	(
-7	& U  >"	”1¶45* J#0]'	
- 	& Z 8;"	Ú155* H%+]'	 
- 	& X 8D"	Ê1¤55* I$1]'	 
- 	& b 8A"	Ò1 53( K '	
- 	& G 8C"	â1œ53( L '	 
- 	& e  :"	‚2˜5±x
+È3"	ş@A±x
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_typeProvide_comment_if_necessaryAltitude"
  "
@@ -44923,4 +44840,87 @@ REMEJU 127"
 †æ µƒ"	Œ4¼82' ´ùˆŠ	‰
 şæ Ìƒ"	´@¾10% ²‹Š	‰
  æ ½ƒ"	º@Æ11& ®  ‹Š	‰
- æÇƒ"	Ö@ğ1
+ æÇƒ"	Ö@ğ1Æx
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
+ "
+B"
+80"
+90"
+No"
+110"
+160"
+250"
+300"
+Yes"
+Itron"
+Golf 8"
+Golf_8"
+Normal"
+Remera"
+Sappel"
+Sensus"	
+10 m3/h"	
+60 m3/h"	
+Actaris"	
+Blocked"	
+Damaged"	
+REMEWM1"	
+RES3WM1"	
+RET4WM2"	
+RET4WM3"	
+RET4WM4"	
+RET4WM5"	
+RET4WM6"	
+RET4WM7"	
+RET4WM8"	
+RET4WM9"
+
+150 m3/h"
+
+250 m3/h"
+
+400 m3/h"
+
+RET4WM10"
+
+RET4WM11"
+
+RET4WM12"
+
+Readable"
+
+Velocity"
+	1000 m3/h"
+DMA in flow"
+E06XM854063"
+EXYK7756828"
+Nyarutarama"
+D03WN0134021"
+D10SE011007X"
+E01XL1346238"
+E05Y17355584"
+E05YK7756806"
+E06XM8540608"
+NR34030.196KI."
+Electromagnetic"
+For Fire Hydrant"
+Nyarutarama_Kamahwa"
+Bulk meter (for reservoir)"4
+2This Meter Is Neither For Dma,Nor For Fire Hydran*"	*Wj’À—@"	;ŞsÀ µ—@"	VHæ·—@"	``º–è–@"	—Käàô¿—@"	´˜Â‹¿—@"	À&˜TÖä–@"	À5¯ö;À—@"	Ìéî/Å·—@"	ÒgRC’Á—@"	Òœ°9·—@"	äõLı·—@"	ôtæÿÀ—@" " 
+" s" t" u" v" w" x" y" z" |" }" ~" Ò" †" †«š" ‡" ‰‹" Š‹" Ñ" ÒĞ#" Òú" Ó" Õ" Ö" ×" Ú" ŞÙ" éƒ" ğ´$" ú®" üâ5* T63_'	
+7	&)d  <"	òš"1& V, 
+4 
+7	& c  ?"	ˆˆ"5* M*^'	"
+7	& [  E"	Ò0ä45* N2^'	"
+7	& a  ="	ø0Ì45* R.
+`'	
+5	& F  B"	†145* Q/Y'	!
+7	& S  9"	˜1˜43( P '	 
+7& W  @"	–1¢45* O-\'	(
+7	& U  >"	”1¶45* J#0]'	
+ 	& Z 8;"	Ú155* H%+]'	 
+ 	& X 8D"	Ê1¤55* I$1]'	 
+ 	& b 8A"	Ò1 53( K '	
+ 	& G 8C"	â1œ53( L '	 
+ 	& e  :"	‚2˜5

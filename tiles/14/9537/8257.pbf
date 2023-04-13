@@ -826,26 +826,7 @@ Multi-jets"
 åËÓŒ’		 !Õ"Õ#À"	Aè?aV ™©p¬Åğ	»
 àËÓŒ	Ç	 !Õ"Õ#›"	º@ğ@VK ÿÚ‰©ĞğÔ	ä
 ÕîÓŒ“	 	 !Õ"Õ"	è@Š@^S ”Ûe¬Åğ	½
-àËÓŒ‘	ü	 !Õ"Õ"	ê@A' è³«Ğ	Æ‚"	”Aà@¬x
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberYear_of_Manufacture
-Meter_TypeNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterAltitude"
-100"
-DMA"
-Yes"
-821513"
-Normal"	
-60 m3/h"	
-Musanze"	
-Rushubi"
-
-Readable"
-
-Velocity"
-	KINKAGWM1"
-DMA in flow"
-Mechanical Meter"	íÇÙ¹€ ¢@" †í" ¾" á/$ 
-		
- "	°¤¼x
+àËÓŒ‘	ü	 !Õ"Õ"	ê@A' è³«Ğ	Æ‚"	”Aà@¼x
 manhole(€ idID_CodeLocation_NameBranch_Name	Materials
 Cover_type	Content_1	Content_2	Content_3	Content_4	Content_5Provide_comment_if_necessaryAltitudeCovered"
  "
@@ -1455,4 +1436,23 @@ Steel Pipe"
 :OD7"	¢8¨' W!) 5<>	=
 :OK7"	Ú8ò' X
 .- 59>	=
-:OL7"	¨9â
+:OL7"	¨9â«x
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberYear_of_Manufacture
+Meter_TypeNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterAltitude"
+100"
+DMA"
+Yes"
+821513"
+Normal"	
+60 m3/h"	
+Musanze"	
+Rushubi"
+
+Readable"
+
+Velocity"
+	KINKAGWM1"
+DMA in flow"
+Mechanical Meter"	íÇÙ¹€ ¢@" †í" ¾" á/$ 
+		
+ "	°¤

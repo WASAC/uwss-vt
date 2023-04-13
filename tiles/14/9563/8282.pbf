@@ -16491,31 +16491,7 @@ yyåNy
  
 !
 }Â}À!
-!ñK"Ä#{¾"	ü@˜9ñx
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
- "
-B"
-63"
-No"
-DMA"
-Other"
-6 m3/h"
-Normal"	
-Kanombe"
-
-KANN2WM1"
-
-Readable"
-
-Velocity"
-
-W295337584"
-DMA in flow"
-Isae_Rubirizi_Campus"	Bz
-®‚#–@"  " Ë" þç5* 		
-
-  "	Ôâ"âx
+!ñK"Ä#{¾"	ü@˜9âx
 manhole(€ idID_CodeBranch_Name	MaterialsCovered
 Cover_typeAltitudeLocation_NameProvide_comment_if_necessary	Content_1	Content_2	Content_3Year_of_ConstructionSize"
  "
@@ -20624,4 +20600,28 @@ l– wg"	Þ?ì5,! ¦(%[i	ns	k
 l– ”g"	ê?ð5,! £'#$-	ns	k
 l–t‘g"	Ò>ö9+  š&!"ns	q
 l— g"	Ø=Æ>,! ¬YZ,	ns	k
-l– •g"	¸@à
+l– •g"	¸@àðx
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
+ "
+B"
+63"
+No"
+DMA"
+Other"
+6 m3/h"
+Normal"	
+Kanombe"
+
+KANN2WM1"
+
+Readable"
+
+Velocity"
+
+W295337584"
+DMA in flow"
+Isae_Rubirizi_Campus"	Bz
+®‚#–@"  " Ë" þç5* 		
+
+  "	Ôâ"

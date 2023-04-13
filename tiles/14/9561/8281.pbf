@@ -19522,70 +19522,7 @@ unreadable"
 ÃüˆØq°;Å¥Å£>‘†ÕÄ!‚r»"	ú@Ú;`U çv›Zž$ PËrð;ÓVÃ	€-
 ÃÚˆÁ<Üq#9Å¥Å£Ô!„ŠÊ"	¶@Ô<\Q  …œZÛ PËrÃ,ÓV8	‘0
 ÃüˆÁ<ÜqÅ¥Å£>!‚rÊ"	ä@®<]R èŽ²eÇ…PËrÃ,ÓVÈ	Ù
-Ãæ†Á<ÜqÅ¥Å£>!þ|Ê"	ø@Ö@Ø
-x
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
- "
-B"
-63"
-90"
-No"
-200"
-DMA"
-Yes"
-Other"
-Normal"
-Remera"
-Rukiri"
-Sappel"
-Sensus"	
-10 m3/h"	
-40 m3/h"	
-Gikondo"	
-Kacyiru"	
-NIU3WM2"
-
-2.5 m3/h"
-
-250 m3/h"
-
-KAKIRWM6"
-
-KAKIRWM7"
-
-KAKIRWM8"
-
-Readable"
-
-Velocity"
-	090025909"
-	KICV14WM2"
-	NIBV15WM2"
-	W95338519"
-	W95339474"
-
-8063429-98"
-
-Kimihurura"
-
-NR34035650"
-DMA in flow"
-Kwa Gitwaza"
-E06XL8540696"
-Not_Available"
-Sonatube_Gate"
-For Fire Hydrant"4
-2Manufacturer And The Year Of Manufacturing Are No*"	Õ›á€¤–@"	»oÈ–@"	Lc…À¤–@"	r>ÂT|<—@"	¶r4±œÑ–@"	¶“ìã¼£–@" " " I" L" O" e" f" g" “«" Á" Ë" Õo" Õã" Ö" ×" Ù" åº$5* 6 !=	
- 	 	:  ."	þ	†5* 5 >	
-	"	?  +"	†
-Ž5* 4 $<	
-	"	7  )"	˜
-¨5* 1#8	
-'	"	0  *"	Þ¶/3( 3
-  	
-	"	; (-"	Ð9’#5* 2&%9	
- 	"	/  ,"	”Aø&©x
+Ãæ†Á<ÜqÅ¥Å£>!þ|Ê"	ø@Ö@©x
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_typeProvide_comment_if_necessaryAltitude"
  "
@@ -26281,11 +26218,11 @@ R	W
  # Ÿr‰|"	¤5î1
   Ér‹‰"		 5€2
 !  îr‹‰"	†5Ì1
-\, í rr‰¶«{¬	
-„"	Ê5Ê2
- # ç"rr‰{	
+\# ç"rr‰{	
 …"	Ê5Ê2
  # •rr‰{	
+„"	Ê5Ê2
+ , í rr‰¶«{¬	
 „"	Ê5Ê2
   Ùr‹‰"	¬6Ž0
  ˜r‹‰"	î6‚0
@@ -27689,4 +27626,67 @@ NIBV15VA16"
  ‹ ×¯"	ŒAø&1& Ô945
 ºÀ	¿
 ·‹ ×¯"	ŒAø&1& 63a	ºÀ	¿
-·‹ ‡¯"	”Aø&
+·‹ ‡¯"	”Aø&×
+x
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
+ "
+B"
+63"
+90"
+No"
+200"
+DMA"
+Yes"
+Other"
+Normal"
+Remera"
+Rukiri"
+Sappel"
+Sensus"	
+10 m3/h"	
+40 m3/h"	
+Gikondo"	
+Kacyiru"	
+NIU3WM2"
+
+2.5 m3/h"
+
+250 m3/h"
+
+KAKIRWM6"
+
+KAKIRWM7"
+
+KAKIRWM8"
+
+Readable"
+
+Velocity"
+	090025909"
+	KICV14WM2"
+	NIBV15WM2"
+	W95338519"
+	W95339474"
+
+8063429-98"
+
+Kimihurura"
+
+NR34035650"
+DMA in flow"
+Kwa Gitwaza"
+E06XL8540696"
+Not_Available"
+Sonatube_Gate"
+For Fire Hydrant"4
+2Manufacturer And The Year Of Manufacturing Are No*"	Õ›á€¤–@"	»oÈ–@"	Lc…À¤–@"	r>ÂT|<—@"	¶r4±œÑ–@"	¶“ìã¼£–@" " " I" L" O" e" f" g" “«" Á" Ë" Õo" Õã" Ö" ×" Ù" åº$5* 6 !=	
+ 	 	:  ."	þ	†5* 5 >	
+	"	?  +"	†
+Ž5* 4 $<	
+	"	7  )"	˜
+¨5* 1#8	
+'	"	0  *"	Þ¶/3( 3
+  	
+	"	; (-"	Ð9’#5* 2&%9	
+ 	"	/  ,"	”Aø&

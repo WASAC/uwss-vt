@@ -1179,43 +1179,7 @@ Unreadable"
  '"	”‚@* Ž¸Ç–ÕÏò	÷Í '"	®Ü@YN ­©‚˜ÕÏò™		«
  ¸ãõÄ
 (ê%
- '"	Ô†@ïx
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
-Meter_TypeMeter_ClassNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterAltitudeProvide_comments_if_necessary"
-B"
-No"
-DMA"
-Yes"
-Other"
-Socam"
-Normal"
-Sensus"	
-10 m3/h"	
-60 m3/h"
-
-01306164"
-
-Readable"
-
-Velocity"
-	63 (2 '')"
-	MUHKABWM1"
-	MUHKABWM2"
-	MUHKABWM3"
-	Rwamagana"
-
-110 (4 '')"
-DMA in flow"
-DMA out flow"
-E05Y17355674"
-NOT AVAILABLE"
-Kabare Ku Bigega"
-Mechanical Meter"
-Bulk meter (for reservoir)"0
-.Manufacture Is Kent,Other Attrib Not Available"	ãÏ†gÏ—@"	òÎíƒ"×—@"	ÿ':•fÐ—@" ­F" °Ã" µ¨" Ð" Ñ" Ñ" Ò" Õ2( $% 		
- "	<î:," !"	dú:2( "
-# 	
-"	rú:¡x
+ '"	Ô†@¡x
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered	Content_1	Content_2Altitude
 Cover_type	Content_3"
 No"
@@ -1686,4 +1650,40 @@ C[I="	b„;' f7-?<EG	F
 C[K="	Âô:' ^	><EG	A
 C[X="	¸Ò=' ]6+,EG	A
 C[L="	ºø?' m>EG	A
-C[R="	œAð
+C[R="	œAðîx
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_ManufacturerYear_of_Manufacture
+Meter_TypeMeter_ClassNominal_FlowMeter_FunctionType_writer_ReadingPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterAltitudeProvide_comments_if_necessary"
+B"
+No"
+DMA"
+Yes"
+Other"
+Socam"
+Normal"
+Sensus"	
+10 m3/h"	
+60 m3/h"
+
+01306164"
+
+Readable"
+
+Velocity"
+	63 (2 '')"
+	MUHKABWM1"
+	MUHKABWM2"
+	MUHKABWM3"
+	Rwamagana"
+
+110 (4 '')"
+DMA in flow"
+DMA out flow"
+E05Y17355674"
+NOT AVAILABLE"
+Kabare Ku Bigega"
+Mechanical Meter"
+Bulk meter (for reservoir)"0
+.Manufacture Is Kent,Other Attrib Not Available"	ãÏ†gÏ—@"	òÎíƒ"×—@"	ÿ':•fÐ—@" ­F" °Ã" µ¨" Ð" Ñ" Ñ" Ò" Õ2( $% 		
+ "	<î:," !"	dú:2( "
+# 	
+"	rú:

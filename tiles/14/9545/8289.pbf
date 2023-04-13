@@ -4067,27 +4067,7 @@ $% !"	Ò:þ%\Q ºåÄ™Ü
 
 
 Û
- "	†@¾>¾x
-fire_hydrant(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_Manufacturer
-Meter_TypeMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
-DMA"
-Yes"
-<Null>"
-Normal"	
-Byimana"	
-Ruhango"
-
-Readable"
-	BYINYAWM1"
-
-110 (4 '')"
-DMA out flow"
-NOT AVAILABLE"
-Not Available"
-Electromagnetic"	0¨RF
-œ@" Ý" ÿ /$ 
- 	
-	"	ºþ	îx
+ "	†@¾>îx
 manhole(€ idID_CodeLocation_NameBranch_Name	MaterialsCovered
 Cover_type	Content_1	Content_2	Content_3Provide_comment_if_necessaryAltitude"
  "
@@ -5161,4 +5141,24 @@ GcMB"	†9 '
  lI`B"	¤Ž@) j(
 IJ	E
 Gc_B"	úè@) i+) IJ	K
-GcNB"	úø@
+GcNB"	úø@½x
+water_meter(€ idID_CodeMeter_Location_NameBranch_NameSerial_NumberMeter_Manufacturer
+Meter_TypeMeter_FunctionPhysical_Status_of_MeterMeter_sealingMeter_screen_statusMeter_PositionMeter_Index_StatusMeter_Current_Index_ReadingInlet_Pipe_Connection_DiameterDMA_CodeProvide_comments_if_necessaryAltitude"
+DMA"
+Yes"
+<Null>"
+Normal"	
+Byimana"	
+Ruhango"
+
+Readable"
+	BYINYAWM1"
+
+110 (4 '')"
+DMA out flow"
+NOT AVAILABLE"
+Not Available"
+Electromagnetic"	0¨RF
+œ@" Ý" ÿ /$ 
+ 	
+	"	ºþ	
