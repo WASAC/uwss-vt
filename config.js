@@ -11,7 +11,7 @@ module.exports = {
     name: 'WASAC Vector tiles',
     description: 'Vector tiles for water data in WASAC, Rwanda',
     attribution: '©Water and Sanitation Corporation, Ltd.',
-    mbtiles: __dirname + '/data/data.mbtiles',
+    mbtiles: __dirname + '/data/uwss.mbtiles',
     ghpages: __dirname + '/public/tiles',
     createPmtiles: true,
     minzoom: 9,

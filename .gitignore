@@ -2,6 +2,8 @@ public/tiles
 *.mbtiles
 *.pmtiles
 *.geojson
+!data/*.mbtiles
+!data/*.pmtiles
 
 # Logs
 logs
