@@ -907,7 +907,7 @@ module.exports = {
                 SELECT
                   14 as maxzoom,
                   12 as minzoom,
-                  'fire_hydrant' as layer
+                  'water_meter' as layer
               ) AS t
             )) AS tippecanoe,
             row_to_json((
@@ -961,7 +961,7 @@ module.exports = {
                 SELECT
                   14 as maxzoom,
                   12 as minzoom,
-                  'fire_hydrant' as layer
+                  'water_meter' as layer
               ) AS t
             )) AS tippecanoe,
             row_to_json((
