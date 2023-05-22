@@ -33,7 +33,7 @@ module.exports = {
                 SELECT t FROM (
                   SELECT
                   14 as maxzoom,
-                  9 as minzoom,
+                  10 as minzoom,
                   'pipeline' as layer
                 ) AS t
                 )) AS tippecanoe,
@@ -81,7 +81,7 @@ module.exports = {
               SELECT t FROM (
                 SELECT
                 14 as maxzoom,
-                10 as minzoom,
+                11 as minzoom,
                 'pipeline' as layer
               ) AS t
               )) AS tippecanoe,
@@ -177,7 +177,7 @@ module.exports = {
               SELECT t FROM (
                 SELECT
                 14 as maxzoom,
-                9 as minzoom,
+                10 as minzoom,
                 'pipeline' as layer
               ) AS t
               )) AS tippecanoe,
@@ -225,7 +225,7 @@ module.exports = {
             SELECT t FROM (
               SELECT
               14 as maxzoom,
-              10 as minzoom,
+              11 as minzoom,
               'pipeline' as layer
             ) AS t
             )) AS tippecanoe,
