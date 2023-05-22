@@ -18,8 +18,8 @@ module.exports = {
     maxzoom: 14,
     layers : [
         {
-            name: 'Kigali_Pipeline',
-            geojsonFileName: __dirname + '/Kigali_Pipeline.geojson',
+            name: 'Kigali_Primary_Pipeline',
+            geojsonFileName: __dirname + '/Kigali_Primary_Pipeline.geojson',
             select: `
             SELECT row_to_json(featurecollection) AS json FROM (
               SELECT
@@ -60,13 +60,110 @@ module.exports = {
                 )) AS properties
               FROM uwss_assets."Kigali_Pipeline" x
               WHERE NOT ST_IsEmpty(x.geom)
+              AND "Pipeline_Category" = 'Primary Pipes'
               ) AS feature
             ) AS featurecollection
             `
         },
         {
-          name: 'Upcountry_Pipeline',
-          geojsonFileName: __dirname + '/Upcountry_Pipeline.geojson',
+          name: 'Kigali_Secondary_Pipeline',
+          geojsonFileName: __dirname + '/Kigali_Secondary_Pipeline.geojson',
+          select: `
+          SELECT row_to_json(featurecollection) AS json FROM (
+            SELECT
+            'FeatureCollection' AS type,
+            array_to_json(array_agg(feature)) AS features
+            FROM (
+            SELECT
+              'Feature' AS type,
+              ST_AsGeoJSON(ST_MakeValid(x.geom))::json AS geometry,
+              row_to_json((
+              SELECT t FROM (
+                SELECT
+                14 as maxzoom,
+                10 as minzoom,
+                'pipeline' as layer
+              ) AS t
+              )) AS tippecanoe,
+              row_to_json((
+              SELECT p FROM (
+                SELECT
+                "OBJECTID" as id, 
+                "From_name_To_name", 
+                "Branch_Name", 
+                "Diameter", 
+                "Connected_to", 
+                "Pipeline_Material", 
+                "Pipeline_Category", 
+                "Nominal_Pressure", 
+                "Depth", 
+                "Roughness", 
+                "Thickness_mm", 
+                "Action_on_pipeline", 
+                "Year_of_Laying", 
+                "Company_that_layed_the_pipe", 
+                "Street_Number", 
+                "Provide_comment_if_necessary"
+              ) AS p
+              )) AS properties
+            FROM uwss_assets."Kigali_Pipeline" x
+            WHERE NOT ST_IsEmpty(x.geom)
+            AND "Pipeline_Category" = 'Secondary Pipes'
+            ) AS feature
+          ) AS featurecollection
+          `
+        },
+        {
+          name: 'Kigali_Other_Pipeline',
+          geojsonFileName: __dirname + '/Kigali_Other_Pipeline.geojson',
+          select: `
+          SELECT row_to_json(featurecollection) AS json FROM (
+            SELECT
+            'FeatureCollection' AS type,
+            array_to_json(array_agg(feature)) AS features
+            FROM (
+            SELECT
+              'Feature' AS type,
+              ST_AsGeoJSON(ST_MakeValid(x.geom))::json AS geometry,
+              row_to_json((
+              SELECT t FROM (
+                SELECT
+                14 as maxzoom,
+                12 as minzoom,
+                'pipeline' as layer
+              ) AS t
+              )) AS tippecanoe,
+              row_to_json((
+              SELECT p FROM (
+                SELECT
+                "OBJECTID" as id, 
+                "From_name_To_name", 
+                "Branch_Name", 
+                "Diameter", 
+                "Connected_to", 
+                "Pipeline_Material", 
+                "Pipeline_Category", 
+                "Nominal_Pressure", 
+                "Depth", 
+                "Roughness", 
+                "Thickness_mm", 
+                "Action_on_pipeline", 
+                "Year_of_Laying", 
+                "Company_that_layed_the_pipe", 
+                "Street_Number", 
+                "Provide_comment_if_necessary"
+              ) AS p
+              )) AS properties
+            FROM uwss_assets."Kigali_Pipeline" x
+            WHERE NOT ST_IsEmpty(x.geom)
+            AND "Pipeline_Category" NOT IN ('Primary Pipes', 'Secondary Pipes')
+            ) AS feature
+          ) AS featurecollection
+          `
+        },
+        {
+          name: 'Upcountry_Primary_Pipeline',
+          geojsonFileName: __dirname + '/Upcountry_Primary_Pipeline.geojson',
           select: `
           SELECT row_to_json(featurecollection) AS json FROM (
             SELECT
@@ -107,9 +204,106 @@ module.exports = {
               )) AS properties
             FROM uwss_assets."Upcountry_Pipeline" x
             WHERE NOT ST_IsEmpty(x.geom)
+            AND "Pipeline_Category" = 'Primary Pipes'
             ) AS feature
           ) AS featurecollection
           `
+      },
+      {
+        name: 'Upcountry_Secondary_Pipeline',
+        geojsonFileName: __dirname + '/Upcountry_Secondary_Pipeline.geojson',
+        select: `
+        SELECT row_to_json(featurecollection) AS json FROM (
+          SELECT
+          'FeatureCollection' AS type,
+          array_to_json(array_agg(feature)) AS features
+          FROM (
+          SELECT
+            'Feature' AS type,
+            ST_AsGeoJSON(ST_MakeValid(x.geom))::json AS geometry,
+            row_to_json((
+            SELECT t FROM (
+              SELECT
+              14 as maxzoom,
+              10 as minzoom,
+              'pipeline' as layer
+            ) AS t
+            )) AS tippecanoe,
+            row_to_json((
+            SELECT p FROM (
+              SELECT
+              "OBJECTID" as id, 
+              "From_name_To_name", 
+              "Branch_Name", 
+              "Diameter", 
+              "Connected_to", 
+              "Pipeline_Material", 
+              "Pipeline_Category", 
+              "Nominal_Pressure", 
+              "Depth", 
+              "Roughness", 
+              "Thickness_mm", 
+              "Action_on_pipeline", 
+              "Year_of_Laying", 
+              "Company_that_layed_the_pipe", 
+              "Street_Number", 
+              "Provide_comment_if_necessary"
+            ) AS p
+            )) AS properties
+          FROM uwss_assets."Upcountry_Pipeline" x
+          WHERE NOT ST_IsEmpty(x.geom)
+          AND "Pipeline_Category" = 'Secondary Pipes'
+          ) AS feature
+        ) AS featurecollection
+        `
+      },
+      {
+        name: 'Upcountry_Other_Pipeline',
+        geojsonFileName: __dirname + '/Upcountry_Other_Pipeline.geojson',
+        select: `
+        SELECT row_to_json(featurecollection) AS json FROM (
+          SELECT
+          'FeatureCollection' AS type,
+          array_to_json(array_agg(feature)) AS features
+          FROM (
+          SELECT
+            'Feature' AS type,
+            ST_AsGeoJSON(ST_MakeValid(x.geom))::json AS geometry,
+            row_to_json((
+            SELECT t FROM (
+              SELECT
+              14 as maxzoom,
+              12 as minzoom,
+              'pipeline' as layer
+            ) AS t
+            )) AS tippecanoe,
+            row_to_json((
+            SELECT p FROM (
+              SELECT
+              "OBJECTID" as id, 
+              "From_name_To_name", 
+              "Branch_Name", 
+              "Diameter", 
+              "Connected_to", 
+              "Pipeline_Material", 
+              "Pipeline_Category", 
+              "Nominal_Pressure", 
+              "Depth", 
+              "Roughness", 
+              "Thickness_mm", 
+              "Action_on_pipeline", 
+              "Year_of_Laying", 
+              "Company_that_layed_the_pipe", 
+              "Street_Number", 
+              "Provide_comment_if_necessary"
+            ) AS p
+            )) AS properties
+          FROM uwss_assets."Upcountry_Pipeline" x
+          WHERE NOT ST_IsEmpty(x.geom)
+          AND "Pipeline_Category" NOT IN ('Primary Pipes', 'Secondary Pipes')
+          ) AS feature
+        ) AS featurecollection
+        `
       },
       {
         name: 'Kigali_Customers_all',
